@@ -6,20 +6,32 @@ interface SubscribeFormProps {
   variant?: "default" | "compact";
 }
 
+const subscribeEndpoint =
+  process.env.NEXT_PUBLIC_SUBSCRIBE_ENDPOINT ??
+  (process.env.NODE_ENV === "development" ? "/api/subscribe" : "");
+
 export function SubscribeForm({ variant = "default" }: SubscribeFormProps) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
+  const [errorMessage, setErrorMessage] = useState("请输入有效的邮箱地址");
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!email || !email.includes("@")) {
+      setErrorMessage("请输入有效的邮箱地址");
+      setStatus("error");
+      return;
+    }
+
+    if (!subscribeEndpoint) {
+      setErrorMessage("当前静态站点未配置订阅服务，请稍后再试。");
       setStatus("error");
       return;
     }
 
     setStatus("loading");
     try {
-      const res = await fetch("/api/subscribe", {
+      const res = await fetch(subscribeEndpoint, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email }),
@@ -29,9 +41,11 @@ export function SubscribeForm({ variant = "default" }: SubscribeFormProps) {
         setStatus("success");
         setEmail("");
       } else {
+        setErrorMessage("订阅失败，请稍后再试。");
         setStatus("error");
       }
     } catch {
+      setErrorMessage("订阅失败，请稍后再试。");
       setStatus("error");
     }
   }
@@ -86,7 +100,7 @@ export function SubscribeForm({ variant = "default" }: SubscribeFormProps) {
         </button>
       </div>
       {status === "error" && (
-        <p className="mt-2 text-sm text-rose-600">请输入有效的邮箱地址</p>
+        <p className="mt-2 text-sm text-rose-600">{errorMessage}</p>
       )}
       <p className="mt-3 text-center text-xs text-slate-500">
         每周一封，分享 AI 实战技巧。随时可取消订阅。
