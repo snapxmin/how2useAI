@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { Breadcrumb } from "@/components/RelatedArticles";
 import { BreakingNews } from "@/components/news/BreakingNews";
 import { InsightGrid } from "@/components/news/InsightGrid";
-import { NewsCategoryNav } from "@/components/news/NewsCategoryNav";
-import { NewsFeed } from "@/components/news/NewsFeed";
+import {
+  FilteredNewsFeed,
+  NewsCategoryFilter,
+} from "@/components/news/NewsListing";
 import { NewsHero } from "@/components/news/NewsHero";
 import { WeeklyTopic } from "@/components/news/WeeklyTopic";
 import { SubscribeForm } from "@/components/SubscribeForm";
@@ -14,7 +17,6 @@ import {
   resolveFeaturedInsights,
 } from "@/lib/insights";
 import {
-  filterNewsByCategory,
   getAllNews,
   getBreakingNewsFromItems,
   getNewsCategoriesFromItems,
@@ -26,17 +28,9 @@ export const metadata: Metadata = {
     "精选 AI 快讯、大厂关键技术、产品变化与行业趋势解读",
 };
 
-interface NewsPageProps {
-  searchParams: { category?: string };
-}
-
-export default function NewsPage({ searchParams }: NewsPageProps) {
+export default function NewsPage() {
   const allNews = getAllNews();
   const categories = getNewsCategoriesFromItems(allNews);
-  const activeCategory = categories.includes(searchParams.category ?? "")
-    ? searchParams.category!
-    : "全部";
-  const filteredNews = filterNewsByCategory(allNews, activeCategory);
   const allInsights = getAllInsights();
   const allGuides = getAllGuides();
   const config = getFeaturedConfig();
@@ -61,10 +55,9 @@ export default function NewsPage({ searchParams }: NewsPageProps) {
           </div>
 
           <div className="mt-7">
-            <NewsCategoryNav
-              categories={categories}
-              activeCategory={activeCategory}
-            />
+            <Suspense fallback={<div className="h-10 animate-pulse rounded-full bg-slate-200" />}>
+              <NewsCategoryFilter categories={categories} />
+            </Suspense>
           </div>
 
           <div className="mt-8 grid gap-5 lg:grid-cols-[minmax(0,1.7fr)_minmax(18rem,1fr)]">
@@ -86,7 +79,13 @@ export default function NewsPage({ searchParams }: NewsPageProps) {
             <section>
               <h2 className="text-2xl font-bold text-slate-950">最新资讯</h2>
               <div className="mt-5">
-                <NewsFeed items={filteredNews} />
+                <Suspense
+                  fallback={
+                    <div className="h-64 animate-pulse rounded-xl bg-slate-200" />
+                  }
+                >
+                  <FilteredNewsFeed allNews={allNews} categories={categories} />
+                </Suspense>
               </div>
             </section>
             <aside>

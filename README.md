@@ -7,7 +7,7 @@
 - **框架**: Next.js 14 (App Router)
 - **内容**: MDX + Markdown (gray-matter + next-mdx-remote)
 - **样式**: Tailwind CSS + @tailwindcss/typography
-- **部署**: Vercel
+- **部署**: Vercel / GitHub Pages
 
 ## 快速开始
 
@@ -54,11 +54,32 @@ featured: false
 
 ## 部署
 
+### Vercel
+
 ```bash
 npm run build
 ```
 
 推送到 GitHub 后，在 Vercel 导入项目即可自动部署。
+
+### GitHub Pages
+
+项目已配置 GitHub Actions 工作流（`.github/workflows/deploy-pages.yml`），推送到 `main` 分支后会自动构建并部署到 GitHub Pages。
+
+**首次启用步骤：**
+
+1. 打开仓库 **Settings → Pages**
+2. 在 **Build and deployment → Source** 中选择 **GitHub Actions**
+3. 将更改合并到 `main` 分支，等待工作流完成
+
+部署地址：`https://snapxmin.github.io/how2useAI/`
+
+本地预览 GitHub Pages 构建：
+
+```bash
+GITHUB_PAGES=true NEXT_PUBLIC_SITE_URL=https://snapxmin.github.io/how2useAI NEXT_PUBLIC_STATIC_EXPORT=true npm run build:pages
+npx serve out
+```
 
 ## 许可证
 

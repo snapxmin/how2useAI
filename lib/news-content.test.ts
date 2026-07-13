@@ -42,7 +42,7 @@ describe("AI news content", () => {
     const pageSource = fs.readFileSync(pagePath, "utf8");
     expect(pageSource).toContain("截至 2026 年 7 月 13 日");
     expect(pageSource).toContain("联网核验");
-    expect(pageSource).toContain("NewsCategoryNav");
+    expect(pageSource).toContain("NewsCategoryFilter");
     expect(pageSource).toContain("NewsHero");
     expect(pageSource).toContain("BreakingNews");
   });

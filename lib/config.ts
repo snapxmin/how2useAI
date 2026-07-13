@@ -1,10 +1,16 @@
 import type { Metadata } from "next";
 
+const defaultSiteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL ??
+  (process.env.GITHUB_PAGES === "true"
+    ? "https://snapxmin.github.io/how2useAI"
+    : "https://ai-how-to-use.vercel.app");
+
 export const siteConfig = {
   name: "如何用好AI",
   description:
     "中文场景下，帮不同角色把 AI 真正用起来 — 实战指南、工具评测、Prompt 库与学习路径",
-  url: "https://ai-how-to-use.vercel.app",
+  url: defaultSiteUrl,
   ogImage: "/og-image.png",
   links: {
     github: "https://github.com",

@@ -6,6 +6,9 @@ interface SubscribeFormProps {
   variant?: "default" | "compact";
 }
 
+const isStaticExport = process.env.NEXT_PUBLIC_STATIC_EXPORT === "true";
+const subscribeEmail = "subscribe@example.com";
+
 export function SubscribeForm({ variant = "default" }: SubscribeFormProps) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
@@ -14,6 +17,13 @@ export function SubscribeForm({ variant = "default" }: SubscribeFormProps) {
     e.preventDefault();
     if (!email || !email.includes("@")) {
       setStatus("error");
+      return;
+    }
+
+    if (isStaticExport) {
+      window.location.href = `mailto:${subscribeEmail}?subject=${encodeURIComponent("订阅如何用好AI")}&body=${encodeURIComponent(`请将我加入邮件列表：${email}`)}`;
+      setStatus("success");
+      setEmail("");
       return;
     }
 
