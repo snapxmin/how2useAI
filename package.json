@@ -9,7 +9,10 @@
     "start": "next start",
     "lint": "next lint",
     "test": "vitest run",
-    "fetch-news": "tsx scripts/fetch-ai-news.ts"
+    "fetch-news": "tsx scripts/fetch-ai-news.ts",
+    "guides:next": "node scripts/get-next-developer-guides.mjs",
+    "guides:prompt": "node scripts/get-next-developer-guides.mjs --prompt",
+    "guides:trigger": "node scripts/trigger-daily-developer-guides.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

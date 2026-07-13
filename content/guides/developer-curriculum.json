@@ -1,0 +1,1452 @@
+{
+  "version": 1,
+  "role": "developer",
+  "articlesPerDay": 3,
+  "schedule": {
+    "time": "17:00",
+    "timezone": "Asia/Shanghai",
+    "cronUtc": "0 9 * * *"
+  },
+  "totalArticles": 90,
+  "articles": [
+    {
+      "slug": "cursor-setup",
+      "title": "Cursor 安装与项目导入",
+      "description": "从零安装 Cursor，导入 VS Code 配置，完成第一个项目打开",
+      "day": 1,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "入门"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "published",
+      "publishedSlug": "cursor-beginner-guide"
+    },
+    {
+      "slug": "cursor-tab-completion",
+      "title": "Tab 补全实战：让 AI 预测你的下一行代码",
+      "description": "注释驱动补全、多行预测、接受与拒绝技巧",
+      "day": 1,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "补全"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-inline-edit",
+      "title": "Ctrl+K 内联编辑：用自然语言改代码",
+      "description": "选中代码块、描述修改意图、迭代优化",
+      "day": 1,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "编辑"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-agent-intro",
+      "title": "Agent 模式入门：描述需求，AI 自动写代码",
+      "description": "任务描述结构、@引用文件、观察 Agent 执行过程",
+      "day": 2,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "Agent"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-rules-basics",
+      "title": "项目规则配置：让 AI 懂你的代码规范",
+      "description": ".cursor/rules 编写、团队约定、语言框架偏好",
+      "day": 2,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "规则"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-model-selection",
+      "title": "模型选择策略：Sonnet、Opus、GPT 怎么选",
+      "description": "按任务选模型、成本与质量平衡、Max Mode 使用场景",
+      "day": 2,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "模型"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "copilot-vs-cursor",
+      "title": "GitHub Copilot vs Cursor：该用哪个",
+      "description": "补全 vs Agent、场景对比、组合使用策略",
+      "day": 3,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "selection",
+      "tags": [
+        "Copilot",
+        "Cursor"
+      ],
+      "tools": [
+        "Copilot",
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-chat-in-ide",
+      "title": "IDE 内对话编程：问问题、查文档、解 Bug",
+      "description": "Chat 面板使用、上下文引用、避免幻觉",
+      "day": 3,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "对话"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-debugging-basics",
+      "title": "AI 辅助调试：从报错到修复",
+      "description": "粘贴错误日志、定位根因、验证修复",
+      "day": 3,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "调试",
+        "Cursor"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-test-generation",
+      "title": "用 AI 写单元测试",
+      "description": "Vitest/Jest 测试生成、边界用例、Mock 策略",
+      "day": 4,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "测试",
+        "Cursor"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-refactoring",
+      "title": "AI 辅助重构：安全地改老代码",
+      "description": "小步重构、保持行为不变、回归验证",
+      "day": 4,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "重构",
+        "Cursor"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-doc-generation",
+      "title": "自动生成代码文档与注释",
+      "description": "JSDoc、README、API 文档生成最佳实践",
+      "day": 4,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "文档",
+        "Cursor"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "claude-code-intro",
+      "title": "Claude Code 入门：终端里的 AI 编程助手",
+      "description": "安装配置、基本命令、与 IDE 配合",
+      "day": 5,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Claude Code",
+        "入门"
+      ],
+      "tools": [
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "claude-code-workflow",
+      "title": "Claude Code 工作流：从需求到 PR",
+      "description": "任务分解、文件操作、Git 集成",
+      "day": 5,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Claude Code",
+        "工作流"
+      ],
+      "tools": [
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "claude-code-multi-file",
+      "title": "Claude Code 多文件编辑实战",
+      "description": "跨文件重构、依赖追踪、批量修改",
+      "day": 5,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Claude Code",
+        "多文件"
+      ],
+      "tools": [
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "codex-intro",
+      "title": "OpenAI Codex 入门：云端 AI 编程",
+      "description": "Codex 能力概览、与 ChatGPT 的关系、适用场景",
+      "day": 6,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Codex",
+        "入门"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "codex-cloud-sandbox",
+      "title": "Codex 云端沙箱开发",
+      "description": "环境配置、依赖安装、运行与调试",
+      "day": 6,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Codex",
+        "沙箱"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "codex-api-patterns",
+      "title": "Codex API 集成模式",
+      "description": "API 调用、流式输出、错误处理",
+      "day": 6,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "Codex",
+        "API"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "week1-tool-matrix",
+      "title": "AI 编程工具选型矩阵",
+      "description": "Cursor/Copilot/Claude Code/Codex 对比表与决策树",
+      "day": 7,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "selection",
+      "tags": [
+        "选型",
+        "对比"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "week1-first-project",
+      "title": "7 天入门挑战：完成一个小功能",
+      "description": "综合练习：从需求到测试的完整 Agent 任务",
+      "day": 7,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "coding",
+      "tags": [
+        "实战",
+        "挑战"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "week1-review",
+      "title": "第 1 周复盘：建立你的 AI 编程习惯",
+      "description": "每日练习清单、常见坑、进阶路线预览",
+      "day": 7,
+      "phase": "7d",
+      "level": "入门",
+      "scene": "getting-started",
+      "tags": [
+        "复盘",
+        "入门"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "agent-task-planning",
+      "title": "Agent 任务规划：写好 Prompt 让 AI 一次做对",
+      "description": "任务拆解、约束条件、验收标准",
+      "day": 8,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "task-planning",
+      "tags": [
+        "Agent",
+        "Prompt"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "agent-context-management",
+      "title": "上下文管理：@文件、@代码库、@文档",
+      "description": "精准引用、减少 token 浪费、提高准确率",
+      "day": 8,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Agent",
+        "上下文"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "agent-parallel-tasks",
+      "title": "并行 Agent 任务：多模块同时开发",
+      "description": "任务隔离、依赖顺序、合并策略",
+      "day": 8,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Agent",
+        "并行"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "claude-code-skills",
+      "title": "Claude Code Skills：可复用的 AI 能力模块",
+      "description": "Skill 创建、触发条件、团队共享",
+      "day": 9,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Claude Code",
+        "Skills"
+      ],
+      "tools": [
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "claude-code-hooks",
+      "title": "Claude Code Hooks：自动化工作流触发",
+      "description": "Git hooks、CI 集成、自定义脚本",
+      "day": 9,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Claude Code",
+        "Hooks"
+      ],
+      "tools": [
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "claude-code-mcp",
+      "title": "Claude Code + MCP：扩展 AI 工具能力",
+      "description": "MCP 服务器配置、工具调用、实战案例",
+      "day": 9,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "rag",
+      "tags": [
+        "Claude Code",
+        "MCP"
+      ],
+      "tools": [
+        "Claude Code",
+        "MCP"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "codex-agent-mode",
+      "title": "Codex Agent 模式：自主完成复杂任务",
+      "description": "多步推理、工具调用、任务监控",
+      "day": 10,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Codex",
+        "Agent"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "codex-pr-review",
+      "title": "Codex 辅助 PR 审查",
+      "description": "Diff 分析、安全扫描、改进建议",
+      "day": 10,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "code-review",
+      "tags": [
+        "Codex",
+        "审查"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "codex-multi-repo",
+      "title": "Codex 多仓库协作",
+      "description": "Monorepo、跨项目依赖、统一规范",
+      "day": 10,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Codex",
+        "多仓库"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-background-agent",
+      "title": "Cursor Background Agent 后台任务",
+      "description": "长时间任务、Cloud Agent、异步开发",
+      "day": 11,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "Cloud Agent"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-cloud-automation",
+      "title": "Cursor 自动化：定时任务与 CI 集成",
+      "description": "Automations 配置、GitHub 触发、Webhook",
+      "day": 11,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "自动化"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-composer-workflow",
+      "title": "Composer 多文件编辑工作流",
+      "description": "批量修改、diff 审查、回滚策略",
+      "day": 11,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "Composer"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-code-review-workflow",
+      "title": "AI 代码审查工作流搭建",
+      "description": "审查清单、自动化触发、人工复核",
+      "day": 12,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "code-review",
+      "tags": [
+        "审查",
+        "工作流"
+      ],
+      "tools": [],
+      "status": "published",
+      "publishedSlug": "ai-code-review"
+    },
+    {
+      "slug": "ai-security-scan",
+      "title": "AI 辅助安全扫描",
+      "description": "漏洞模式识别、依赖审计、修复建议",
+      "day": 12,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "code-review",
+      "tags": [
+        "安全",
+        "审查"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-performance-review",
+      "title": "AI 性能审查：发现瓶颈与优化点",
+      "description": "Profiling 解读、算法优化、内存泄漏",
+      "day": 12,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "code-review",
+      "tags": [
+        "性能",
+        "审查"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "prompt-engineering-dev",
+      "title": "面向开发的 Prompt 工程",
+      "description": "系统提示、Few-shot、Chain-of-Thought",
+      "day": 13,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "prompt",
+      "tags": [
+        "Prompt",
+        "开发"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-pair-programming",
+      "title": "AI 结对编程最佳实践",
+      "description": "节奏控制、信任边界、何时接管",
+      "day": 13,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "结对编程",
+        "实践"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-legacy-migration",
+      "title": "AI 辅助遗留系统迁移",
+      "description": "语言升级、框架迁移、渐进式改造",
+      "day": 13,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "迁移",
+        "遗留系统"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "week2-integration",
+      "title": "第 2 周综合：多工具协作开发一个功能",
+      "description": "Cursor + Claude Code + Codex 组合实战",
+      "day": 14,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "实战",
+        "协作"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "week2-agent-debug",
+      "title": "Agent 调试技巧：当 AI 做错时怎么办",
+      "description": "回滚、重试、缩小范围、人工介入",
+      "day": 14,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "coding",
+      "tags": [
+        "调试",
+        "Agent"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "week2-review",
+      "title": "第 2 周复盘：Agent 工作流成熟度自评",
+      "description": "能力清单、进阶缺口、工程化预告",
+      "day": 14,
+      "phase": "14d",
+      "level": "进阶",
+      "scene": "getting-started",
+      "tags": [
+        "复盘",
+        "进阶"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "rag-dev-intro",
+      "title": "开发者视角的 RAG 入门",
+      "description": "检索增强生成原理、适用场景、架构概览",
+      "day": 15,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "RAG",
+        "入门"
+      ],
+      "tools": [],
+      "status": "published",
+      "publishedSlug": "rag-introduction"
+    },
+    {
+      "slug": "rag-vector-db",
+      "title": "向量数据库选型与接入",
+      "description": "Chroma、Pinecone、pgvector 对比与实战",
+      "day": 15,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "RAG",
+        "向量库"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "rag-chunking-strategy",
+      "title": "文档分块策略：让检索更精准",
+      "description": "分块大小、重叠、语义边界、元数据",
+      "day": 15,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "RAG",
+        "分块"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "rag-embedding-models",
+      "title": "Embedding 模型选择与优化",
+      "description": "中英文模型、维度、成本、质量对比",
+      "day": 16,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "RAG",
+        "Embedding"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "rag-evaluation",
+      "title": "RAG 系统评估与迭代",
+      "description": "召回率、准确率、人工评测、A/B 测试",
+      "day": 16,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "RAG",
+        "评估"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "mcp-architecture",
+      "title": "MCP 协议架构深度解析",
+      "description": "Server/Client、工具发现、权限模型",
+      "day": 16,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "MCP",
+        "架构"
+      ],
+      "tools": [
+        "MCP"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "mcp-custom-server",
+      "title": "自建 MCP Server 实战",
+      "description": "TypeScript/Python 实现、发布与调试",
+      "day": 17,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "MCP",
+        "开发"
+      ],
+      "tools": [
+        "MCP"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "mcp-cursor-integration",
+      "title": "Cursor MCP 集成：连接内部系统",
+      "description": "数据库、API、文档系统集成案例",
+      "day": 17,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "MCP",
+        "Cursor"
+      ],
+      "tools": [
+        "MCP",
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "mcp-claude-code-integration",
+      "title": "Claude Code MCP 工具链",
+      "description": "终端工具扩展、企业内网接入",
+      "day": 17,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "MCP",
+        "Claude Code"
+      ],
+      "tools": [
+        "MCP",
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-ci-pipeline",
+      "title": "AI 增强的 CI/CD 流水线",
+      "description": "自动测试生成、PR 摘要、部署检查",
+      "day": 18,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "CI/CD",
+        "自动化"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-monorepo-governance",
+      "title": "Monorepo 中的 AI 工程规范",
+      "description": "统一规则、共享 Prompt、跨包重构",
+      "day": 18,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "Monorepo",
+        "规范"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-api-design",
+      "title": "AI 辅助 API 设计与实现",
+      "description": "OpenAPI 生成、版本管理、向后兼容",
+      "day": 18,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "API",
+        "设计"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-database-migration",
+      "title": "AI 辅助数据库迁移",
+      "description": "Schema 变更、数据迁移脚本、回滚方案",
+      "day": 19,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "数据库",
+        "迁移"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-observability",
+      "title": "AI 应用的可观测性",
+      "description": "日志、追踪、成本监控、质量指标",
+      "day": 19,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "可观测性",
+        "工程化"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-cost-optimization",
+      "title": "AI 编程成本优化",
+      "description": "Token 预算、模型降级、缓存策略",
+      "day": 19,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "成本",
+        "优化"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-team-rules",
+      "title": "团队 AI 编程规范制定",
+      "description": "Code Review 标准、规则模板、培训体系",
+      "day": 20,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "团队",
+        "规范"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-knowledge-base",
+      "title": "团队知识库 + RAG 搭建",
+      "description": "内部文档索引、问答机器人、更新策略",
+      "day": 20,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "知识库",
+        "团队"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-incident-response",
+      "title": "AI 辅助故障排查",
+      "description": "日志分析、根因定位、修复验证",
+      "day": 20,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "故障",
+        "运维"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-feature-flags",
+      "title": "AI 辅助功能开关与灰度",
+      "description": "A/B 配置、渐进发布、回滚自动化",
+      "day": 21,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "灰度",
+        "发布"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "production-rag-deploy",
+      "title": "RAG 系统生产部署",
+      "description": "容器化、扩缩容、延迟优化、缓存",
+      "day": 21,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "RAG",
+        "部署"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "production-agent-guardrails",
+      "title": "生产级 Agent 安全护栏",
+      "description": "权限控制、输出过滤、人工审批",
+      "day": 21,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "Agent",
+        "安全"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "production-evaluation",
+      "title": "生产环境 AI 质量监控",
+      "description": "自动化评测、回归测试、漂移检测",
+      "day": 22,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "质量",
+        "监控"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "enterprise-cursor-setup",
+      "title": "企业级 Cursor 部署与治理",
+      "description": "SSO、审计日志、用量管理",
+      "day": 22,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "landing",
+      "tags": [
+        "企业",
+        "Cursor"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "enterprise-claude-code",
+      "title": "企业级 Claude Code 实践",
+      "description": "合规要求、数据隔离、团队模板",
+      "day": 22,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "landing",
+      "tags": [
+        "企业",
+        "Claude Code"
+      ],
+      "tools": [
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "enterprise-codex-governance",
+      "title": "企业级 Codex 使用治理",
+      "description": "API 密钥管理、配额、审计",
+      "day": 23,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "landing",
+      "tags": [
+        "企业",
+        "Codex"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-opensource-contrib",
+      "title": "AI 辅助开源贡献",
+      "description": "Issue 分析、PR 撰写、社区规范",
+      "day": 23,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "开源",
+        "贡献"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-mobile-dev",
+      "title": "AI 辅助移动端开发",
+      "description": "React Native、Flutter、原生 SDK 场景",
+      "day": 23,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "移动端",
+        "开发"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-frontend-patterns",
+      "title": "AI 前端开发模式",
+      "description": "组件生成、状态管理、样式系统",
+      "day": 24,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "前端",
+        "开发"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-backend-patterns",
+      "title": "AI 后端开发模式",
+      "description": "API、中间件、微服务、消息队列",
+      "day": 24,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "后端",
+        "开发"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-fullstack-project",
+      "title": "全栈项目：AI 工程化综合实战",
+      "description": "从设计到部署的完整 AI 辅助开发流程",
+      "day": 24,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "全栈",
+        "实战"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-engineering-certification",
+      "title": "AI 工程化能力自测清单",
+      "description": "30 天学习成果验收、进阶方向",
+      "day": 25,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "getting-started",
+      "tags": [
+        "认证",
+        "复盘"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-future-trends",
+      "title": "AI 编程趋势与持续学习",
+      "description": "新工具跟踪、社区资源、学习路径",
+      "day": 25,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "getting-started",
+      "tags": [
+        "趋势",
+        "学习"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "cursor-advanced-tips",
+      "title": "Cursor 高级技巧合集",
+      "description": "快捷键、隐藏功能、效率倍增",
+      "day": 25,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "Cursor",
+        "技巧"
+      ],
+      "tools": [
+        "Cursor"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "claude-code-advanced",
+      "title": "Claude Code 高级用法",
+      "description": "子代理、自定义命令、性能优化",
+      "day": 26,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "Claude Code",
+        "高级"
+      ],
+      "tools": [
+        "Claude Code"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "codex-advanced-patterns",
+      "title": "Codex 高级开发模式",
+      "description": "复杂项目、多语言、企业集成",
+      "day": 26,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "Codex",
+        "高级"
+      ],
+      "tools": [
+        "Codex"
+      ],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-testing-strategy",
+      "title": "AI 时代的测试策略",
+      "description": "测试金字塔、AI 生成 vs 人工、覆盖率",
+      "day": 26,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "测试",
+        "策略"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-documentation-system",
+      "title": "AI 驱动的文档体系",
+      "description": "活文档、自动同步、多语言",
+      "day": 27,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "文档",
+        "体系"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-onboarding-guide",
+      "title": "新成员 AI 编程上手手册",
+      "description": "环境配置、第一周任务、导师制度",
+      "day": 27,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "landing",
+      "tags": [
+        "入职",
+        "团队"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-retrospective",
+      "title": "AI 工程化复盘模板",
+      "description": "月度回顾、ROI 测算、改进计划",
+      "day": 27,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "landing",
+      "tags": [
+        "复盘",
+        "ROI"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "graduation-project",
+      "title": "毕业项目：独立搭建 AI 增强应用",
+      "description": "RAG + Agent + CI 的综合毕业挑战",
+      "day": 28,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "rag",
+      "tags": [
+        "毕业",
+        "项目"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "community-resources",
+      "title": "AI 编程社区与资源导航",
+      "description": "官方文档、优质博客、开源项目",
+      "day": 28,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "getting-started",
+      "tags": [
+        "社区",
+        "资源"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "troubleshooting-guide",
+      "title": "AI 编程常见问题排查手册",
+      "description": "连接失败、幻觉、超时、权限问题",
+      "day": 28,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "getting-started",
+      "tags": [
+        "排错",
+        "手册"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-ethics-dev",
+      "title": "开发者 AI 伦理与责任",
+      "description": "代码归属、隐私、偏见、透明性",
+      "day": 29,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "landing",
+      "tags": [
+        "伦理",
+        "责任"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-pair-with-design",
+      "title": "AI 与设计协作开发",
+      "description": "Figma to Code、设计系统、UI 还原",
+      "day": 29,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "设计",
+        "协作"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-local-models",
+      "title": "本地模型编程辅助",
+      "description": "Ollama、LM Studio、离线开发场景",
+      "day": 29,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "本地模型",
+        "离线"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-voice-coding",
+      "title": "语音编程与多模态输入",
+      "description": "语音转代码、截图理解、草图转 UI",
+      "day": 30,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "coding",
+      "tags": [
+        "多模态",
+        "语音"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "capstone-review",
+      "title": "30 天学习路径总复盘",
+      "description": "能力地图、作品集、下一步规划",
+      "day": 30,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "getting-started",
+      "tags": [
+        "总复盘",
+        "路径"
+      ],
+      "tools": [],
+      "status": "pending"
+    },
+    {
+      "slug": "ai-dev-tooling-2026",
+      "title": "2026 AI 开发工具全景图",
+      "description": "Cursor、Codex、Claude Code、Copilot 最新能力对比与选型建议",
+      "day": 30,
+      "phase": "30d",
+      "level": "精通",
+      "scene": "selection",
+      "tags": [
+        "选型",
+        "Cursor",
+        "Codex",
+        "Claude Code",
+        "Copilot"
+      ],
+      "tools": [
+        "Cursor",
+        "Codex",
+        "Claude Code",
+        "Copilot"
+      ],
+      "status": "pending"
+    }
+  ]
+}

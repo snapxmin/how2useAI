@@ -1,0 +1,37 @@
+{
+  "role": "developer",
+  "title": "开发编程 AI 学习路径",
+  "description": "从 7 天入门到 30 天 AI 工程化，覆盖 Cursor、Codex、Claude Code 等主流 AI 编程工具的最佳实践",
+  "articlesPerDay": 3,
+  "scheduleTime": "17:00",
+  "scheduleTimezone": "Asia/Shanghai",
+  "paths": [
+    {
+      "slug": "7d",
+      "days": 7,
+      "title": "7 天 AI 编程入门",
+      "description": "从 Copilot 到 Cursor，快速上手 AI 辅助开发",
+      "level": "入门",
+      "topics": ["Cursor 基础", "Tab 补全与内联编辑", "Agent 模式初体验", "项目规则配置"],
+      "estimatedHours": 5
+    },
+    {
+      "slug": "14d",
+      "days": 14,
+      "title": "14 天 Agent 实战",
+      "description": "Claude Code、Codex、多工具协作，构建你的第一个 AI Agent 工作流",
+      "level": "进阶",
+      "topics": ["Claude Code 终端编程", "Codex 云端开发", "多 Agent 协作", "调试与测试自动化"],
+      "estimatedHours": 12
+    },
+    {
+      "slug": "30d",
+      "days": 30,
+      "title": "30 天 AI 工程化",
+      "description": "RAG、MCP、CI/CD 集成、生产级部署，成为 AI 工程实践者",
+      "level": "精通",
+      "topics": ["RAG 系统搭建", "MCP 工具链", "代码审查自动化", "团队规范与治理"],
+      "estimatedHours": 25
+    }
+  ]
+}

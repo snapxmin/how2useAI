@@ -1,0 +1,60 @@
+name: Daily Developer Guides
+
+# 每天 17:00 北京时间（09:00 UTC）触发
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "生成文章数量"
+        required: false
+        default: "3"
+      phase:
+        description: "限定阶段 (7d/14d/30d，留空则按课程顺序)"
+        required: false
+        default: ""
+
+concurrency:
+  group: daily-developer-guides
+  cancel-in-progress: false
+
+jobs:
+  daily-guides:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Preview today's articles
+        run: |
+          ARGS="--count ${{ github.event.inputs.count || '3' }}"
+          if [ -n "${{ github.event.inputs.phase }}" ]; then
+            ARGS="$ARGS --phase ${{ github.event.inputs.phase }}"
+          fi
+          echo "## Today's developer guides" >> "$GITHUB_STEP_SUMMARY"
+          node scripts/get-next-developer-guides.mjs $ARGS | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Trigger Cursor Cloud Agent
+        id: trigger
+        continue-on-error: true
+        env:
+          CURSOR_API_KEY: ${{ secrets.CURSOR_API_KEY }}
+        run: node scripts/trigger-daily-developer-guides.mjs
+
+      - name: Setup instructions when API key is missing
+        if: steps.trigger.outcome == 'failure'
+        run: |
+          echo "::warning::Could not trigger Cursor Cloud Agent."
+          echo ""
+          echo "To enable automatic generation:"
+          echo "1. Add CURSOR_API_KEY to repository secrets"
+          echo "2. Or create a Cursor Automation — see docs/automations/daily-developer-guides.md"
+          echo ""
+          echo "Manual prompt for today:"
+          node scripts/get-next-developer-guides.mjs --prompt
