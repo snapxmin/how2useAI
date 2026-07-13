@@ -1,112 +1,142 @@
 [
   {
-    "id": "openai-gpt-5-6-general-availability",
-    "title": "OpenAI 正式推出 GPT-5.6 系列，分为 Sol、Terra 与 Luna",
-    "summary": "OpenAI 将 GPT-5.6 从有限预览推向全球可用，覆盖 ChatGPT、Codex 和 API；旗舰 Sol 新增 ultra 模式，可协调多个智能体并行处理复杂任务。",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-5-6/",
-    "date": "2026-07-09",
+    "id": "show-hn-llm-mock-record-and-replay-openai-anthropic-calls-in-pytest-v1-0-xo9qlc",
+    "title": "Hacker News：Show HN: LLM-mock – Record and replay OpenAI/Anthropic calls in pytest (v1.0)",
+    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/autopost/llm-mock Comments URL: https://news.ycombinator.com/item?id=48890462 Points: 2 # Comments: 0",
+    "source": "Hacker News",
+    "url": "https://github.com/autopost/llm-mock",
+    "date": "2026-07-13",
     "category": "大模型",
-    "tags": ["OpenAI", "GPT-5.6", "Agent"],
-    "featured": true
-  },
-  {
-    "id": "openai-chatgpt-work",
-    "title": "OpenAI 发布 ChatGPT Work，可跨应用执行长时间复杂任务",
-    "summary": "ChatGPT Work 由 GPT-5.6 驱动，可在应用和文件之间收集信息、拆解任务，并生成表格、幻灯片、文档和网页应用等完整成果。",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-    "date": "2026-07-09",
-    "category": "AI产品",
-    "tags": ["ChatGPT", "Agent", "办公效率"],
-    "featured": true
-  },
-  {
-    "id": "meta-muse-spark-1-1",
-    "title": "Meta 发布 Muse Spark 1.1，并开放 Meta Model API 预览",
-    "summary": "Muse Spark 1.1 面向智能体任务强化了工具调用、计算机操作、代码和多模态理解能力，开发者可首次通过公开预览版 Meta Model API 使用该模型。",
-    "source": "Meta AI",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-    "date": "2026-07-09",
-    "category": "大模型",
-    "tags": ["Meta", "Muse Spark", "多模态"],
-    "featured": true
-  },
-  {
-    "id": "openai-gpt-live",
-    "title": "OpenAI 推出 GPT-Live，新一代语音模型开始接入 ChatGPT",
-    "summary": "GPT-Live 主打更自然的全双工语音交互，可在持续对话的同时调用搜索和深度推理；GPT-Live-1 与 mini 版本已开始向 ChatGPT 用户推出。",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-live/",
-    "date": "2026-07-08",
-    "category": "AI产品",
-    "tags": ["OpenAI", "语音", "多模态"],
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
     "featured": false
   },
   {
-    "id": "meta-muse-image-video",
-    "title": "Meta 发布 Muse Image，并预览原生音频视频模型 Muse Video",
-    "summary": "Muse Image 支持精确编辑、多参考图组合和智能体工具调用，并加入不可见的 Content Seal 来源标记；Muse Video 展示了原生音频视频生成能力。",
-    "source": "Meta AI",
-    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+    "id": "waze-is-getting-a-bunch-of-new-ai-powered-features-aw551p",
+    "title": "The Verge：Waze is getting a bunch of new AI-powered features",
+    "summary": "据 The Verge 官方信息，Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "date": "2026-07-13",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "discomcp-turn-an-unknown-mcp-into-a-reusable-operational-skill-for-ai-ag-cgn33n",
+    "title": "Hacker News：DiscoMCP – Turn an unknown MCP into a reusable operational skill for AI agents",
+    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/ieranama/discomcp Comments URL: https://news.ycombinator.com/item?id=48890786 Points: 1 # Comments: 0",
+    "source": "Hacker News",
+    "url": "https://github.com/ieranama/discomcp",
+    "date": "2026-07-13",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households-ckzz07",
+    "title": "TechCrunch：OpenAI bets on families as ChatGPT goes deeper into households",
+    "summary": "据 TechCrunch 官方信息，ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "date": "2026-07-11",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-ami-hc08d4",
+    "title": "TechCrunch：OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "summary": "据 TechCrunch 官方信息，OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "date": "2026-07-10",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Microsoft",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gpt-5-6-is-now-the-preferred-model-in-microsoft-365-copilot-gv8yjd",
+    "title": "OpenAI：GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "summary": "据 OpenAI 官方信息，Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, hi…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "date": "2026-07-09",
+    "category": "大模型",
+    "tags": [
+      "Microsoft",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "chatgpt-is-now-a-partner-for-your-most-ambitious-work-s3v1gh",
+    "title": "OpenAI：ChatGPT is now a partner for your most ambitious work",
+    "summary": "据 OpenAI 官方信息，ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into fini…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "date": "2026-07-09",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gpt-5-5-bio-bug-bounty-ncs3gh",
+    "title": "OpenAI：GPT-5.5 Bio Bug Bounty",
+    "summary": "据 OpenAI 官方信息，Details about the OpenAI Bio Bounty program",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "date": "2026-07-09",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-launches-its-new-family-of-models-with-gpt-5-6-u5dzfc",
+    "title": "TechCrunch：OpenAI launches its new family of models with GPT-5.6",
+    "summary": "据 TechCrunch 官方信息，OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "date": "2026-07-09",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "expanding-managed-agents-in-gemini-api-background-tasks-remote-mcp-and-m-5lwbs8",
+    "title": "Google：Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "summary": "据 Google 官方信息，We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
     "date": "2026-07-07",
-    "category": "AI产品",
-    "tags": ["Meta", "图像生成", "视频生成"],
-    "featured": false
-  },
-  {
-    "id": "fli-ai-safety-index-summer-2026",
-    "title": "2026 夏季 AI 安全指数发布，九家头部公司最高仅获 C+",
-    "summary": "Future of Life Institute 以 37 项指标评估九家 AI 公司，覆盖风险评估、安全框架、治理和信息披露等领域；报告显示行业整体仍未达到高等级安全标准。",
-    "source": "Future of Life Institute",
-    "url": "https://futureoflife.org/ai-safety-index-summer-2026/",
-    "date": "2026-07-07",
-    "category": "政策安全",
-    "tags": ["AI安全", "治理", "行业报告"],
-    "featured": false
-  },
-  {
-    "id": "tencent-hunyuan-hy3",
-    "title": "腾讯混元 Hy3 正式上线，强化复杂推理与 Agent 任务能力",
-    "summary": "混元 Hy3 采用快慢思考融合的 MoE 架构，总参数 295B、激活参数 21B，支持 256K 上下文，并针对真实办公和生活自动化任务进行了优化。",
-    "source": "腾讯新闻",
-    "url": "https://news.qq.com/rain/a/20260706A067TS00",
-    "date": "2026-07-06",
     "category": "大模型",
-    "tags": ["腾讯混元", "Agent", "国内大模型"],
-    "featured": false
-  },
-  {
-    "id": "meituan-longcat-2-open-source",
-    "title": "美团开源 LongCat-2.0，模型总参数达 1.6 万亿",
-    "summary": "LongCat-2.0 是大规模 MoE 语言模型，每个 Token 平均激活约 480 亿参数；官方已开放模型权重，并采用 MIT 许可证。",
-    "source": "美团 LongCat",
-    "url": "https://github.com/meituan-longcat/longcat-2.0",
-    "date": "2026-07-06",
-    "category": "开源",
-    "tags": ["美团", "LongCat", "MoE"],
-    "featured": false
-  },
-  {
-    "id": "anthropic-fable-5-redeployment",
-    "title": "Anthropic 恢复 Claude Fable 5 全球访问",
-    "summary": "在相关出口限制解除后，Anthropic 恢复 Fable 5 在 Claude 平台、Claude.ai、Claude Code 和 Claude Cowork 的全球访问，并逐步恢复云平台支持。",
-    "source": "Anthropic",
-    "url": "https://www.anthropic.com/news/redeploying-fable-5",
-    "date": "2026-07-01",
-    "category": "大模型",
-    "tags": ["Anthropic", "Claude", "模型服务"],
-    "featured": false
-  },
-  {
-    "id": "google-nano-banana-2-lite-omni-flash",
-    "title": "Google 推出 Nano Banana 2 Lite，并向开发者开放 Gemini Omni Flash",
-    "summary": "Nano Banana 2 Lite 面向高吞吐图像生成，已接入 AI Studio 和 Gemini API；Gemini Omni Flash 则支持基于文本、图像和视频输入的视频生成与对话式编辑。",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "date": "2026-06-30",
-    "category": "AI产品",
-    "tags": ["Google", "Gemini", "生成式媒体"],
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
     "featured": false
   }
 ]
