@@ -4,7 +4,7 @@ export const siteConfig = {
   name: "如何用好AI",
   description:
     "中文场景下，帮不同角色把 AI 真正用起来 — 实战指南、工具评测、Prompt 库与学习路径",
-  url: "https://ai-how-to-use.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://ai-how-to-use.vercel.app",
   ogImage: "/og-image.png",
   links: {
     github: "https://github.com",

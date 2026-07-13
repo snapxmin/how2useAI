@@ -1,5 +1,5 @@
 import type { NewsItem } from "@/lib/types";
-import { isSafeExternalUrl } from "@/lib/news";
+import { isSafeExternalUrl } from "@/lib/news-utils";
 import { formatDate } from "@/lib/utils";
 
 export function NewsFeed(_props: { items: NewsItem[] }) {

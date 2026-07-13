@@ -10,7 +10,9 @@ export function SubscribeForm({ variant = "default" }: SubscribeFormProps) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
 
-  async function handleSubmit(e: React.FormEvent) {
+  // 站点以纯静态方式部署（GitHub Pages），没有后端 API，
+  // 订阅信息暂存于浏览器 localStorage。
+  function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!email || !email.includes("@")) {
       setStatus("error");
@@ -19,18 +21,15 @@ export function SubscribeForm({ variant = "default" }: SubscribeFormProps) {
 
     setStatus("loading");
     try {
-      const res = await fetch("/api/subscribe", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
-      });
-
-      if (res.ok) {
-        setStatus("success");
-        setEmail("");
-      } else {
-        setStatus("error");
+      const subscribers: { email: string; subscribedAt: string }[] = JSON.parse(
+        localStorage.getItem("subscribers") ?? "[]"
+      );
+      if (!subscribers.some((s) => s.email === email)) {
+        subscribers.push({ email, subscribedAt: new Date().toISOString() });
+        localStorage.setItem("subscribers", JSON.stringify(subscribers));
       }
+      setStatus("success");
+      setEmail("");
     } catch {
       setStatus("error");
     }

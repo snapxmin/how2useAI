@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { isSafeExternalUrl } from "@/lib/news";
+import { isSafeExternalUrl } from "@/lib/news-utils";
 import type { Guide, Insight, NewsItem, WeeklyTopicConfig } from "@/lib/types";
 
 export function WeeklyTopic(_props: {

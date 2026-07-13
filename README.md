@@ -7,7 +7,7 @@
 - **框架**: Next.js 14 (App Router)
 - **内容**: MDX + Markdown (gray-matter + next-mdx-remote)
 - **样式**: Tailwind CSS + @tailwindcss/typography
-- **部署**: Vercel
+- **部署**: GitHub Pages (GitHub Actions 自动部署)
 
 ## 快速开始
 
@@ -54,11 +54,15 @@ featured: false
 
 ## 部署
 
-```bash
-npm run build
-```
+推送到 `main` 分支后，GitHub Actions（`.github/workflows/deploy.yml`）会自动执行 `next build` 静态导出并发布到 GitHub Pages。
 
-推送到 GitHub 后，在 Vercel 导入项目即可自动部署。
+首次使用需在仓库 **Settings → Pages** 中将 Source 设置为 **GitHub Actions**（工作流也会尝试自动启用）。
+
+本地验证静态导出：
+
+```bash
+npm run build   # 产物输出到 out/
+```
 
 ## 许可证
 
