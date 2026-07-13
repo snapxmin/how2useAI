@@ -1,16 +1,9 @@
 import fs from "fs";
 import path from "path";
 import type { NewsItem } from "./types";
+import { isSafeExternalUrl } from "./urls";
 
 const newsPath = path.join(process.cwd(), "content/news/news.json");
-
-export function isSafeExternalUrl(value: string): boolean {
-  try {
-    return new URL(value).protocol === "https:";
-  } catch {
-    return false;
-  }
-}
 
 export function sortNewsByDate(items: NewsItem[]): NewsItem[] {
   return [...items].sort(
