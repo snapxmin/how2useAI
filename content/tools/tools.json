@@ -1,0 +1,152 @@
+[
+  {
+    "id": "kimi",
+    "name": "Kimi (月之暗面)",
+    "description": "国产长文本 AI 助手，支持 200 万字上下文，适合论文阅读、合同审查等长文档场景。",
+    "category": "国内大模型",
+    "pricing": "freemium",
+    "url": "https://kimi.moonshot.cn",
+    "roles": ["workplace", "enterprise"],
+    "featured": true
+  },
+  {
+    "id": "doubao",
+    "name": "豆包",
+    "description": "字节跳动出品，免费使用，支持多模态对话，国内访问稳定，适合日常办公。",
+    "category": "国内大模型",
+    "pricing": "free",
+    "url": "https://www.doubao.com",
+    "roles": ["workplace", "creator"],
+    "featured": true
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "description": "深度求索出品，代码和数学能力突出，开源模型可本地部署，性价比极高。",
+    "category": "国内大模型",
+    "pricing": "freemium",
+    "url": "https://chat.deepseek.com",
+    "roles": ["developer", "enterprise"],
+    "featured": true
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "description": "OpenAI 出品的对话式 AI，支持 GPT-4o 多模态能力，适合写作、分析、编程辅助等通用场景。",
+    "category": "对话助手",
+    "pricing": "freemium",
+    "url": "https://chat.openai.com",
+    "roles": ["workplace", "developer", "creator", "enterprise"],
+    "featured": true
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "description": "Anthropic 出品，以长文本理解和安全对齐著称，适合文档分析、代码审查、复杂推理。",
+    "category": "对话助手",
+    "pricing": "freemium",
+    "url": "https://claude.ai",
+    "roles": ["workplace", "developer", "enterprise"],
+    "featured": true
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "description": "AI 原生代码编辑器，深度集成 GPT-4 和 Claude，支持 Agent 模式自动完成复杂编程任务。",
+    "category": "编程开发",
+    "pricing": "freemium",
+    "url": "https://cursor.com",
+    "roles": ["developer"],
+    "featured": true
+  },
+  {
+    "id": "github-copilot",
+    "name": "GitHub Copilot",
+    "description": "微软/GitHub 出品的 AI 编程助手，集成在 VS Code 和 JetBrains IDE 中，实时代码补全。",
+    "category": "编程开发",
+    "pricing": "paid",
+    "url": "https://github.com/features/copilot",
+    "roles": ["developer"],
+    "featured": true
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "description": "顶级 AI 图像生成工具，通过 Discord 使用，擅长艺术风格和概念设计。",
+    "category": "设计创作",
+    "pricing": "paid",
+    "url": "https://midjourney.com",
+    "roles": ["creator"],
+    "featured": true
+  },
+  {
+    "id": "notion-ai",
+    "name": "Notion AI",
+    "description": "集成在 Notion 中的 AI 助手，适合笔记整理、文档撰写、会议纪要等知识管理场景。",
+    "category": "办公效率",
+    "pricing": "freemium",
+    "url": "https://notion.so/product/ai",
+    "roles": ["workplace", "enterprise"],
+    "featured": true
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "description": "AI 视频生成平台，支持文生视频、图生视频，适合短视频创作和广告制作。",
+    "category": "视频音频",
+    "pricing": "freemium",
+    "url": "https://runwayml.com",
+    "roles": ["creator"],
+    "featured": false
+  },
+  {
+    "id": "figma-ai",
+    "name": "Figma AI",
+    "description": "Figma 内置 AI 功能，支持设计生成、文案填充、原型快速搭建。",
+    "category": "设计创作",
+    "pricing": "freemium",
+    "url": "https://figma.com",
+    "roles": ["creator"],
+    "featured": false
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "description": "AI 搜索引擎，提供带来源引用的精准回答，适合调研和信息检索。",
+    "category": "对话助手",
+    "pricing": "freemium",
+    "url": "https://perplexity.ai",
+    "roles": ["workplace", "enterprise"],
+    "featured": false
+  },
+  {
+    "id": "dify",
+    "name": "Dify",
+    "description": "开源 LLM 应用开发平台，支持可视化搭建 AI 应用、Agent 和工作流，适合企业私有化部署。",
+    "category": "企业服务",
+    "pricing": "freemium",
+    "url": "https://dify.ai",
+    "roles": ["developer", "enterprise"],
+    "featured": false
+  },
+  {
+    "id": "coze",
+    "name": "Coze (扣子)",
+    "description": "字节跳动出品的 AI Bot 搭建平台，零代码创建智能体，支持发布到微信、飞书等平台。",
+    "category": "企业服务",
+    "pricing": "free",
+    "url": "https://coze.cn",
+    "roles": ["enterprise", "developer"],
+    "featured": false
+  },
+  {
+    "id": "gamma",
+    "name": "Gamma",
+    "description": "AI 驱动的演示文稿生成工具，输入大纲即可生成精美 PPT，适合快速汇报。",
+    "category": "办公效率",
+    "pricing": "freemium",
+    "url": "https://gamma.app",
+    "roles": ["workplace"],
+    "featured": false
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "heroInsightSlug": "gpt-5-6-agent-system",
+  "insightSlugs": [
+    "chatgpt-work-product-shift",
+    "meta-muse-multimodal-stack",
+    "china-open-model-scale"
+  ],
+  "weeklyTopic": {
+    "title": "AI 产品进入 Agent 工作流阶段",
+    "description": "从模型工具调用到跨应用执行，理解大厂如何把 AI 从对话框推进到完整工作流。",
+    "insightSlugs": [
+      "gpt-5-6-agent-system",
+      "chatgpt-work-product-shift"
+    ],
+    "newsIds": [
+      "openai-gpt-5-6-general-availability",
+      "openai-chatgpt-work",
+      "meta-muse-spark-1-1"
+    ],
+    "guideSlugs": []
+  }
+}

@@ -1,0 +1,102 @@
+---
+title: "Midjourney 新手教程：第一张 AI 图片"
+description: "从注册到生成第一张高质量 AI 图片的完整流程，含 Prompt 写作技巧和参数说明。"
+role: creator
+scene: image
+date: "2026-07-07"
+tags: ["Midjourney", "设计", "图片生成"]
+featured: true
+---
+
+## 开始之前
+
+Midjourney 目前通过 Discord 使用（网页版 midjourney.com 也在逐步开放）。你需要：
+
+1. 一个 Discord 账号（[discord.com](https://discord.com) 注册）
+2. 加入 Midjourney 服务器（[midjourney.com](https://midjourney.com) 点击 Join the Beta）
+3. 订阅计划（基础版 $10/月，约 200 张图）
+
+## 生成你的第一张图
+
+### 1. 找到创作频道
+
+在 Midjourney Discord 中，找到 `#newbies` 或任意 `#general` 频道。
+
+### 2. 输入 Prompt
+
+```
+/imagine prompt: a cozy coffee shop interior, warm lighting, wooden furniture, plants on shelves, watercolor illustration style --ar 16:9 --v 6.1
+```
+
+几秒钟后，Midjourney 会生成 4 张候选图。
+
+### 3. 选择和完善
+
+- 点击 **U1-U4**：放大某张图
+- 点击 **V1-V4**：基于某张图生成变体
+- 点击 🔄：用相同 Prompt 重新生成
+
+## Prompt 写作公式
+
+一个好的 Midjourney Prompt 包含 5 个要素：
+
+```
+[主体] + [环境/背景] + [风格] + [光影/氛围] + [参数]
+```
+
+**示例对比**：
+
+| 差的 Prompt | 好的 Prompt |
+|-------------|-------------|
+| a cat | a fluffy orange cat sitting on a windowsill, rainy city view outside, soft natural light, Studio Ghibli style --ar 3:2 |
+| logo design | minimalist tech startup logo, letter "A" integrated with circuit pattern, blue and white, flat vector, white background --ar 1:1 |
+
+## 常用参数
+
+| 参数 | 作用 | 示例 |
+|------|------|------|
+| `--ar` | 宽高比 | `--ar 16:9`（横版） `--ar 9:16`（竖版） |
+| `--s` | 风格化程度（0-1000） | `--s 250`（默认） `--s 750`（更艺术） |
+| `--v` | 模型版本 | `--v 6.1`（当前最新） |
+| `--q` | 质量（.25/.5/1） | `--q 2`（更高质量，更慢） |
+| `--no` | 排除元素 | `--no text, watermark` |
+
+## 三个实用技巧
+
+### 技巧一：用 ChatGPT 生成 Prompt
+
+不擅长英文？用 ChatGPT 帮你转化：
+
+```
+请根据以下中文描述，生成 3 个 Midjourney 英文 Prompt：
+[你的中文描述]
+
+每个 Prompt 包含画面主体、环境、风格、光影，末尾加 --ar 参数。
+```
+
+更多模板见 [Prompt 库](/prompts) 中的「Midjourney 提示词生成」。
+
+### 技巧二：垫图（Image Prompt）
+
+上传一张参考图，让 Midjourney 基于它的风格和构图生成：
+
+```
+/imagine prompt: [你的描述] --iw 0.5
+```
+
+（先上传图片到 Discord，复制图片链接放在 Prompt 前面）
+
+### 技巧三：风格一致性
+
+用 `--sref` 参数保持系列图片的风格统一，适合品牌视觉制作。
+
+## 常见用途
+
+- **社交媒体配图**：快速生成独特的封面和插图
+- **产品概念图**：在实物制作前可视化产品外观
+- **品牌素材**：生成统一风格的视觉元素
+- **灵感探索**：快速尝试多种设计风格
+
+## 下一步
+
+掌握图片生成后，可以学习 [AI 视频创作](/guides/ai-video-creation)，将静态图片延伸为动态内容。

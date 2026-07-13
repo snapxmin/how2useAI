@@ -1,0 +1,28 @@
+{
+  "paths": [
+    {
+      "slug": "7d",
+      "days": 7,
+      "title": "7 天 AI 创作入门",
+      "description": "文案、图片、视频三大创作场景",
+      "guideSlugs": ["midjourney-beginner", "ai-video-creation"],
+      "estimatedHours": 3
+    },
+    {
+      "slug": "14d",
+      "days": 14,
+      "title": "14 天内容生产流",
+      "description": "建立从创意到发布的 AI 内容流水线",
+      "guideSlugs": ["midjourney-beginner", "ai-video-creation", "prompt-engineering-basics"],
+      "estimatedHours": 8
+    },
+    {
+      "slug": "30d",
+      "days": 30,
+      "title": "30 天创意大师",
+      "description": "品牌视觉、短视频、多平台运营",
+      "guideSlugs": ["midjourney-beginner", "ai-video-creation", "prompt-engineering-basics", "ai-getting-started"],
+      "estimatedHours": 18
+    }
+  ]
+}
