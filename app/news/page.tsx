@@ -21,6 +21,7 @@ import {
   getBreakingNewsFromItems,
   getNewsCategoriesFromItems,
 } from "@/lib/news";
+import { getNewsVerificationLabel } from "@/lib/news-metadata";
 
 export const metadata: Metadata = {
   title: "AI 资讯与深度解读",
@@ -50,7 +51,7 @@ export default function NewsPage() {
             </h1>
             <p className="mt-3 text-slate-600">
               不只追踪发生了什么，也解释大厂技术与产品为什么值得关注。
-              当前内容截至 2026 年 7 月 13 日完成联网核验。
+              当前内容{getNewsVerificationLabel()}，每日 18:30 自动同步最新资讯。
             </p>
           </div>
 

@@ -1,6 +1,14 @@
 import fs from "fs";
 import path from "path";
 import { describe, expect, it } from "vitest";
+import {
+  FEATURED_COUNT,
+  MAX_NEWS_ITEMS,
+  NEWS_WINDOW_DAYS,
+  getNewsLastUpdated,
+  getNewsWindowStart,
+  isWithinWindow,
+} from "./ai-news-sync";
 import type { NewsItem } from "./types";
 
 const newsPath = path.join(process.cwd(), "content/news/news.json");
@@ -8,9 +16,10 @@ const pagePath = path.join(process.cwd(), "app/news/page.tsx");
 const items = JSON.parse(fs.readFileSync(newsPath, "utf8")) as NewsItem[];
 
 describe("AI news content", () => {
-  it("contains exactly 10 unique, complete records", () => {
-    expect(items).toHaveLength(10);
-    expect(new Set(items.map((item) => item.id)).size).toBe(10);
+  it("contains unique, complete records up to the configured limit", () => {
+    expect(items.length).toBeGreaterThan(0);
+    expect(items.length).toBeLessThanOrEqual(MAX_NEWS_ITEMS);
+    expect(new Set(items.map((item) => item.id)).size).toBe(items.length);
 
     for (const item of items) {
       expect(item.title.trim()).not.toBe("");
@@ -21,15 +30,20 @@ describe("AI news content", () => {
     }
   });
 
-  it("only includes events in the approved 14-day window", () => {
+  it("only includes events in the rolling 14-day window", () => {
+    const lastUpdated = getNewsLastUpdated(items);
+    expect(lastUpdated).not.toBeNull();
+
+    const windowStart = getNewsWindowStart(NEWS_WINDOW_DAYS, new Date(`${lastUpdated}T12:00:00.000Z`));
     for (const item of items) {
-      expect(item.date >= "2026-06-30").toBe(true);
-      expect(item.date <= "2026-07-13").toBe(true);
+      expect(item.date >= windowStart).toBe(true);
+      expect(item.date <= lastUpdated!).toBe(true);
+      expect(isWithinWindow(item.date, NEWS_WINDOW_DAYS, new Date(`${lastUpdated}T12:00:00.000Z`))).toBe(true);
     }
   });
 
   it("uses event-specific HTTPS sources and exactly three featured records", () => {
-    expect(items.filter((item) => item.featured)).toHaveLength(3);
+    expect(items.filter((item) => item.featured)).toHaveLength(FEATURED_COUNT);
 
     for (const item of items) {
       const url = new URL(item.url);
@@ -38,10 +52,15 @@ describe("AI news content", () => {
     }
   });
 
-  it("shows the verification date on the news page", () => {
+  it("shows the verification label on the news page", () => {
     const pageSource = fs.readFileSync(pagePath, "utf8");
-    expect(pageSource).toContain("截至 2026 年 7 月 13 日");
-    expect(pageSource).toContain("联网核验");
+    const metadataSource = fs.readFileSync(
+      path.join(process.cwd(), "lib/news-metadata.ts"),
+      "utf8"
+    );
+    expect(pageSource).toContain("getNewsVerificationLabel");
+    expect(metadataSource).toContain("联网核验");
+    expect(pageSource).toContain("18:30");
     expect(pageSource).toContain("NewsCategoryFilter");
     expect(pageSource).toContain("NewsHero");
     expect(pageSource).toContain("BreakingNews");
