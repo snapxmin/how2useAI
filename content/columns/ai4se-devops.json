@@ -1,0 +1,16 @@
+{
+  "id": "ai4se-devops",
+  "name": "AI4SE · AI for DevOps",
+  "subtitle": "深度追踪 AI 软件工程与智能运维",
+  "description": "系统解读 AI4SE 与 AI for DevOps 的业界进展：从 AIOps 自愈运维、平台工程地基，到 Agent 驱动的 CI/CD 与治理实践，帮工程团队把握技术脉络与落地节奏。",
+  "topics": [
+    "AI4SE 概览",
+    "AIOps 智能运维",
+    "平台工程",
+    "CI/CD 智能化",
+    "可观测性",
+    "治理与安全"
+  ],
+  "featuredArticleSlug": "ai4se-devops-landscape",
+  "heroTheme": "violet"
+}

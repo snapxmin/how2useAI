@@ -53,6 +53,7 @@ export type RoleId = (typeof roles)[number]["id"];
 export const navItems = [
   { href: "/roles/workplace", label: "分角色导航" },
   { href: "/guides", label: "入门指南" },
+  { href: "/columns", label: "深度专栏" },
   { href: "/tools", label: "工具图谱" },
   { href: "/prompts", label: "Prompt 库" },
   { href: "/learn", label: "AI 原理课" },

@@ -115,3 +115,40 @@ export interface NewsFeaturedConfig {
   insightSlugs: string[];
   weeklyTopic?: WeeklyTopicConfig;
 }
+
+export type ColumnTopic =
+  | "AI4SE 概览"
+  | "AIOps 智能运维"
+  | "平台工程"
+  | "CI/CD 智能化"
+  | "可观测性"
+  | "治理与安全";
+
+export interface ColumnConfig {
+  id: string;
+  name: string;
+  subtitle: string;
+  description: string;
+  topics: ColumnTopic[];
+  featuredArticleSlug?: string;
+  heroTheme: "violet" | "indigo" | "emerald" | "slate";
+}
+
+export interface ColumnArticleFrontmatter {
+  title: string;
+  description: string;
+  date: string;
+  updated?: string;
+  topic: ColumnTopic;
+  episode?: number;
+  tags: string[];
+  readingTime: number;
+  featured?: boolean;
+}
+
+export interface ColumnArticle {
+  columnId: string;
+  slug: string;
+  frontmatter: ColumnArticleFrontmatter;
+  content: string;
+}
