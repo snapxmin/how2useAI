@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next";
 import { siteConfig } from "@/lib/config";
+import { getAllColumnArticleParams, getAllColumnIds } from "@/lib/columns";
 import { getAllGuideSlugs } from "@/lib/guides";
 import { getAllInsights } from "@/lib/insights";
 import { getAllLessonSlugs } from "@/lib/learn";
@@ -9,6 +10,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const guideSlugs = getAllGuideSlugs();
   const insights = getAllInsights();
   const lessonSlugs = getAllLessonSlugs();
+  const columnIds = getAllColumnIds();
+  const columnArticles = getAllColumnArticleParams();
 
   const guideUrls = guideSlugs.map((slug) => ({
     url: `${siteConfig.url}/guides/${slug}`,
@@ -40,10 +43,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  const columnUrls = columnIds.map((id) => ({
+    url: `${siteConfig.url}/columns/${id}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly" as const,
+    priority: 0.85,
+  }));
+
+  const columnArticleUrls = columnArticles.map(({ column, slug }) => ({
+    url: `${siteConfig.url}/columns/${column}/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
   const staticUrls = [
     { url: siteConfig.url, priority: 1 },
     { url: `${siteConfig.url}/guides`, priority: 0.9 },
     { url: `${siteConfig.url}/learn`, priority: 0.9 },
+    { url: `${siteConfig.url}/columns`, priority: 0.85 },
     { url: `${siteConfig.url}/news`, priority: 0.85 },
     { url: `${siteConfig.url}/tools`, priority: 0.8 },
     { url: `${siteConfig.url}/prompts`, priority: 0.8 },
@@ -60,5 +78,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...guideUrls,
     ...insightUrls,
     ...lessonUrls,
+    ...columnUrls,
+    ...columnArticleUrls,
   ];
 }
