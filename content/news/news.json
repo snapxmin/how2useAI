@@ -1,71 +1,94 @@
 [
   {
-    "id": "show-hn-llm-mock-record-and-replay-openai-anthropic-calls-in-pytest-v1-0-xo9qlc",
-    "title": "Hacker News：Show HN: LLM-mock – Record and replay OpenAI/Anthropic calls in pytest (v1.0)",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/autopost/llm-mock Comments URL: https://news.ycombinator.com/item?id=48890462 Points: 2 # Comments: 0",
-    "source": "Hacker News",
-    "url": "https://github.com/autopost/llm-mock",
-    "date": "2026-07-13",
+    "id": "how-data-science-teams-use-chatgpt-work-ak8c6f",
+    "title": "OpenAI：How data science teams use ChatGPT Work",
+    "summary": "据 OpenAI 官方信息，See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs…",
+    "source": "OpenAI",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "date": "2026-07-14",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "Anthropic"
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-sales-teams-use-chatgpt-work-i3157u",
+    "title": "OpenAI：How sales teams use ChatGPT Work",
+    "summary": "据 OpenAI 官方信息，See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal …",
+    "source": "OpenAI",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "date": "2026-07-14",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b-dkhzbd",
+    "title": "TechCrunch：Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "summary": "据 TechCrunch 官方信息，With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "date": "2026-07-14",
+    "category": "大模型",
+    "tags": [
+      "TechCrunch"
     ],
     "featured": false
   },
   {
-    "id": "waze-is-getting-a-bunch-of-new-ai-powered-features-aw551p",
-    "title": "The Verge：Waze is getting a bunch of new AI-powered features",
-    "summary": "据 The Verge 官方信息，Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "id": "empowering-india-s-next-generation-of-innovators-with-atl-saathi-pid9wo",
+    "title": "Google DeepMind：Empowering India’s next generation of innovators with ATL Saathi",
+    "summary": "据 Google DeepMind 官方信息，Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
     "date": "2026-07-13",
     "category": "大模型",
     "tags": [
       "Google",
       "Gemini"
     ],
+    "featured": true
+  },
+  {
+    "id": "anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market--9wwm3i",
+    "title": "TechCrunch：Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "summary": "据 TechCrunch 官方信息，Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "date": "2026-07-13",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
     "featured": false
   },
   {
-    "id": "discomcp-turn-an-unknown-mcp-into-a-reusable-operational-skill-for-ai-ag-cgn33n",
-    "title": "Hacker News：DiscoMCP – Turn an unknown MCP into a reusable operational skill for AI agents",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/ieranama/discomcp Comments URL: https://news.ycombinator.com/item?id=48890786 Points: 1 # Comments: 0",
-    "source": "Hacker News",
-    "url": "https://github.com/ieranama/discomcp",
+    "id": "siri-ai-is-already-changing-how-i-use-my-iphone-1zr7v8",
+    "title": "The Verge：Siri AI is already changing how I use my iPhone",
+    "summary": "据 The Verge 官方信息，Siri AI in iOS 27. iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating sy…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
     "date": "2026-07-13",
     "category": "AI产品",
     "tags": [
-      "Agent"
+      "The Verge"
     ],
     "featured": false
   },
   {
-    "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households-ckzz07",
-    "title": "TechCrunch：OpenAI bets on families as ChatGPT goes deeper into households",
-    "summary": "据 TechCrunch 官方信息，ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "date": "2026-07-11",
-    "category": "大模型",
+    "id": "the-6-wildest-claims-in-apple-8217-s-lawsuit-against-openai-wqihe6",
+    "title": "The Verge：The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+    "summary": "据 The Verge 官方信息，When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "date": "2026-07-13",
+    "category": "AI产品",
     "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-365-ami-hc08d4",
-    "title": "TechCrunch：OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "summary": "据 TechCrunch 官方信息，OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "date": "2026-07-10",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Microsoft",
-      "GPT"
+      "OpenAI"
     ],
     "featured": false
   },
@@ -81,35 +104,7 @@
       "Microsoft",
       "GPT"
     ],
-    "featured": true
-  },
-  {
-    "id": "chatgpt-is-now-a-partner-for-your-most-ambitious-work-s3v1gh",
-    "title": "OpenAI：ChatGPT is now a partner for your most ambitious work",
-    "summary": "据 OpenAI 官方信息，ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into fini…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "date": "2026-07-09",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "gpt-5-5-bio-bug-bounty-ncs3gh",
-    "title": "OpenAI：GPT-5.5 Bio Bug Bounty",
-    "summary": "据 OpenAI 官方信息，Details about the OpenAI Bio Bounty program",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "date": "2026-07-09",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "openai-launches-its-new-family-of-models-with-gpt-5-6-u5dzfc",
