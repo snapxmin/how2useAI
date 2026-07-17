@@ -1,5 +1,47 @@
 [
   {
+    "id": "why-teens-deserve-access-to-safe-ai-2owdov",
+    "title": "OpenAI：Why teens deserve access to safe AI",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnersh…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "date": "2026-07-16",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-cars24-scales-conversations-and-builds-faster-with-openai-vf57vd",
+    "title": "OpenAI：How Cars24 scales conversations and builds faster with OpenAI",
+    "summary": "据 OpenAI 官方信息，Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic wo…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/cars24",
+    "date": "2026-07-16",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "create-edit-and-star-in-videos-with-two-google-vids-updates-l04qpi",
+    "title": "Google：Create, edit and star in videos with two Google Vids updates",
+    "summary": "据 Google 官方信息，Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "date": "2026-07-16",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
     "id": "our-approach-to-bioresilience-pg17gk",
     "title": "Google DeepMind：Our approach to bioresilience",
     "summary": "据 Google DeepMind 官方信息，Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
@@ -10,7 +52,34 @@
     "tags": [
       "Google"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "connect-more-of-your-apps-to-search-r5bdso",
+    "title": "Google：Connect more of your apps to Search",
+    "summary": "据 Google 官方信息，You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "date": "2026-07-16",
+    "category": "AI产品",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "claude-can-now-use-your-1password-credentials-for-you-s2l9p7",
+    "title": "The Verge：Claude can now use your 1Password credentials for you",
+    "summary": "据 The Verge 官方信息，1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like use…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "date": "2026-07-16",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
   },
   {
     "id": "gpt-red-unlocking-self-improvement-for-robustness-6hmzwi",
@@ -27,19 +96,6 @@
     "featured": true
   },
   {
-    "id": "the-us-is-advancing-ai-safety-through-state-and-federal-action-x2bh98",
-    "title": "OpenAI：The US is advancing AI safety through state and federal action",
-    "summary": "据 OpenAI 官方信息，OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "date": "2026-07-15",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
     "id": "microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-ant-veswku",
     "title": "TechCrunch：Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "summary": "据 TechCrunch 官方信息，Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
@@ -51,46 +107,6 @@
       "OpenAI",
       "Anthropic",
       "Microsoft"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-impleme-urmqe0",
-    "title": "TechCrunch：Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "summary": "据 TechCrunch 官方信息，Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterpr…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "date": "2026-07-15",
-    "category": "大模型",
-    "tags": [
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-finally-launches-hardware-for-codex-3wqn6v",
-    "title": "The Verge：OpenAI finally launches hardware… for Codex",
-    "summary": "据 The Verge 官方信息，OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designe…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-    "date": "2026-07-15",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "how-to-manage-ai-investments-in-the-agentic-era-ka4j",
-    "title": "OpenAI：How to manage AI investments in the agentic era",
-    "summary": "据 OpenAI 官方信息，Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling hi…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "date": "2026-07-14",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
     ],
     "featured": false
   },
@@ -118,20 +134,6 @@
     "tags": [
       "Google",
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "expanding-managed-agents-in-gemini-api-background-tasks-remote-mcp-and-m-5lwbs8",
-    "title": "Google：Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-    "summary": "据 Google 官方信息，We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "date": "2026-07-07",
-    "category": "大模型",
-    "tags": [
-      "Gemini",
-      "Agent"
     ],
     "featured": false
   }
