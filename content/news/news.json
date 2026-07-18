@@ -1,5 +1,31 @@
 [
   {
+    "id": "ai-gets-trapped-in-a-circular-loop-on-climate-science-yum2sh",
+    "title": "Hacker News：AI Gets Trapped in a Circular Loop on Climate Science",
+    "summary": "据 Hacker News 官方信息，Today, I was asking Ai about the Canadian Wildfires and forest management. Instantly, the ai resorted to following the common narrative, and…",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=48956370",
+    "date": "2026-07-18",
+    "category": "大模型",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a-scorecard-for-the-ai-age-xbujfb",
+    "title": "OpenAI：A scorecard for the AI age",
+    "summary": "据 OpenAI 官方信息，Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability,…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-17",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "why-teens-deserve-access-to-safe-ai-2owdov",
     "title": "OpenAI：Why teens deserve access to safe AI",
     "summary": "据 OpenAI 官方信息，Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnersh…",
@@ -78,35 +104,6 @@
     "tags": [
       "Anthropic",
       "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gpt-red-unlocking-self-improvement-for-robustness-6hmzwi",
-    "title": "OpenAI：GPT-Red: Unlocking Self-Improvement for Robustness",
-    "summary": "据 OpenAI 官方信息，Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "date": "2026-07-15",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-ant-veswku",
-    "title": "TechCrunch：Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "summary": "据 TechCrunch 官方信息，Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-    "date": "2026-07-15",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Microsoft"
     ],
     "featured": false
   },
