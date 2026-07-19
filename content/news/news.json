@@ -1,14 +1,15 @@
 [
   {
-    "id": "ai-gets-trapped-in-a-circular-loop-on-climate-science-yum2sh",
-    "title": "Hacker News：AI Gets Trapped in a Circular Loop on Climate Science",
-    "summary": "据 Hacker News 官方信息，Today, I was asking Ai about the Canadian Wildfires and forest management. Instantly, the ai resorted to following the common narrative, and…",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=48956370",
+    "id": "dave-eggers-told-openai-staff-that-chatgpt-was-silencing-an-entire-gener-pl6gab",
+    "title": "The Verge：Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+    "summary": "据 The Verge 官方信息，Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
     "date": "2026-07-18",
     "category": "大模型",
     "tags": [
-      "Google"
+      "OpenAI",
+      "GPT"
     ],
     "featured": false
   },
