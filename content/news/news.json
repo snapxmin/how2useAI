@@ -1,11 +1,25 @@
 [
   {
-    "id": "dave-eggers-told-openai-staff-that-chatgpt-was-silencing-an-entire-gener-pl6gab",
-    "title": "The Verge：Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-    "summary": "据 The Verge 官方信息，Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, …",
+    "id": "china-delivers-a-one-two-punch-to-america-s-ai-dominance-zh8y2i",
+    "title": "The Verge：China delivers a one-two punch to America’s AI dominance",
+    "summary": "据 The Verge 官方信息，China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "date": "2026-07-18",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "date": "2026-07-20",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "free-gpt-5-6-terra-and-luna-2-5m-day-250k-sol-free-experiments-g3rh54",
+    "title": "Hacker News：Free GPT 5.6 Terra and Luna (2.5M/day) & 250k Sol – free experiments",
+    "summary": "据 Hacker News 官方信息，Article URL: https://platform.openai.com/settings/organization/data-controls/sharing Comments URL: https://news.ycombinator.com/item?id=4897…",
+    "source": "Hacker News",
+    "url": "https://platform.openai.com/settings/organization/data-controls/sharing",
+    "date": "2026-07-20",
     "category": "大模型",
     "tags": [
       "OpenAI",
@@ -105,19 +119,6 @@
     "tags": [
       "Anthropic",
       "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "celebrating-25-years-of-visual-search-innovation-1zuvx",
-    "title": "Google：Celebrating 25 years of visual search innovation",
-    "summary": "据 Google 官方信息，Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "date": "2026-07-14",
-    "category": "行业动态",
-    "tags": [
-      "Google"
     ],
     "featured": false
   },
