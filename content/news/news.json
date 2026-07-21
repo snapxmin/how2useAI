@@ -1,5 +1,45 @@
 [
   {
+    "id": "america-needs-to-stop-getting-shocked-by-chinese-ai-wljxyz",
+    "title": "The Verge：America needs to stop getting shocked by Chinese AI",
+    "summary": "据 The Verge 官方信息，SHANGHAI, CHINA - JULY 20 2026: People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Confer…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+    "date": "2026-07-21",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-s-landmark-1-5b-copyright-settlement-is-approved-im7nu",
+    "title": "TechCrunch：Anthropic’s landmark $1.5B copyright settlement is approved",
+    "summary": "据 TechCrunch 官方信息，The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "date": "2026-07-21",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "safety-and-alignment-in-an-era-of-long-horizon-models-dvlr6o",
+    "title": "OpenAI：Safety and alignment in an era of long-horizon models",
+    "summary": "据 OpenAI 官方信息，OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards throu…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "date": "2026-07-20",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "china-delivers-a-one-two-punch-to-america-s-ai-dominance-zh8y2i",
     "title": "The Verge：China delivers a one-two punch to America’s AI dominance",
     "summary": "据 The Verge 官方信息，China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to…",
@@ -12,33 +52,6 @@
       "Anthropic"
     ],
     "featured": false
-  },
-  {
-    "id": "free-gpt-5-6-terra-and-luna-2-5m-day-250k-sol-free-experiments-g3rh54",
-    "title": "Hacker News：Free GPT 5.6 Terra and Luna (2.5M/day) & 250k Sol – free experiments",
-    "summary": "据 Hacker News 官方信息，Article URL: https://platform.openai.com/settings/organization/data-controls/sharing Comments URL: https://news.ycombinator.com/item?id=4897…",
-    "source": "Hacker News",
-    "url": "https://platform.openai.com/settings/organization/data-controls/sharing",
-    "date": "2026-07-20",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "a-scorecard-for-the-ai-age-xbujfb",
-    "title": "OpenAI：A scorecard for the AI age",
-    "summary": "据 OpenAI 官方信息，Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability,…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "date": "2026-07-17",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
   },
   {
     "id": "why-teens-deserve-access-to-safe-ai-2owdov",
@@ -105,20 +118,6 @@
     "category": "AI产品",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "claude-can-now-use-your-1password-credentials-for-you-s2l9p7",
-    "title": "The Verge：Claude can now use your 1Password credentials for you",
-    "summary": "据 The Verge 官方信息，1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like use…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-    "date": "2026-07-16",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
     ],
     "featured": false
   },
