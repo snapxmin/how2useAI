@@ -1,27 +1,87 @@
 [
   {
+    "id": "introducing-the-chatgpt-for-small-business-program-f104g0",
+    "title": "OpenAI：Introducing the ChatGPT for small business program",
+    "summary": "据 OpenAI 官方信息，OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "date": "2026-07-21",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-and-hugging-face-partner-to-address-security-incident-during-mode-gl0q1e",
+    "title": "OpenAI：OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "summary": "据 OpenAI 官方信息，OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities a…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "date": "2026-07-21",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Hugging Face"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-hqmbq1",
+    "title": "Google DeepMind：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "summary": "据 Google DeepMind 官方信息，We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "date": "2026-07-21",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": true
+  },
+  {
+    "id": "google-launches-a-cheaper-alternative-to-large-ai-security-models-like-m-ng3d51",
+    "title": "The Verge：Google launches a cheaper alternative to large AI security models like Mythos",
+    "summary": "据 The Verge 官方信息，Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+    "date": "2026-07-21",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Google",
+      "Gemini",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-says-it-accidentally-hacked-hugging-face-with-a-new-ai-system-m63fby",
+    "title": "The Verge：OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "summary": "据 The Verge 官方信息，OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face durin…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "date": "2026-07-21",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "america-needs-to-stop-getting-shocked-by-chinese-ai-wljxyz",
     "title": "The Verge：America needs to stop getting shocked by Chinese AI",
-    "summary": "据 The Verge 官方信息，SHANGHAI, CHINA - JULY 20 2026: People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Confer…",
+    "summary": "据 The Verge 官方信息，People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday,…",
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
     "date": "2026-07-21",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-s-landmark-1-5b-copyright-settlement-is-approved-im7nu",
-    "title": "TechCrunch：Anthropic’s landmark $1.5B copyright settlement is approved",
-    "summary": "据 TechCrunch 官方信息，The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "date": "2026-07-21",
-    "category": "大模型",
-    "tags": [
       "Anthropic"
     ],
     "featured": false
@@ -37,49 +97,21 @@
     "tags": [
       "OpenAI"
     ],
-    "featured": true
-  },
-  {
-    "id": "china-delivers-a-one-two-punch-to-america-s-ai-dominance-zh8y2i",
-    "title": "The Verge：China delivers a one-two punch to America’s AI dominance",
-    "summary": "据 The Verge 官方信息，China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-    "date": "2026-07-20",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
     "featured": false
   },
   {
-    "id": "why-teens-deserve-access-to-safe-ai-2owdov",
-    "title": "OpenAI：Why teens deserve access to safe AI",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnersh…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "date": "2026-07-16",
+    "id": "introducing-gemini-3-5-flash-cyber-tn8xzo",
+    "title": "Google DeepMind：Introducing Gemini 3.5 Flash Cyber",
+    "summary": "据 Google DeepMind 官方信息，Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "date": "2026-07-17",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "GPT"
+      "Google",
+      "Gemini"
     ],
-    "featured": true
-  },
-  {
-    "id": "how-cars24-scales-conversations-and-builds-faster-with-openai-vf57vd",
-    "title": "OpenAI：How Cars24 scales conversations and builds faster with OpenAI",
-    "summary": "据 OpenAI 官方信息，Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic wo…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/cars24",
-    "date": "2026-07-16",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "create-edit-and-star-in-videos-with-two-google-vids-updates-l04qpi",
@@ -105,33 +137,6 @@
     "category": "大模型",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "connect-more-of-your-apps-to-search-r5bdso",
-    "title": "Google：Connect more of your apps to Search",
-    "summary": "据 Google 官方信息，You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "date": "2026-07-16",
-    "category": "AI产品",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "empowering-india-s-next-generation-of-innovators-with-atl-saathi-pid9wo",
-    "title": "Google DeepMind：Empowering India’s next generation of innovators with ATL Saathi",
-    "summary": "据 Google DeepMind 官方信息，Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "date": "2026-07-13",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
     ],
     "featured": false
   }
