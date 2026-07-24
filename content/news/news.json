@@ -1,5 +1,62 @@
 [
   {
+    "id": "launching-health-in-chatgpt-pakrek",
+    "title": "OpenAI：Launching Health in ChatGPT",
+    "summary": "据 OpenAI 官方信息，Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and bette…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "date": "2026-07-23",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "apple-s-openai-lawsuit-is-about-who-gets-to-define-the-post-smartphone-e-1pdgnh",
+    "title": "The Verge：Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+    "summary": "据 The Verge 官方信息，Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and Ope…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+    "date": "2026-07-23",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Microsoft"
+    ],
+    "featured": false
+  },
+  {
+    "id": "claude-s-voice-mode-is-now-available-for-opus-and-sonnet-tlxj6i",
+    "title": "The Verge：Claude’s voice mode is now available for Opus and Sonnet",
+    "summary": "据 The Verge 官方信息，Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opu…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "date": "2026-07-23",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-updates-claude-voice-mode-with-more-capable-models-lnmr52",
+    "title": "TechCrunch：Anthropic updates Claude voice mode with more capable models",
+    "summary": "据 TechCrunch 官方信息，Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "date": "2026-07-23",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
     "id": "introducing-openai-presence-gbk62b",
     "title": "OpenAI：Introducing OpenAI Presence",
     "summary": "据 OpenAI 官方信息，Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for custome…",
@@ -54,20 +111,6 @@
     "featured": true
   },
   {
-    "id": "openai-and-hugging-face-partner-to-address-security-incident-during-mode-gl0q1e",
-    "title": "OpenAI：OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "summary": "据 OpenAI 官方信息，OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities a…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "date": "2026-07-21",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Hugging Face"
-    ],
-    "featured": true
-  },
-  {
     "id": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-hqmbq1",
     "title": "Google DeepMind：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "summary": "据 Google DeepMind 官方信息，We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
@@ -81,58 +124,12 @@
     "featured": false
   },
   {
-    "id": "google-launches-a-cheaper-alternative-to-large-ai-security-models-like-m-ng3d51",
-    "title": "The Verge：Google launches a cheaper alternative to large AI security models like Mythos",
-    "summary": "据 The Verge 官方信息，Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-    "date": "2026-07-21",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Google",
-      "Gemini",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-says-it-accidentally-hacked-hugging-face-with-a-new-ai-system-m63fby",
-    "title": "The Verge：OpenAI says it accidentally hacked Hugging Face with a new AI system",
-    "summary": "据 The Verge 官方信息，OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face durin…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-    "date": "2026-07-21",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Hugging Face",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "introducing-gemini-3-5-flash-cyber-tn8xzo",
     "title": "Google DeepMind：Introducing Gemini 3.5 Flash Cyber",
     "summary": "据 Google DeepMind 官方信息，Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "source": "Google DeepMind",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "date": "2026-07-17",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "create-edit-and-star-in-videos-with-two-google-vids-updates-l04qpi",
-    "title": "Google：Create, edit and star in videos with two Google Vids updates",
-    "summary": "据 Google 官方信息，Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "date": "2026-07-16",
     "category": "大模型",
     "tags": [
       "Google",
