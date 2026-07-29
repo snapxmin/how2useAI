@@ -1,5 +1,58 @@
 [
   {
+    "id": "gemini-api-managed-agents-3-6-flash-hooks-and-more-um3nfn",
+    "title": "Google：Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "summary": "据 Google 官方信息，We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "date": "2026-07-28",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "scientific-computing-in-the-age-of-agentic-ai-h4c5ob",
+    "title": "OpenAI：Scientific computing in the age of agentic AI",
+    "summary": "据 OpenAI 官方信息，A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discov…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "date": "2026-07-28",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "5-ways-ai-mode-in-search-helps-you-enjoy-the-real-world-syic59",
+    "title": "Google：5 ways AI Mode in Search helps you enjoy the real world",
+    "summary": "据 Google 官方信息，It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book con…",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "date": "2026-07-28",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5-ways-to-host-the-ultimate-dinner-party-with-google-search-934sx9",
+    "title": "Google：5 ways to host the ultimate dinner party with Google Search",
+    "summary": "据 Google 官方信息，These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "date": "2026-07-28",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
     "id": "hugging-face-is-being-used-to-easily-undress-women-and-children-78hsez",
     "title": "The Verge：Hugging Face is being used to easily undress women and children",
     "summary": "据 The Verge 官方信息，Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge |…",
@@ -12,19 +65,6 @@
       "Google",
       "Hugging Face",
       "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-s-dario-amodei-responds-doesn-t-oppose-open-weight-models-but--vdn4mx",
-    "title": "TechCrunch：Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-    "summary": "据 TechCrunch 官方信息，Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "date": "2026-07-28",
-    "category": "大模型",
-    "tags": [
-      "Anthropic"
     ],
     "featured": false
   },
@@ -73,21 +113,6 @@
     "featured": false
   },
   {
-    "id": "anthropic-releases-opus-5-with-close-to-fable-5-s-capabilities-p0thkn",
-    "title": "The Verge：Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-    "summary": "据 The Verge 官方信息，Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry di…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-    "date": "2026-07-24",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
     "id": "launching-health-in-chatgpt-pakrek",
     "title": "OpenAI：Launching Health in ChatGPT",
     "summary": "据 OpenAI 官方信息，Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and bette…",
@@ -98,34 +123,7 @@
     "tags": [
       "GPT"
     ],
-    "featured": true
-  },
-  {
-    "id": "3-google-updates-from-galaxy-unpacked-2026-nibee",
-    "title": "Google：3 Google updates from Galaxy Unpacked 2026",
-    "summary": "据 Google 官方信息，We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "date": "2026-07-22",
-    "category": "AI产品",
-    "tags": [
-      "Google"
-    ],
     "featured": false
-  },
-  {
-    "id": "introducing-the-chatgpt-for-small-business-program-f104g0",
-    "title": "OpenAI：Introducing the ChatGPT for small business program",
-    "summary": "据 OpenAI 官方信息，OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "date": "2026-07-21",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
   },
   {
     "id": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-ydxqem",
