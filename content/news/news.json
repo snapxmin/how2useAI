@@ -1,16 +1,58 @@
 [
   {
-    "id": "microsoft-is-openly-competing-with-openai-anthropic-more-than-ever-kuh38q",
-    "title": "TechCrunch：Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "summary": "据 TechCrunch 官方信息，Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for contin…",
+    "id": "anthropic-says-its-own-ai-models-breached-three-companies-during-securit-6xa43w",
+    "title": "TechCrunch：Anthropic says its own AI models breached three companies during security tests",
+    "summary": "据 TechCrunch 官方信息，After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "date": "2026-07-30",
+    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "date": "2026-07-31",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "Anthropic",
-      "Microsoft"
+      "Hugging Face"
+    ],
+    "featured": false
+  },
+  {
+    "id": "advancing-the-price-performance-frontier-with-gpt-5-6-2af6r6",
+    "title": "OpenAI：Advancing the price-performance frontier with GPT-5.6",
+    "summary": "据 OpenAI 官方信息，Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "date": "2026-07-30",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime-ye9tu2",
+    "title": "OpenAI：How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "summary": "据 OpenAI 官方信息，avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/avatarin",
+    "date": "2026-07-30",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orc-1p78ks",
+    "title": "Google DeepMind：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "summary": "据 Google DeepMind 官方信息，Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool …",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "date": "2026-07-30",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
     ],
     "featured": false
   },
@@ -29,33 +71,6 @@
     "featured": true
   },
   {
-    "id": "how-gpt-5-6-fuses-frontier-intelligence-with-frontier-efficiency-q7b940",
-    "title": "OpenAI：How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "summary": "据 OpenAI 官方信息，GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "date": "2026-07-29",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "how-enabling-two-settings-tripled-our-scores-on-the-arc-agi-3-benchmark-tcfsik",
-    "title": "OpenAI：How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "summary": "据 OpenAI 官方信息，How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compactio…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "date": "2026-07-29",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
     "id": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musi-twyv5o",
     "title": "Google DeepMind：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
     "summary": "据 Google DeepMind 官方信息，We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
@@ -65,19 +80,6 @@
     "category": "AI产品",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-president-says-it-8217-s-8216-building-a-family-of-devices-8217-f-pk3gyy",
-    "title": "The Verge：OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-    "summary": "据 The Verge 官方信息，In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-    "date": "2026-07-29",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
     ],
     "featured": false
   },
@@ -93,7 +95,20 @@
       "Gemini",
       "Agent"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "gemini-robotics-2-brings-whole-body-intelligence-to-robots-i2756o",
+    "title": "Google DeepMind：Gemini Robotics 2 brings whole body intelligence to robots",
+    "summary": "据 Google DeepMind 官方信息，Gemini Robotics 2 brings whole body intelligence to robots",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "date": "2026-07-28",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
   },
   {
     "id": "5-ways-ai-mode-in-search-helps-you-enjoy-the-real-world-syic59",
@@ -118,19 +133,6 @@
     "category": "行业动态",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-ydxqem",
-    "title": "Google DeepMind：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "summary": "据 Google DeepMind 官方信息，We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "date": "2026-07-21",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
     ],
     "featured": false
   }
