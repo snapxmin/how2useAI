@@ -1,16 +1,47 @@
 [
   {
-    "id": "anthropic-says-its-own-ai-models-breached-three-companies-during-securit-6xa43w",
-    "title": "TechCrunch：Anthropic says its own AI models breached three companies during security tests",
-    "summary": "据 TechCrunch 官方信息，After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "id": "disrupting-a-criminal-scam-operation-ylbzzj",
+    "title": "OpenAI：Disrupting a Criminal Scam Operation",
+    "summary": "据 OpenAI 官方信息，OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "date": "2026-07-31",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "it-s-time-to-panic-about-ai-safety-evenym",
+    "title": "The Verge：It’s time to panic about AI safety",
+    "summary": "据 The Verge 官方信息，When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we lear…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
     "date": "2026-07-31",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "Anthropic",
-      "Hugging Face"
+      "Hugging Face",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-says-claude-accidentally-hacked-real-companies-too-acr7nq",
+    "title": "The Verge：Anthropic says Claude accidentally hacked real companies too",
+    "summary": "据 The Verge 官方信息，Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on t…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "date": "2026-07-31",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Hugging Face",
+      "Claude"
     ],
     "featured": false
   },
@@ -55,20 +86,6 @@
       "Gemini"
     ],
     "featured": false
-  },
-  {
-    "id": "accelerating-scientific-discovery-with-chatgpt-for-academic-researchers-7am3iz",
-    "title": "OpenAI：Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "summary": "据 OpenAI 官方信息，OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaborat…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "date": "2026-07-29",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
   },
   {
     "id": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musi-twyv5o",
@@ -116,19 +133,6 @@
     "summary": "据 Google 官方信息，It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book con…",
     "source": "Google",
     "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "date": "2026-07-28",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "5-ways-to-host-the-ultimate-dinner-party-with-google-search-934sx9",
-    "title": "Google：5 ways to host the ultimate dinner party with Google Search",
-    "summary": "据 Google 官方信息，These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
     "date": "2026-07-28",
     "category": "行业动态",
     "tags": [
