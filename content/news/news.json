@@ -1,5 +1,19 @@
 [
   {
+    "id": "china-8217-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy-o57c5k",
+    "title": "The Verge：China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "summary": "据 The Verge 官方信息，The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tec…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "date": "2026-08-03",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
     "id": "disrupting-a-criminal-scam-operation-ylbzzj",
     "title": "OpenAI：Disrupting a Criminal Scam Operation",
     "summary": "据 OpenAI 官方信息，OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
@@ -124,19 +138,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "5-ways-ai-mode-in-search-helps-you-enjoy-the-real-world-syic59",
-    "title": "Google：5 ways AI Mode in Search helps you enjoy the real world",
-    "summary": "据 Google 官方信息，It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book con…",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "date": "2026-07-28",
-    "category": "行业动态",
-    "tags": [
-      "Google"
     ],
     "featured": false
   }
