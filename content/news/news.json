@@ -1,5 +1,44 @@
 [
   {
+    "id": "how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months-b796sn",
+    "title": "OpenAI：How we built a realtime system for responsive voice AI in six months",
+    "summary": "据 OpenAI 官方信息，GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural c…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "date": "2026-08-03",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "apple-is-getting-this-wrong-q3x45d",
+    "title": "OpenAI：Apple is getting this wrong",
+    "summary": "据 OpenAI 官方信息，OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "date": "2026-08-03",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "circles-powers-telco-personalization-with-openai-technology-glz00l",
+    "title": "OpenAI：Circles powers telco personalization with OpenAI technology",
+    "summary": "据 OpenAI 官方信息，Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving deve…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/circles",
+    "date": "2026-08-03",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "china-8217-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy-o57c5k",
     "title": "The Verge：China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
     "summary": "据 The Verge 官方信息，The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tec…",
@@ -14,18 +53,18 @@
     "featured": false
   },
   {
-    "id": "disrupting-a-criminal-scam-operation-ylbzzj",
-    "title": "OpenAI：Disrupting a Criminal Scam Operation",
-    "summary": "据 OpenAI 官方信息，OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "date": "2026-07-31",
+    "id": "congress-favorite-ai-tool-chatgpt-3iodk3",
+    "title": "TechCrunch：Congress’ favorite AI tool? ChatGPT",
+    "summary": "据 TechCrunch 官方信息，House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to dra…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "date": "2026-08-03",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "GPT"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "it-s-time-to-panic-about-ai-safety-evenym",
@@ -42,51 +81,6 @@
       "Agent"
     ],
     "featured": false
-  },
-  {
-    "id": "anthropic-says-claude-accidentally-hacked-real-companies-too-acr7nq",
-    "title": "The Verge：Anthropic says Claude accidentally hacked real companies too",
-    "summary": "据 The Verge 官方信息，Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on t…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-    "date": "2026-07-31",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Hugging Face",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "advancing-the-price-performance-frontier-with-gpt-5-6-2af6r6",
-    "title": "OpenAI：Advancing the price-performance frontier with GPT-5.6",
-    "summary": "据 OpenAI 官方信息，Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "date": "2026-07-30",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "how-avatarin-built-a-24-7-retail-agent-with-gpt-realtime-ye9tu2",
-    "title": "OpenAI：How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "summary": "据 OpenAI 官方信息，avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/avatarin",
-    "date": "2026-07-30",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": true
   },
   {
     "id": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orc-1p78ks",
