@@ -1,5 +1,58 @@
 [
   {
+    "id": "openai-anthropic-ai-models-breached-systems-during-uk-safety-tests-aj235j",
+    "title": "Hacker News：OpenAI, Anthropic AI Models Breached Systems During UK Safety Tests",
+    "summary": "据 Hacker News 官方信息，Article URL: https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing Comments URL: …",
+    "source": "Hacker News",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
+    "date": "2026-08-05",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "third-party-cyber-evaluations-involving-openai-models-nmq531",
+    "title": "OpenAI：Third-party cyber evaluations involving OpenAI models",
+    "summary": "据 OpenAI 官方信息，OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluat…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "date": "2026-08-04",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "new-ways-to-learn-and-teach-with-chatgpt-work-and-codex-sinq1q",
+    "title": "OpenAI：New ways to learn and teach with ChatGPT Work and Codex",
+    "summary": "据 OpenAI 官方信息，Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, an…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "date": "2026-08-04",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "the-latest-ai-news-we-announced-in-july-2026-68d2b2",
+    "title": "Google：The latest AI news we announced in July 2026",
+    "summary": "据 Google 官方信息，Here are Google’s latest AI updates from July 2026",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "date": "2026-08-04",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
     "id": "how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months-b796sn",
     "title": "OpenAI：How we built a realtime system for responsive voice AI in six months",
     "summary": "据 OpenAI 官方信息，GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural c…",
@@ -13,71 +66,15 @@
     "featured": true
   },
   {
-    "id": "apple-is-getting-this-wrong-q3x45d",
-    "title": "OpenAI：Apple is getting this wrong",
-    "summary": "据 OpenAI 官方信息，OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "id": "inside-our-353-000-person-vibe-coding-course-5xeta",
+    "title": "Google：Inside our 353,000-person vibe coding course",
+    "summary": "据 Google 官方信息，Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
     "date": "2026-08-03",
     "category": "AI产品",
     "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "circles-powers-telco-personalization-with-openai-technology-glz00l",
-    "title": "OpenAI：Circles powers telco personalization with OpenAI technology",
-    "summary": "据 OpenAI 官方信息，Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving deve…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/circles",
-    "date": "2026-08-03",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "china-8217-s-alibaba-takes-another-swipe-at-america-s-ai-supremacy-o57c5k",
-    "title": "The Verge：China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-    "summary": "据 The Verge 官方信息，The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tec…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "date": "2026-08-03",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "congress-favorite-ai-tool-chatgpt-3iodk3",
-    "title": "TechCrunch：Congress’ favorite AI tool? ChatGPT",
-    "summary": "据 TechCrunch 官方信息，House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to dra…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "date": "2026-08-03",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "it-s-time-to-panic-about-ai-safety-evenym",
-    "title": "The Verge：It’s time to panic about AI safety",
-    "summary": "据 The Verge 官方信息，When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we lear…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-    "date": "2026-07-31",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Hugging Face",
+      "Google",
       "Agent"
     ],
     "featured": false
