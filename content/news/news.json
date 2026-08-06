@@ -1,15 +1,45 @@
 [
   {
-    "id": "openai-anthropic-ai-models-breached-systems-during-uk-safety-tests-aj235j",
-    "title": "Hacker News：OpenAI, Anthropic AI Models Breached Systems During UK Safety Tests",
-    "summary": "据 Hacker News 官方信息，Article URL: https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing Comments URL: …",
-    "source": "Hacker News",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
+    "id": "openai-says-apple-s-trade-secrets-lawsuit-is-rotten-to-its-core-tj3fb2",
+    "title": "The Verge：OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+    "summary": "据 The Verge 官方信息，OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the a…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "date": "2026-08-06",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "rogue-ai-agents-created-fake-online-identities-in-another-hacking-attemp-exedzr",
+    "title": "The Verge：Rogue AI agents created fake online identities in another hacking attempt",
+    "summary": "据 The Verge 官方信息，Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveri…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
     "date": "2026-08-05",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Anthropic"
+      "Anthropic",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-is-hiring-an-ai-chip-design-team-41w0ap",
+    "title": "TechCrunch：Anthropic is hiring an AI chip design team",
+    "summary": "据 TechCrunch 官方信息，Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "date": "2026-08-05",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
     ],
     "featured": false
   },
@@ -93,19 +123,6 @@
     "featured": false
   },
   {
-    "id": "we-re-launching-lyria-3-5-in-google-flow-music-with-advances-across-musi-twyv5o",
-    "title": "Google DeepMind：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "summary": "据 Google DeepMind 官方信息，We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "date": "2026-07-29",
-    "category": "AI产品",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
     "id": "gemini-api-managed-agents-3-6-flash-hooks-and-more-um3nfn",
     "title": "Google：Gemini API Managed Agents: 3.6 Flash, hooks, and more",
     "summary": "据 Google 官方信息，We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
@@ -116,19 +133,6 @@
     "tags": [
       "Gemini",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-robotics-2-brings-whole-body-intelligence-to-robots-i2756o",
-    "title": "Google DeepMind：Gemini Robotics 2 brings whole body intelligence to robots",
-    "summary": "据 Google DeepMind 官方信息，Gemini Robotics 2 brings whole body intelligence to robots",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "date": "2026-07-28",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
     ],
     "featured": false
   }
