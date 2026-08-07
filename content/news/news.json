@@ -1,31 +1,68 @@
 [
   {
-    "id": "openai-says-apple-s-trade-secrets-lawsuit-is-rotten-to-its-core-tj3fb2",
-    "title": "The Verge：OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-    "summary": "据 The Verge 官方信息，OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the a…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "id": "how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory-2lxad7",
+    "title": "OpenAI：How HSP GRUPPE builds AI capabilities for tax advisory",
+    "summary": "据 OpenAI 官方信息，Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and c…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "date": "2026-08-07",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "from-asking-to-doing-how-the-world-is-putting-chatgpt-to-work-f7bz42",
+    "title": "OpenAI：From asking to doing: How the world is putting ChatGPT to work",
+    "summary": "据 OpenAI 官方信息，New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
     "date": "2026-08-06",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "GPT"
     ],
+    "featured": true
+  },
+  {
+    "id": "improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-fo-j7yphl",
+    "title": "OpenAI：Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "summary": "据 OpenAI 官方信息，ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday cha…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "date": "2026-08-06",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones-rz14pw",
+    "title": "Google DeepMind：WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "summary": "据 Google DeepMind 官方信息，WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "date": "2026-08-06",
+    "category": "大模型",
+    "tags": [
+      "Google DeepMind"
+    ],
     "featured": false
   },
   {
-    "id": "rogue-ai-agents-created-fake-online-identities-in-another-hacking-attemp-exedzr",
-    "title": "The Verge：Rogue AI agents created fake online identities in another hacking attempt",
-    "summary": "据 The Verge 官方信息，Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveri…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-    "date": "2026-08-05",
+    "id": "chatgpt-brings-unlimited-text-chats-to-free-users-9oygr0",
+    "title": "TechCrunch：ChatGPT brings unlimited text chats to free users",
+    "summary": "据 TechCrunch 官方信息，OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "date": "2026-08-06",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Anthropic",
-      "GPT",
-      "Agent"
+      "GPT"
     ],
     "featured": false
   },
@@ -44,32 +81,6 @@
     "featured": false
   },
   {
-    "id": "third-party-cyber-evaluations-involving-openai-models-nmq531",
-    "title": "OpenAI：Third-party cyber evaluations involving OpenAI models",
-    "summary": "据 OpenAI 官方信息，OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluat…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "date": "2026-08-04",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "new-ways-to-learn-and-teach-with-chatgpt-work-and-codex-sinq1q",
-    "title": "OpenAI：New ways to learn and teach with ChatGPT Work and Codex",
-    "summary": "据 OpenAI 官方信息，Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, an…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "date": "2026-08-04",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "the-latest-ai-news-we-announced-in-july-2026-68d2b2",
     "title": "Google：The latest AI news we announced in July 2026",
     "summary": "据 Google 官方信息，Here are Google’s latest AI updates from July 2026",
@@ -81,19 +92,6 @@
       "Google"
     ],
     "featured": false
-  },
-  {
-    "id": "how-we-built-a-realtime-system-for-responsive-voice-ai-in-six-months-b796sn",
-    "title": "OpenAI：How we built a realtime system for responsive voice AI in six months",
-    "summary": "据 OpenAI 官方信息，GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural c…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "date": "2026-08-03",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
   },
   {
     "id": "inside-our-353-000-person-vibe-coding-course-5xeta",
