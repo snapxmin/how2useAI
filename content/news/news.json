@@ -1,5 +1,18 @@
 [
   {
+    "id": "responding-to-the-next-frontier-of-critical-cyber-capabilities-gaeuuu",
+    "title": "OpenAI：Responding to the next frontier of critical cyber capabilities",
+    "summary": "据 OpenAI 官方信息，OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "date": "2026-08-07",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "how-hsp-gruppe-builds-ai-capabilities-for-tax-advisory-2lxad7",
     "title": "OpenAI：How HSP GRUPPE builds AI capabilities for tax advisory",
     "summary": "据 OpenAI 官方信息，Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and c…",
@@ -11,6 +24,63 @@
       "GPT"
     ],
     "featured": true
+  },
+  {
+    "id": "openai-puts-the-brakes-on-a-new-model-because-it-8217-s-supposedly-too-p-5oxc8c",
+    "title": "The Verge：OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "summary": "据 The Verge 官方信息，OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "date": "2026-08-07",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Meta",
+      "Hugging Face"
+    ],
+    "featured": false
+  },
+  {
+    "id": "what-8217-s-behind-the-google-ai-shake-up-jcnqgl",
+    "title": "The Verge：What&#8217;s behind the Google AI shake-up",
+    "summary": "据 The Verge 官方信息，Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs a…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "date": "2026-08-07",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-says-it-slowed-astra-model-development-over-security-concerns-go8vr7",
+    "title": "TechCrunch：OpenAI says it slowed Astra model development over security concerns",
+    "summary": "据 TechCrunch 官方信息，OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identi…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "date": "2026-08-07",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "cloudflare-launches-kitesurf-a-browser-built-for-ai-agents-u9byjw",
+    "title": "TechCrunch：Cloudflare launches Kitesurf, a browser built for AI agents",
+    "summary": "据 TechCrunch 官方信息，Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automatio…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "date": "2026-08-07",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
   },
   {
     "id": "from-asking-to-doing-how-the-world-is-putting-chatgpt-to-work-f7bz42",
@@ -27,19 +97,6 @@
     "featured": true
   },
   {
-    "id": "improving-gpt-5-6-sol-in-chatgpt-and-expanding-access-to-gpt-5-6-luna-fo-j7yphl",
-    "title": "OpenAI：Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "summary": "据 OpenAI 官方信息，ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday cha…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "date": "2026-08-06",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones-rz14pw",
     "title": "Google DeepMind：WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "summary": "据 Google DeepMind 官方信息，WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -49,34 +106,6 @@
     "category": "大模型",
     "tags": [
       "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "chatgpt-brings-unlimited-text-chats-to-free-users-9oygr0",
-    "title": "TechCrunch：ChatGPT brings unlimited text chats to free users",
-    "summary": "据 TechCrunch 官方信息，OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "date": "2026-08-06",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-is-hiring-an-ai-chip-design-team-41w0ap",
-    "title": "TechCrunch：Anthropic is hiring an AI chip design team",
-    "summary": "据 TechCrunch 官方信息，Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "date": "2026-08-05",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
     ],
     "featured": false
   },
@@ -103,33 +132,6 @@
     "category": "AI产品",
     "tags": [
       "Google",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orc-1p78ks",
-    "title": "Google DeepMind：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-    "summary": "据 Google DeepMind 官方信息，Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool …",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "date": "2026-07-30",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-api-managed-agents-3-6-flash-hooks-and-more-um3nfn",
-    "title": "Google：Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "summary": "据 Google 官方信息，We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "date": "2026-07-28",
-    "category": "大模型",
-    "tags": [
-      "Gemini",
       "Agent"
     ],
     "featured": false
