@@ -1,15 +1,28 @@
 [
   {
-    "id": "openai-acquires-presentation-startup-nextslide-iou3wc",
-    "title": "TechCrunch：OpenAI acquires presentation startup NextSlide",
-    "summary": "据 TechCrunch 官方信息，NextSlide says its team members are now working on ChatGPT.",
+    "id": "anthropic-is-turning-claude-code-s-auto-mode-on-by-default-sy06mo",
+    "title": "TechCrunch：Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "据 TechCrunch 官方信息，Programming with Claude Code will soon require even less human oversight.",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "date": "2026-08-08",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "date": "2026-08-09",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "GPT"
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "the-ai-safety-test-is-becoming-a-safety-risk-2427ia",
+    "title": "TechCrunch：The AI safety test is becoming a safety risk",
+    "summary": "据 TechCrunch 官方信息，AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastruc…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "date": "2026-08-09",
+    "category": "大模型",
+    "tags": [
+      "Agent"
     ],
     "featured": false
   },
@@ -67,19 +80,6 @@
       "OpenAI",
       "Anthropic",
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-says-it-slowed-astra-model-development-over-security-concerns-go8vr7",
-    "title": "TechCrunch：OpenAI says it slowed Astra model development over security concerns",
-    "summary": "据 TechCrunch 官方信息，OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identi…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "date": "2026-08-07",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
     ],
     "featured": false
   },
