@@ -1,28 +1,72 @@
 [
   {
-    "id": "i-reverse-engineered-codex-s-web-search-for-use-with-claude-and-any-loca-gsup4q",
-    "title": "Hacker News：I reverse-engineered Codex's web search for use with Claude, and any local model",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/mateusdcc/pi-gpt-search Comments URL: https://news.ycombinator.com/item?id=49255837 Points: 2 # Comments: 1",
-    "source": "Hacker News",
-    "url": "https://github.com/mateusdcc/pi-gpt-search",
+    "id": "testing-ads-in-chatgpt-1tyvgd",
+    "title": "OpenAI：Testing ads in ChatGPT",
+    "summary": "据 OpenAI 官方信息，OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "date": "2026-08-11",
     "category": "大模型",
     "tags": [
-      "GPT",
-      "Claude"
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "amie-our-research-medical-ai-system-demonstrates-real-time-clinical-vide-tqxm7z",
+    "title": "Google：AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "summary": "据 Google 官方信息，Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "date": "2026-08-11",
+    "category": "研究进展",
+    "tags": [
+      "Google"
     ],
     "featured": false
   },
   {
-    "id": "show-hn-ungate-use-claude-and-gpt-subscriptions-in-cursor-without-api-co-8ppsrt",
-    "title": "Hacker News：Show HN: Ungate – use Claude and GPT subscriptions in Cursor without API costs",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/orchidfiles/ungate Comments URL: https://news.ycombinator.com/item?id=49255661 Points: 1 # Comments: 0",
-    "source": "Hacker News",
-    "url": "https://github.com/orchidfiles/ungate",
+    "id": "openai-launches-chatgpt-desktop-app-for-linux-6qdbzi",
+    "title": "TechCrunch：OpenAI launches ChatGPT desktop app for Linux",
+    "summary": "据 TechCrunch 官方信息，OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
     "date": "2026-08-11",
     "category": "大模型",
     "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-and-gemini-both-just-passed-1-billion-users-2uajy4",
+    "title": "The Verge：ChatGPT and Gemini both just passed 1 billion users",
+    "summary": "据 The Verge 官方信息，That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "date": "2026-08-11",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
       "GPT",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "claude-will-apply-invisible-watermarks-to-ai-text-and-images-ru67fj",
+    "title": "The Verge：Claude will apply invisible watermarks to AI text and images",
+    "summary": "据 The Verge 官方信息，Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rul…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+    "date": "2026-08-11",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Meta",
       "Claude"
     ],
     "featured": false
@@ -55,19 +99,6 @@
     "featured": true
   },
   {
-    "id": "model-ml-completes-finance-work-more-efficiently-with-gpt-5-6-sol-35uqit",
-    "title": "OpenAI：Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "summary": "据 OpenAI 官方信息，Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/model-ml",
-    "date": "2026-08-10",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "evolve-your-marketing-with-new-ai-tools-uat3rd",
     "title": "Google：Evolve your marketing with new AI tools",
     "summary": "据 Google 官方信息，Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
@@ -82,22 +113,6 @@
     "featured": false
   },
   {
-    "id": "what-happens-to-bose-when-headphones-become-ai-kr9p53",
-    "title": "The Verge：What happens to Bose when headphones become AI?",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-    "date": "2026-08-10",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "Meta",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
     "id": "as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model-1uixn1",
     "title": "TechCrunch：As AI-led attacks multiply, OpenAI launches a new cyber model",
     "summary": "据 TechCrunch 官方信息，OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
@@ -107,22 +122,6 @@
     "category": "大模型",
     "tags": [
       "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-puts-the-brakes-on-a-new-model-because-it-8217-s-supposedly-too-p-5oxc8c",
-    "title": "The Verge：OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-    "summary": "据 The Verge 官方信息，OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "date": "2026-08-07",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Meta",
-      "Hugging Face"
     ],
     "featured": false
   },
