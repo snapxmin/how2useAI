@@ -1,17 +1,61 @@
 [
   {
-    "id": "testing-ads-in-chatgpt-1tyvgd",
-    "title": "OpenAI：Testing ads in ChatGPT",
-    "summary": "据 OpenAI 官方信息，OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user …",
+    "id": "agento-the-missing-dashboard-for-claude-code-v16cae",
+    "title": "Hacker News：Agento: The missing dashboard for Claude Code",
+    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/shaharia-lab/agento Comments URL: https://news.ycombinator.com/item?id=49283885 Points: 1 # Comments: 0",
+    "source": "Hacker News",
+    "url": "https://github.com/shaharia-lab/agento",
+    "date": "2026-08-13",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "from-assistance-to-execution-how-enterprises-put-ai-to-work-xduryk",
+    "title": "OpenAI：From assistance to execution: How enterprises put AI to work",
+    "summary": "据 OpenAI 官方信息，OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI ado…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "date": "2026-08-11",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "date": "2026-08-12",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "GPT"
+      "GPT",
+      "Agent"
     ],
     "featured": true
+  },
+  {
+    "id": "putting-sign-language-ai-into-users-hands-650fq3",
+    "title": "Google DeepMind：Putting sign language AI into users’ hands",
+    "summary": "据 Google DeepMind 官方信息，Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "date": "2026-08-12",
+    "category": "大模型",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
+  },
+  {
+    "id": "grok-is-now-an-ai-teammate-you-can-assign-work-306lu5",
+    "title": "The Verge：Grok is now an AI ‘teammate’ you can assign work",
+    "summary": "据 The Verge 官方信息，You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI SpaceXAI has introduced Grok Bot, an alw…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "date": "2026-08-12",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Microsoft",
+      "GPT"
+    ],
+    "featured": false
   },
   {
     "id": "amie-our-research-medical-ai-system-demonstrates-real-time-clinical-vide-tqxm7z",
@@ -37,37 +81,6 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "chatgpt-and-gemini-both-just-passed-1-billion-users-2uajy4",
-    "title": "The Verge：ChatGPT and Gemini both just passed 1 billion users",
-    "summary": "据 The Verge 官方信息，That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "date": "2026-08-11",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "GPT",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "claude-will-apply-invisible-watermarks-to-ai-text-and-images-ru67fj",
-    "title": "The Verge：Claude will apply invisible watermarks to AI text and images",
-    "summary": "据 The Verge 官方信息，Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rul…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-    "date": "2026-08-11",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Meta",
-      "Claude"
     ],
     "featured": false
   },
@@ -109,19 +122,6 @@
     "tags": [
       "Google",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model-1uixn1",
-    "title": "TechCrunch：As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "summary": "据 TechCrunch 官方信息，OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "date": "2026-08-10",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
     ],
     "featured": false
   },
