@@ -1,15 +1,71 @@
 [
   {
-    "id": "agento-the-missing-dashboard-for-claude-code-v16cae",
-    "title": "Hacker News：Agento: The missing dashboard for Claude Code",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/shaharia-lab/agento Comments URL: https://news.ycombinator.com/item?id=49283885 Points: 1 # Comments: 0",
-    "source": "Hacker News",
-    "url": "https://github.com/shaharia-lab/agento",
+    "id": "the-builder-s-guide-to-gpt-5-6-qtyaqw",
+    "title": "OpenAI：The builder’s guide to GPT‑5.6",
+    "summary": "据 OpenAI 官方信息，Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilitie…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "date": "2026-08-13",
     "category": "大模型",
     "tags": [
-      "Claude",
+      "GPT",
       "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-gemini-3-7-flash-fai2zm",
+    "title": "Google DeepMind：Introducing Gemini 3.7 Flash",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.7 Flash",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "date": "2026-08-13",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "does-google-even-want-to-win-at-ai-iem8an",
+    "title": "The Verge：Does Google even want to win at AI?",
+    "summary": "据 The Verge 官方信息，Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech indu…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+    "date": "2026-08-13",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "bring-your-spreadsheet-data-to-life-with-sheets-canvas-gfya99",
+    "title": "Google：Bring your spreadsheet data to life with Sheets canvas",
+    "summary": "据 Google 官方信息，Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "date": "2026-08-13",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14-8222fj",
+    "title": "TechCrunch：OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "据 TechCrunch 官方信息，OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "date": "2026-08-13",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
     ],
     "featured": false
   },
@@ -42,22 +98,6 @@
     "featured": false
   },
   {
-    "id": "grok-is-now-an-ai-teammate-you-can-assign-work-306lu5",
-    "title": "The Verge：Grok is now an AI ‘teammate’ you can assign work",
-    "summary": "据 The Verge 官方信息，You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI SpaceXAI has introduced Grok Bot, an alw…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "date": "2026-08-12",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Microsoft",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
     "id": "amie-our-research-medical-ai-system-demonstrates-real-time-clinical-vide-tqxm7z",
     "title": "Google：AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
     "summary": "据 Google 官方信息，Google introduces AMIE for real-time clinical video consultations in simulated settings.",
@@ -67,20 +107,6 @@
     "category": "研究进展",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-launches-chatgpt-desktop-app-for-linux-6qdbzi",
-    "title": "TechCrunch：OpenAI launches ChatGPT desktop app for Linux",
-    "summary": "据 TechCrunch 官方信息，OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "date": "2026-08-11",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
     ],
     "featured": false
   },
@@ -98,20 +124,6 @@
     "featured": true
   },
   {
-    "id": "expanding-daybreak-as-the-cyber-defense-window-narrows-6ptn22",
-    "title": "OpenAI：Expanding Daybreak as the Cyber Defense Window Narrows",
-    "summary": "据 OpenAI 官方信息，Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit vali…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "date": "2026-08-10",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "evolve-your-marketing-with-new-ai-tools-uat3rd",
     "title": "Google：Evolve your marketing with new AI tools",
     "summary": "据 Google 官方信息，Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
@@ -122,19 +134,6 @@
     "tags": [
       "Google",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones-rz14pw",
-    "title": "Google DeepMind：WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "summary": "据 Google DeepMind 官方信息，WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "date": "2026-08-06",
-    "category": "大模型",
-    "tags": [
-      "Google DeepMind"
     ],
     "featured": false
   }
