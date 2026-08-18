@@ -1,5 +1,31 @@
 [
   {
+    "id": "the-defender-s-window-8ct6in",
+    "title": "OpenAI：The Defender’s Window",
+    "summary": "据 OpenAI 官方信息，AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/the-defenders-window",
+    "date": "2026-08-17",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-joins-ports-pike-project-8alkox",
+    "title": "OpenAI：OpenAI joins PORTS-Pike project",
+    "summary": "据 OpenAI 官方信息，OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "date": "2026-08-17",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "get-closer-to-the-game-with-gemini-and-pixel-70pq8q",
     "title": "Google：Get closer to the game with Gemini and Pixel",
     "summary": "据 Google 官方信息，Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
@@ -11,7 +37,20 @@
       "Google",
       "Gemini"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "anthropic-s-annualized-revenue-surges-to-65b-tknl50",
+    "title": "TechCrunch：Anthropic’s annualized revenue surges to $65B",
+    "summary": "据 TechCrunch 官方信息，The model maker added $18 billion in annualized revenue in two months.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "date": "2026-08-17",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
   },
   {
     "id": "anthropic-explains-how-claude-8217-s-invisible-text-watermarks-will-work-6hhxy8",
@@ -27,20 +66,6 @@
       "Claude"
     ],
     "featured": false
-  },
-  {
-    "id": "the-builder-s-guide-to-gpt-5-6-qtyaqw",
-    "title": "OpenAI：The builder’s guide to GPT‑5.6",
-    "summary": "据 OpenAI 官方信息，Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilitie…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "date": "2026-08-13",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "featured": true
   },
   {
     "id": "introducing-gemini-3-7-flash-fai2zm",
@@ -65,35 +90,6 @@
     "category": "行业动态",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14-8222fj",
-    "title": "TechCrunch：OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "summary": "据 TechCrunch 官方信息，OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "date": "2026-08-13",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "from-assistance-to-execution-how-enterprises-put-ai-to-work-xduryk",
-    "title": "OpenAI：From assistance to execution: How enterprises put AI to work",
-    "summary": "据 OpenAI 官方信息，OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI ado…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "date": "2026-08-12",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
     ],
     "featured": false
   },
