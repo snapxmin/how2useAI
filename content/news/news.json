@@ -1,5 +1,91 @@
 [
   {
+    "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-cdguoq",
+    "title": "TechCrunch：Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "summary": "据 TechCrunch 官方信息，Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "date": "2026-08-20",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "offering-zero-data-retention-for-frontier-models-5c16oa",
+    "title": "OpenAI：Offering Zero Data Retention for frontier models",
+    "summary": "据 OpenAI 官方信息，OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compro…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "date": "2026-08-19",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "meta-ai-is-getting-a-mac-app-p9488u",
+    "title": "The Verge：Meta AI is getting a Mac app",
+    "summary": "据 The Verge 官方信息，Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedica…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "date": "2026-08-19",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5-new-ways-to-level-up-your-learning-with-search-9v2sr0",
+    "title": "Google：5 new ways to level up your learning with Search",
+    "summary": "据 Google 官方信息，Here’s how you can use Google Search tools to study for classes and standardized tests.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "date": "2026-08-19",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-packs-search-and-gemini-with-new-ai-study-tools-a1r9bu",
+    "title": "TechCrunch：Google packs Search and Gemini with new AI study tools",
+    "summary": "据 TechCrunch 官方信息，The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and st…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "date": "2026-08-19",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-hit-the-brakes-now-what-pqcbhy",
+    "title": "The Verge：OpenAI hit the brakes. Now what?",
+    "summary": "据 The Verge 官方信息，With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reason…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "date": "2026-08-19",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
     "id": "strengthening-democratic-oversight-in-national-security-w2ja9k",
     "title": "OpenAI：Strengthening democratic oversight in national security",
     "summary": "据 OpenAI 官方信息，OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, …",
@@ -24,48 +110,6 @@
       "OpenAI"
     ],
     "featured": true
-  },
-  {
-    "id": "openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-usin-zasa48",
-    "title": "TechCrunch：OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "summary": "据 TechCrunch 官方信息，ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful cont…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "date": "2026-08-18",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "chatgpt-is-getting-a-dedicated-mode-for-teens-xm5fv7",
-    "title": "The Verge：ChatGPT is getting a dedicated mode for teens",
-    "summary": "据 The Verge 官方信息，ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, c…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-    "date": "2026-08-18",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-institutes-new-safeguards-after-hugging-face-breach-9c4hs4",
-    "title": "TechCrunch：OpenAI institutes new safeguards after Hugging Face breach",
-    "summary": "据 TechCrunch 官方信息，The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and s…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "date": "2026-08-18",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Hugging Face"
-    ],
-    "featured": false
   },
   {
     "id": "get-closer-to-the-game-with-gemini-and-pixel-70pq8q",
@@ -93,44 +137,5 @@
       "Gemini"
     ],
     "featured": false
-  },
-  {
-    "id": "bring-your-spreadsheet-data-to-life-with-sheets-canvas-gfya99",
-    "title": "Google：Bring your spreadsheet data to life with Sheets canvas",
-    "summary": "据 Google 官方信息，Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "date": "2026-08-13",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "putting-sign-language-ai-into-users-hands-650fq3",
-    "title": "Google DeepMind：Putting sign language AI into users’ hands",
-    "summary": "据 Google DeepMind 官方信息，Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "date": "2026-08-12",
-    "category": "大模型",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-s-letter-to-governor-abbott-on-responsible-ai-infrastructure-in-t-e23jfp",
-    "title": "OpenAI：OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "summary": "据 OpenAI 官方信息，OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "date": "2026-08-10",
-    "category": "开源",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
   }
 ]
