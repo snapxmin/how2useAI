@@ -1,16 +1,84 @@
 [
   {
-    "id": "binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-cdguoq",
-    "title": "TechCrunch：Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "summary": "据 TechCrunch 官方信息，Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "id": "stampli-cuts-launch-hours-by-68-using-chatgpt-work-a3d6vc",
+    "title": "OpenAI：Stampli cuts launch hours by 68% using ChatGPT Work",
+    "summary": "据 OpenAI 官方信息，With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production i…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/stampli",
     "date": "2026-08-20",
     "category": "大模型",
     "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-ai-futures-53sd70",
+    "title": "OpenAI：Introducing AI Futures",
+    "summary": "据 OpenAI 官方信息，Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freed…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "date": "2026-08-20",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "welcome-to-the-ai-crisis-in-math-l0vok5",
+    "title": "The Verge：Welcome to the AI crisis in math",
+    "summary": "据 The Verge 官方信息，Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "date": "2026-08-20",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
       "GPT",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "slack-is-launching-collaborative-vibe-coding-channels-r2jrtg",
+    "title": "The Verge：Slack is launching collaborative vibe-coding channels",
+    "summary": "据 The Verge 官方信息，Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and con…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "date": "2026-08-20",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
       "Claude",
       "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-is-gaining-on-anthropic-with-business-users-new-data-indicates-1bwogg",
+    "title": "TechCrunch：OpenAI is gaining on Anthropic with business users, new data indicates",
+    "summary": "据 TechCrunch 官方信息，Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause a…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "date": "2026-08-20",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "a-third-of-web-pages-published-since-chatgpt-s-launch-show-signs-of-ai-a-q591ta",
+    "title": "TechCrunch：A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "summary": "据 TechCrunch 官方信息，ChatGPT and other AI models are now authoring and editing much of the new web.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "date": "2026-08-20",
+    "category": "大模型",
+    "tags": [
+      "GPT"
     ],
     "featured": false
   },
@@ -57,61 +125,6 @@
     "featured": false
   },
   {
-    "id": "google-packs-search-and-gemini-with-new-ai-study-tools-a1r9bu",
-    "title": "TechCrunch：Google packs Search and Gemini with new AI study tools",
-    "summary": "据 TechCrunch 官方信息，The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and st…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "date": "2026-08-19",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-hit-the-brakes-now-what-pqcbhy",
-    "title": "The Verge：OpenAI hit the brakes. Now what?",
-    "summary": "据 The Verge 官方信息，With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reason…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    "date": "2026-08-19",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "strengthening-democratic-oversight-in-national-security-w2ja9k",
-    "title": "OpenAI：Strengthening democratic oversight in national security",
-    "summary": "据 OpenAI 官方信息，OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "date": "2026-08-18",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "pacing-model-development-in-an-era-of-cyber-critical-capabilities-fhjnej",
-    "title": "OpenAI：Pacing model development in an era of cyber-critical capabilities",
-    "summary": "据 OpenAI 官方信息，OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model dev…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "date": "2026-08-18",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
     "id": "get-closer-to-the-game-with-gemini-and-pixel-70pq8q",
     "title": "Google：Get closer to the game with Gemini and Pixel",
     "summary": "据 Google 官方信息，Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
@@ -121,19 +134,6 @@
     "category": "大模型",
     "tags": [
       "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-gemini-3-7-flash-fai2zm",
-    "title": "Google DeepMind：Introducing Gemini 3.7 Flash",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.7 Flash",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "date": "2026-08-13",
-    "category": "大模型",
-    "tags": [
       "Gemini"
     ],
     "featured": false
