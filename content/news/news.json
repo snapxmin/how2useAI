@@ -1,5 +1,32 @@
 [
   {
+    "id": "from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games-btvoqs",
+    "title": "Google DeepMind：From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "summary": "据 Google DeepMind 官方信息，Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "date": "2026-08-21",
+    "category": "研究进展",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-s-opus-4-6-is-a-smut-machine-9uy1pr",
+    "title": "TechCrunch：Anthropic’s Opus 4.6 is a smut-machine",
+    "summary": "据 TechCrunch 官方信息，Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it d…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "date": "2026-08-21",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
     "id": "stampli-cuts-launch-hours-by-68-using-chatgpt-work-a3d6vc",
     "title": "OpenAI：Stampli cuts launch hours by 68% using ChatGPT Work",
     "summary": "据 OpenAI 官方信息，With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production i…",
@@ -52,33 +79,6 @@
       "Anthropic",
       "Claude",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-is-gaining-on-anthropic-with-business-users-new-data-indicates-1bwogg",
-    "title": "TechCrunch：OpenAI is gaining on Anthropic with business users, new data indicates",
-    "summary": "据 TechCrunch 官方信息，Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause a…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "date": "2026-08-20",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "a-third-of-web-pages-published-since-chatgpt-s-launch-show-signs-of-ai-a-q591ta",
-    "title": "TechCrunch：A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-    "summary": "据 TechCrunch 官方信息，ChatGPT and other AI models are now authoring and editing much of the new web.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "date": "2026-08-20",
-    "category": "大模型",
-    "tags": [
-      "GPT"
     ],
     "featured": false
   },
