@@ -28,19 +28,6 @@
     "featured": false
   },
   {
-    "id": "stampli-cuts-launch-hours-by-68-using-chatgpt-work-a3d6vc",
-    "title": "OpenAI：Stampli cuts launch hours by 68% using ChatGPT Work",
-    "summary": "据 OpenAI 官方信息，With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production i…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/stampli",
-    "date": "2026-08-20",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "introducing-ai-futures-53sd70",
     "title": "OpenAI：Introducing AI Futures",
     "summary": "据 OpenAI 官方信息，Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freed…",
@@ -50,6 +37,19 @@
     "category": "行业动态",
     "tags": [
       "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "stampli-cuts-launch-hours-by-68-using-chatgpt-work-a3d6vc",
+    "title": "OpenAI：Stampli cuts launch hours by 68% using ChatGPT Work",
+    "summary": "据 OpenAI 官方信息，With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production i…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/stampli",
+    "date": "2026-08-20",
+    "category": "大模型",
+    "tags": [
+      "GPT"
     ],
     "featured": true
   },
