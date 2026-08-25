@@ -1,15 +1,54 @@
 [
   {
-    "id": "inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperform-iaw31s",
-    "title": "TechCrunch：Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "summary": "据 TechCrunch 官方信息，Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a step…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "date": "2026-08-22",
+    "id": "disrupting-a-new-covert-influence-campaign-from-russia-lito29",
+    "title": "OpenAI：Disrupting a new covert influence campaign from Russia",
+    "summary": "据 OpenAI 官方信息，OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and critic…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "date": "2026-08-25",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-subpoenaed-by-alabama-ag-over-hugging-face-hack-ratcb2",
+    "title": "The Verge：OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "summary": "据 The Verge 官方信息，Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a suppose…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "date": "2026-08-25",
     "category": "AI产品",
     "tags": [
       "OpenAI",
-      "Anthropic",
+      "Hugging Face",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "advancing-price-performance-for-developers-with-gpt-5-6-in-kiro-3mhoue",
+    "title": "OpenAI：Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "summary": "据 OpenAI 官方信息，GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "date": "2026-08-24",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushe-yztqbi",
+    "title": "TechCrunch：Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "summary": "据 TechCrunch 官方信息，General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "date": "2026-08-24",
+    "category": "大模型",
+    "tags": [
       "Agent"
     ],
     "featured": false
@@ -41,19 +80,6 @@
     "featured": true
   },
   {
-    "id": "stampli-cuts-launch-hours-by-68-using-chatgpt-work-a3d6vc",
-    "title": "OpenAI：Stampli cuts launch hours by 68% using ChatGPT Work",
-    "summary": "据 OpenAI 官方信息，With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production i…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/stampli",
-    "date": "2026-08-20",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "welcome-to-the-ai-crisis-in-math-l0vok5",
     "title": "The Verge：Welcome to the AI crisis in math",
     "summary": "据 The Verge 官方信息，Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and…",
@@ -67,34 +93,6 @@
       "Claude"
     ],
     "featured": false
-  },
-  {
-    "id": "slack-is-launching-collaborative-vibe-coding-channels-r2jrtg",
-    "title": "The Verge：Slack is launching collaborative vibe-coding channels",
-    "summary": "据 The Verge 官方信息，Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and con…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-    "date": "2026-08-20",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "offering-zero-data-retention-for-frontier-models-5c16oa",
-    "title": "OpenAI：Offering Zero Data Retention for frontier models",
-    "summary": "据 OpenAI 官方信息，OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compro…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "date": "2026-08-19",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
   },
   {
     "id": "meta-ai-is-getting-a-mac-app-p9488u",
