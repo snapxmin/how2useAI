@@ -1,42 +1,128 @@
 [
   {
-    "id": "how-loveholidays-is-making-everyone-a-builder-with-codex-1ratx7",
-    "title": "OpenAI：How loveholidays is making everyone a builder with Codex",
-    "summary": "据 OpenAI 官方信息，Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into produ…",
+    "id": "better-answers-broader-thinking-what-students-gain-from-chatgpt-and-crit-dox36k",
+    "title": "OpenAI：Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "summary": "据 OpenAI 官方信息，A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world uni…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/loveholidays",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "date": "2026-08-27",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gemini-omni-1-1-flash-lets-you-build-with-more-control-mwjm5g",
+    "title": "Google DeepMind：Gemini Omni 1.1 Flash lets you build with more control",
+    "summary": "据 Google DeepMind 官方信息，Gemini Omni 1.1 Flash lets you build with more control",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "date": "2026-08-27",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "3-new-ways-to-plan-and-book-travel-in-search-nhozvr",
+    "title": "Google：3 new ways to plan and book travel in Search",
+    "summary": "据 Google 官方信息，Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "date": "2026-08-27",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "piloting-the-world-s-first-double-blind-ai-evaluations-t6oyvf",
+    "title": "Google DeepMind：Piloting the world's first double-blind AI evaluations",
+    "summary": "据 Google DeepMind 官方信息，Piloting the world's first double-blind AI evaluations",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "date": "2026-08-27",
+    "category": "行业动态",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-8217-s-executive-exodus-has-one-big-winner-iuma2c",
+    "title": "The Verge：OpenAI&#8217;s executive exodus has one big winner",
+    "summary": "据 The Verge 官方信息，Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+    "date": "2026-08-27",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "learning-never-stops-how-ai-makes-learning-continuous-lqipo9",
+    "title": "OpenAI：Learning never stops: How AI makes learning continuous",
+    "summary": "据 OpenAI 官方信息，OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the c…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/learning-never-stops",
     "date": "2026-08-26",
-    "category": "AI产品",
+    "category": "大模型",
     "tags": [
-      "OpenAI"
+      "OpenAI",
+      "GPT"
     ],
     "featured": true
   },
   {
-    "id": "the-full-stack-behind-abundant-intelligence-1xuex7",
-    "title": "OpenAI：The full stack behind abundant intelligence",
-    "summary": "据 OpenAI 官方信息，OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at gre…",
+    "id": "the-hugging-face-incident-and-the-road-ahead-17qpkx",
+    "title": "OpenAI：The Hugging Face incident and the road ahead",
+    "summary": "据 OpenAI 官方信息，OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and a…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "date": "2026-08-25",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "date": "2026-08-26",
     "category": "大模型",
     "tags": [
-      "OpenAI"
+      "OpenAI",
+      "Hugging Face"
     ],
     "featured": true
   },
   {
-    "id": "jalape-o-s-first-results-show-industry-leading-speed-and-efficiency-in-a-gn9viy",
-    "title": "OpenAI：Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-    "summary": "据 OpenAI 官方信息，Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower la…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/jalapeno-first-results",
-    "date": "2026-08-25",
+    "id": "intelligent-transcription-with-gemini-3-5-transcribe-di1bde",
+    "title": "Google DeepMind：Intelligent transcription with Gemini 3.5 Transcribe",
+    "summary": "据 Google DeepMind 官方信息，Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "date": "2026-08-26",
     "category": "大模型",
     "tags": [
-      "OpenAI"
+      "Gemini"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "openai-s-rogue-ai-model-incident-was-worse-than-we-thought-474lno",
+    "title": "The Verge：OpenAI’s rogue AI model incident was worse than we thought",
+    "summary": "据 The Verge 官方信息，OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "date": "2026-08-26",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
   },
   {
     "id": "5-ways-to-upgrade-your-home-decor-with-google-search-6kgzf6",
@@ -48,91 +134,6 @@
     "category": "行业动态",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-says-its-jalape-o-chip-can-power-faster-ai-responses-than-the-com-q8iy9t",
-    "title": "The Verge：OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "summary": "据 The Verge 官方信息，OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a b…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "date": "2026-08-25",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "claude-cowork-finally-remembers-what-you-told-the-app-in-chat-velv7w",
-    "title": "TechCrunch：Claude Cowork finally remembers what you told the app in chat",
-    "summary": "据 TechCrunch 官方信息，Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferenc…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "date": "2026-08-25",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thi-vwc1ie",
-    "title": "TechCrunch：‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-    "summary": "据 TechCrunch 官方信息，TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "date": "2026-08-25",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-subpoenaed-by-alabama-ag-over-hugging-face-hack-ratcb2",
-    "title": "The Verge：OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "summary": "据 The Verge 官方信息，Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a suppose…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "date": "2026-08-25",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Hugging Face",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games-btvoqs",
-    "title": "Google DeepMind：From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "summary": "据 Google DeepMind 官方信息，Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "date": "2026-08-21",
-    "category": "研究进展",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "welcome-to-the-ai-crisis-in-math-l0vok5",
-    "title": "The Verge：Welcome to the AI crisis in math",
-    "summary": "据 The Verge 官方信息，Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-    "date": "2026-08-20",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Claude"
     ],
     "featured": false
   }
