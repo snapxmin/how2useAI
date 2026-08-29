@@ -1,5 +1,18 @@
 [
   {
+    "id": "our-decision-on-cursor-following-its-acquisition-by-spacex-t6465i",
+    "title": "OpenAI：Our decision on Cursor following its acquisition by SpaceX",
+    "summary": "据 OpenAI 官方信息，Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "date": "2026-08-28",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "supporting-thailand-s-next-generation-of-ai-startups-1da6xi",
     "title": "OpenAI：Supporting Thailand’s next generation of AI startups",
     "summary": "据 OpenAI 官方信息，OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into tru…",
@@ -68,6 +81,21 @@
     "featured": false
   },
   {
+    "id": "anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026-xz6hnr",
+    "title": "TechCrunch：Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "summary": "据 TechCrunch 官方信息，At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by …",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "date": "2026-08-27",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google"
+    ],
+    "featured": false
+  },
+  {
     "id": "learning-never-stops-how-ai-makes-learning-continuous-lqipo9",
     "title": "OpenAI：Learning never stops: How AI makes learning continuous",
     "summary": "据 OpenAI 官方信息，OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the c…",
@@ -82,20 +110,6 @@
     "featured": true
   },
   {
-    "id": "the-hugging-face-incident-and-the-road-ahead-17qpkx",
-    "title": "OpenAI：The Hugging Face incident and the road ahead",
-    "summary": "据 OpenAI 官方信息，OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and a…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "date": "2026-08-26",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Hugging Face"
-    ],
-    "featured": true
-  },
-  {
     "id": "intelligent-transcription-with-gemini-3-5-transcribe-di1bde",
     "title": "Google DeepMind：Intelligent transcription with Gemini 3.5 Transcribe",
     "summary": "据 Google DeepMind 官方信息，Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
@@ -105,22 +119,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-s-rogue-ai-model-incident-was-worse-than-we-thought-474lno",
-    "title": "The Verge：OpenAI’s rogue AI model incident was worse than we thought",
-    "summary": "据 The Verge 官方信息，OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-    "date": "2026-08-26",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Hugging Face",
-      "GPT",
-      "Agent"
     ],
     "featured": false
   },
