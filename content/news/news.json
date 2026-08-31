@@ -1,14 +1,44 @@
 [
   {
-    "id": "sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectu-swvpps",
-    "title": "TechCrunch：Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "summary": "据 TechCrunch 官方信息，This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "date": "2026-08-29",
-    "category": "行业动态",
+    "id": "a-milestone-in-expanding-access-to-ai-fiv88e",
+    "title": "OpenAI：A milestone in expanding access to AI",
+    "summary": "据 OpenAI 官方信息，ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and afforda…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "date": "2026-08-31",
+    "category": "大模型",
     "tags": [
-      "Anthropic"
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "new-york-governor-kathy-hochul-thinks-ai-should-be-less-evil-x73m63",
+    "title": "The Verge：New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, afte…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "date": "2026-08-31",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Meta",
+      "GPT",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-to-face-tougher-regulation-in-the-eu-scxzk",
+    "title": "The Verge：ChatGPT to face tougher regulation in the EU",
+    "summary": "据 The Verge 官方信息，OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illeg…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "date": "2026-08-31",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
     ],
     "featured": false
   },
@@ -76,36 +106,6 @@
       "Google DeepMind"
     ],
     "featured": false
-  },
-  {
-    "id": "openai-8217-s-executive-exodus-has-one-big-winner-iuma2c",
-    "title": "The Verge：OpenAI&#8217;s executive exodus has one big winner",
-    "summary": "据 The Verge 官方信息，Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-    "date": "2026-08-27",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "learning-never-stops-how-ai-makes-learning-continuous-lqipo9",
-    "title": "OpenAI：Learning never stops: How AI makes learning continuous",
-    "summary": "据 OpenAI 官方信息，OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the c…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/learning-never-stops",
-    "date": "2026-08-26",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
   },
   {
     "id": "intelligent-transcription-with-gemini-3-5-transcribe-di1bde",
