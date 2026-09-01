@@ -1,5 +1,46 @@
 [
   {
+    "id": "show-hn-zero-shot-energy-drink-for-you-and-your-ai-agents-m443eb",
+    "title": "Hacker News：Show HN: Zero Shot – Energy Drink for You and Your AI Agents",
+    "summary": "据 Hacker News 官方信息，Hey HN! I built https://zeroshothq.dev/, an energy drink for AI engineers, ordered through an API. Zero Shot is designed only for tech peopl…",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49522983",
+    "date": "2026-09-01",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "polimill-builds-japan-s-next-generation-public-ai-infrastructure-g4ino0",
+    "title": "OpenAI：Polimill builds Japan's next-generation public AI infrastructure",
+    "summary": "据 OpenAI 官方信息，Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/polimill",
+    "date": "2026-08-31",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-supports-california-s-bill-to-advance-youth-ai-safety-kc7jh",
+    "title": "OpenAI：OpenAI supports California’s bill to advance youth AI safety",
+    "summary": "据 OpenAI 官方信息，OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, creat…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "date": "2026-08-31",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "a-milestone-in-expanding-access-to-ai-fiv88e",
     "title": "OpenAI：A milestone in expanding access to AI",
     "summary": "据 OpenAI 官方信息，ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and afforda…",
@@ -11,6 +52,22 @@
       "GPT"
     ],
     "featured": true
+  },
+  {
+    "id": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok-vfs6cx",
+    "title": "TechCrunch：The Pentagon now has its own version of ChatGPT and Grok",
+    "summary": "据 TechCrunch 官方信息，Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "date": "2026-08-31",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "GPT",
+      "Gemini"
+    ],
+    "featured": false
   },
   {
     "id": "new-york-governor-kathy-hochul-thinks-ai-should-be-less-evil-x73m63",
@@ -27,46 +84,6 @@
       "Claude"
     ],
     "featured": false
-  },
-  {
-    "id": "chatgpt-to-face-tougher-regulation-in-the-eu-scxzk",
-    "title": "The Verge：ChatGPT to face tougher regulation in the EU",
-    "summary": "据 The Verge 官方信息，OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illeg…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "date": "2026-08-31",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "our-decision-on-cursor-following-its-acquisition-by-spacex-t6465i",
-    "title": "OpenAI：Our decision on Cursor following its acquisition by SpaceX",
-    "summary": "据 OpenAI 官方信息，Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "date": "2026-08-28",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "supporting-thailand-s-next-generation-of-ai-startups-1da6xi",
-    "title": "OpenAI：Supporting Thailand’s next generation of AI startups",
-    "summary": "据 OpenAI 官方信息，OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into tru…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "date": "2026-08-28",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
   },
   {
     "id": "gemini-omni-1-1-flash-lets-you-build-with-more-control-mwjm5g",
@@ -117,19 +134,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "5-ways-to-upgrade-your-home-decor-with-google-search-6kgzf6",
-    "title": "Google：5 ways to upgrade your home decor with Google Search",
-    "summary": "据 Google 官方信息，Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "date": "2026-08-25",
-    "category": "行业动态",
-    "tags": [
-      "Google"
     ],
     "featured": false
   }
