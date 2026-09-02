@@ -1,14 +1,97 @@
 [
   {
-    "id": "show-hn-zero-shot-energy-drink-for-you-and-your-ai-agents-m443eb",
-    "title": "Hacker News：Show HN: Zero Shot – Energy Drink for You and Your AI Agents",
-    "summary": "据 Hacker News 官方信息，Hey HN! I built https://zeroshothq.dev/, an energy drink for AI engineers, ordered through an API. Zero Shot is designed only for tech peopl…",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=49522983",
+    "id": "path-to-astra-critical-capabilities-and-frontier-safeguards-meno27",
+    "title": "OpenAI：Path to Astra: critical capabilities and frontier safeguards",
+    "summary": "据 OpenAI 官方信息，Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safe…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/path-to-astra",
     "date": "2026-09-01",
     "category": "大模型",
     "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-law-firm-gilbert-tobin-governs-and-scales-ai-with-openai-w2hh12",
+    "title": "OpenAI：How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "summary": "据 OpenAI 官方信息，See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex acr…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "date": "2026-09-01",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-agentic-video-understanding-with-gemini-la2whn",
+    "title": "Google DeepMind：Introducing agentic video understanding with Gemini",
+    "summary": "据 Google DeepMind 官方信息，Introducing agentic video understanding with Gemini",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "date": "2026-09-01",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "try-google-pics-easy-image-creation-and-editing-in-google-workspace-7pdp5q",
+    "title": "Google：Try Google Pics: Easy image creation and editing in Google Workspace",
+    "summary": "据 Google 官方信息，Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "date": "2026-09-01",
+    "category": "大模型",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "the-latest-ai-news-we-announced-in-august-2026-ldfs60",
+    "title": "Google：The latest AI news we announced in August 2026",
+    "summary": "据 Google 官方信息，Here are Google’s latest AI updates from August 2026",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "date": "2026-09-01",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-launches-claude-fable-5-1-and-says-it-8217-s-up-to-45-percent--a6fu0l",
+    "title": "The Verge：Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "summary": "据 The Verge 官方信息，Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealou…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "date": "2026-09-01",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
       "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-delayed-its-new-model-s-development-after-the-hugging-face-hack-yb8yum",
+    "title": "The Verge：OpenAI delayed its new model’s development after the Hugging Face hack",
+    "summary": "据 The Verge 官方信息，After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unrelea…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "date": "2026-09-01",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
       "Agent"
     ],
     "featured": false
@@ -28,64 +111,6 @@
     "featured": true
   },
   {
-    "id": "openai-supports-california-s-bill-to-advance-youth-ai-safety-kc7jh",
-    "title": "OpenAI：OpenAI supports California’s bill to advance youth AI safety",
-    "summary": "据 OpenAI 官方信息，OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, creat…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "date": "2026-08-31",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "a-milestone-in-expanding-access-to-ai-fiv88e",
-    "title": "OpenAI：A milestone in expanding access to AI",
-    "summary": "据 OpenAI 官方信息，ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and afforda…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "date": "2026-08-31",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "the-pentagon-now-has-its-own-version-of-chatgpt-and-grok-vfs6cx",
-    "title": "TechCrunch：The Pentagon now has its own version of ChatGPT and Grok",
-    "summary": "据 TechCrunch 官方信息，Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "date": "2026-08-31",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "GPT",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "new-york-governor-kathy-hochul-thinks-ai-should-be-less-evil-x73m63",
-    "title": "The Verge：New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, afte…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "date": "2026-08-31",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Meta",
-      "GPT",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
     "id": "gemini-omni-1-1-flash-lets-you-build-with-more-control-mwjm5g",
     "title": "Google DeepMind：Gemini Omni 1.1 Flash lets you build with more control",
     "summary": "据 Google DeepMind 官方信息，Gemini Omni 1.1 Flash lets you build with more control",
@@ -95,32 +120,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "3-new-ways-to-plan-and-book-travel-in-search-nhozvr",
-    "title": "Google：3 new ways to plan and book travel in Search",
-    "summary": "据 Google 官方信息，Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "date": "2026-08-27",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "piloting-the-world-s-first-double-blind-ai-evaluations-t6oyvf",
-    "title": "Google DeepMind：Piloting the world's first double-blind AI evaluations",
-    "summary": "据 Google DeepMind 官方信息，Piloting the world's first double-blind AI evaluations",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "date": "2026-08-27",
-    "category": "行业动态",
-    "tags": [
-      "Google DeepMind"
     ],
     "featured": false
   },
