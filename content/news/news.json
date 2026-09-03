@@ -1,5 +1,45 @@
 [
   {
+    "id": "introducing-gemini-3-8-flash-and-3-8-flash-cyber-wk256y",
+    "title": "Google DeepMind：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "date": "2026-09-02",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "proactive-cyber-defense-for-governments-and-enterprises-lk1k5l",
+    "title": "Google：Proactive cyber defense for governments and enterprises",
+    "summary": "据 Google 官方信息，The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "date": "2026-09-02",
+    "category": "开源",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-says-its-new-gemini-3-8-flash-model-works-harder-but-might-cost-m-bbiuti",
+    "title": "The Verge：Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "summary": "据 The Verge 官方信息，Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemi…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "date": "2026-09-02",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
     "id": "path-to-astra-critical-capabilities-and-frontier-safeguards-meno27",
     "title": "OpenAI：Path to Astra: critical capabilities and frontier safeguards",
     "summary": "据 OpenAI 官方信息，Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safe…",
@@ -82,21 +122,6 @@
     "featured": false
   },
   {
-    "id": "openai-delayed-its-new-model-s-development-after-the-hugging-face-hack-yb8yum",
-    "title": "The Verge：OpenAI delayed its new model’s development after the Hugging Face hack",
-    "summary": "据 The Verge 官方信息，After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unrelea…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-    "date": "2026-09-01",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Hugging Face",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "polimill-builds-japan-s-next-generation-public-ai-infrastructure-g4ino0",
     "title": "OpenAI：Polimill builds Japan's next-generation public AI infrastructure",
     "summary": "据 OpenAI 官方信息，Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
@@ -109,31 +134,5 @@
       "GPT"
     ],
     "featured": true
-  },
-  {
-    "id": "gemini-omni-1-1-flash-lets-you-build-with-more-control-mwjm5g",
-    "title": "Google DeepMind：Gemini Omni 1.1 Flash lets you build with more control",
-    "summary": "据 Google DeepMind 官方信息，Gemini Omni 1.1 Flash lets you build with more control",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "date": "2026-08-27",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "intelligent-transcription-with-gemini-3-5-transcribe-di1bde",
-    "title": "Google DeepMind：Intelligent transcription with Gemini 3.5 Transcribe",
-    "summary": "据 Google DeepMind 官方信息，Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "date": "2026-08-26",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
   }
 ]
