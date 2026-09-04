@@ -1,5 +1,88 @@
 [
   {
+    "id": "oh-good-looks-like-yet-another-swarm-of-rogue-ai-agents-from-openai-tmkbt3",
+    "title": "The Verge：Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+    "summary": "据 The Verge 官方信息，A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "date": "2026-09-04",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "sam-altman-apologizes-for-8216-messy-8217-gpt-6-astra-rollout-that-s-loc-nl8k3m",
+    "title": "The Verge：Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+    "summary": "据 The Verge 官方信息，Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+    "date": "2026-09-04",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "playco-cut-manual-fixes-50-prototyping-games-with-gpt-6-astra-bl292a",
+    "title": "OpenAI：Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "summary": "据 OpenAI 官方信息，Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "date": "2026-09-03",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "safety-overview-gpt-6-astra-odqy9z",
+    "title": "OpenAI：Safety overview: GPT-6 Astra",
+    "summary": "据 OpenAI 官方信息，GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Prepa…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "date": "2026-09-03",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather--4mlnvk",
+    "title": "Google DeepMind：Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "summary": "据 Google DeepMind 官方信息，Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "date": "2026-09-03",
+    "category": "大模型",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-grok-and-claude-all-went-down-at-the-same-time-ktrvie",
+    "title": "The Verge：ChatGPT, Grok, and Claude all went down at the same time",
+    "summary": "据 The Verge 官方信息，OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursd…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+    "date": "2026-09-03",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "GPT",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
     "id": "introducing-gemini-3-8-flash-and-3-8-flash-cyber-wk256y",
     "title": "Google DeepMind：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
     "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -11,60 +94,6 @@
       "Gemini"
     ],
     "featured": false
-  },
-  {
-    "id": "proactive-cyber-defense-for-governments-and-enterprises-lk1k5l",
-    "title": "Google：Proactive cyber defense for governments and enterprises",
-    "summary": "据 Google 官方信息，The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "date": "2026-09-02",
-    "category": "开源",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-says-its-new-gemini-3-8-flash-model-works-harder-but-might-cost-m-bbiuti",
-    "title": "The Verge：Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "summary": "据 The Verge 官方信息，Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemi…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "date": "2026-09-02",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "path-to-astra-critical-capabilities-and-frontier-safeguards-meno27",
-    "title": "OpenAI：Path to Astra: critical capabilities and frontier safeguards",
-    "summary": "据 OpenAI 官方信息，Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safe…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/path-to-astra",
-    "date": "2026-09-01",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "how-law-firm-gilbert-tobin-governs-and-scales-ai-with-openai-w2hh12",
-    "title": "OpenAI：How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "summary": "据 OpenAI 官方信息，See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex acr…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gilbert-tobin",
-    "date": "2026-09-01",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
   },
   {
     "id": "introducing-agentic-video-understanding-with-gemini-la2whn",
@@ -90,34 +119,6 @@
     "category": "大模型",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "the-latest-ai-news-we-announced-in-august-2026-ldfs60",
-    "title": "Google：The latest AI news we announced in August 2026",
-    "summary": "据 Google 官方信息，Here are Google’s latest AI updates from August 2026",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "date": "2026-09-01",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-launches-claude-fable-5-1-and-says-it-8217-s-up-to-45-percent--a6fu0l",
-    "title": "The Verge：Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-    "summary": "据 The Verge 官方信息，Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealou…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-    "date": "2026-09-01",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Agent"
     ],
     "featured": false
   },
