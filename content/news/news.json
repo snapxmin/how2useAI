@@ -1,7 +1,7 @@
 [
   {
-    "id": "oh-good-looks-like-yet-another-swarm-of-rogue-ai-agents-from-openai-tmkbt3",
-    "title": "The Verge：Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+    "id": "rogue-openai-agents-appear-to-have-organized-another-attack-using-a-germ-tmkbt3",
+    "title": "The Verge：Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "summary": "据 The Verge 官方信息，A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, …",
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
@@ -41,6 +41,19 @@
     "featured": true
   },
   {
+    "id": "gpt-6-astra-a-new-generation-of-intelligence-txtj5s",
+    "title": "OpenAI：GPT-6 Astra: A new generation of intelligence",
+    "summary": "据 OpenAI 官方信息，Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cyberse…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "date": "2026-09-03",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
     "id": "safety-overview-gpt-6-astra-odqy9z",
     "title": "OpenAI：Safety overview: GPT-6 Astra",
     "summary": "据 OpenAI 官方信息，GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Prepa…",
@@ -67,22 +80,6 @@
     "featured": false
   },
   {
-    "id": "chatgpt-grok-and-claude-all-went-down-at-the-same-time-ktrvie",
-    "title": "The Verge：ChatGPT, Grok, and Claude all went down at the same time",
-    "summary": "据 The Verge 官方信息，OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursd…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-    "date": "2026-09-03",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "GPT",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
     "id": "introducing-gemini-3-8-flash-and-3-8-flash-cyber-wk256y",
     "title": "Google DeepMind：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
     "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
@@ -92,6 +89,19 @@
     "category": "大模型",
     "tags": [
       "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "proactive-cyber-defense-for-governments-and-enterprises-lk1k5l",
+    "title": "Google：Proactive cyber defense for governments and enterprises",
+    "summary": "据 Google 官方信息，The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "date": "2026-09-02",
+    "category": "开源",
+    "tags": [
+      "Google"
     ],
     "featured": false
   },
@@ -121,19 +131,5 @@
       "Google"
     ],
     "featured": false
-  },
-  {
-    "id": "polimill-builds-japan-s-next-generation-public-ai-infrastructure-g4ino0",
-    "title": "OpenAI：Polimill builds Japan's next-generation public AI infrastructure",
-    "summary": "据 OpenAI 官方信息，Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/polimill",
-    "date": "2026-08-31",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
   }
 ]
