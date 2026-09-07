@@ -1,5 +1,47 @@
 [
   {
+    "id": "supporting-independent-journalism-in-ukraine-yzgo2p",
+    "title": "OpenAI：Supporting independent journalism in Ukraine",
+    "summary": "据 OpenAI 官方信息，OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent jou…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "date": "2026-09-07",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "research-acceleration-the-view-inside-openai-u3hlea",
+    "title": "OpenAI：Research acceleration: The view inside OpenAI",
+    "summary": "据 OpenAI 官方信息，Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and researc…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "date": "2026-09-06",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement-dcvkms",
+    "title": "The Verge：Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "summary": "据 The Verge 官方信息，The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, Fran…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "date": "2026-09-06",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Microsoft",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
     "id": "rogue-openai-agents-appear-to-have-organized-another-attack-using-a-germ-tmkbt3",
     "title": "The Verge：Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "summary": "据 The Verge 官方信息，A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, …",
@@ -41,32 +83,6 @@
     "featured": true
   },
   {
-    "id": "gpt-6-astra-a-new-generation-of-intelligence-txtj5s",
-    "title": "OpenAI：GPT-6 Astra: A new generation of intelligence",
-    "summary": "据 OpenAI 官方信息，Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cyberse…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-6-astra",
-    "date": "2026-09-03",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "safety-overview-gpt-6-astra-odqy9z",
-    "title": "OpenAI：Safety overview: GPT-6 Astra",
-    "summary": "据 OpenAI 官方信息，GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Prepa…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "date": "2026-09-03",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather--4mlnvk",
     "title": "Google DeepMind：Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
     "summary": "据 Google DeepMind 官方信息，Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -89,19 +105,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "proactive-cyber-defense-for-governments-and-enterprises-lk1k5l",
-    "title": "Google：Proactive cyber defense for governments and enterprises",
-    "summary": "据 Google 官方信息，The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "date": "2026-09-02",
-    "category": "开源",
-    "tags": [
-      "Google"
     ],
     "featured": false
   },
