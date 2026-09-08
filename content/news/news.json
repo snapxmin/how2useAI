@@ -1,5 +1,31 @@
 [
   {
+    "id": "openai-expands-initiatives-to-support-journalism-from-classrooms-to-news-n7zktg",
+    "title": "OpenAI：OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "summary": "据 OpenAI 官方信息，OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizatio…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "date": "2026-09-08",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-i-skramt",
+    "title": "Google DeepMind：AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "summary": "据 Google DeepMind 官方信息，AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-08",
+    "category": "行业动态",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
+  },
+  {
     "id": "supporting-independent-journalism-in-ukraine-yzgo2p",
     "title": "OpenAI：Supporting independent journalism in Ukraine",
     "summary": "据 OpenAI 官方信息，OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent jou…",
@@ -70,19 +96,6 @@
     "featured": false
   },
   {
-    "id": "playco-cut-manual-fixes-50-prototyping-games-with-gpt-6-astra-bl292a",
-    "title": "OpenAI：Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "summary": "据 OpenAI 官方信息，Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "date": "2026-09-03",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather--4mlnvk",
     "title": "Google DeepMind：Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
     "summary": "据 Google DeepMind 官方信息，Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
@@ -92,19 +105,6 @@
     "category": "大模型",
     "tags": [
       "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-gemini-3-8-flash-and-3-8-flash-cyber-wk256y",
-    "title": "Google DeepMind：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "date": "2026-09-02",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
     ],
     "featured": false
   },
