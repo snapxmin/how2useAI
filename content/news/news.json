@@ -1,14 +1,41 @@
 [
   {
-    "id": "openai-expands-initiatives-to-support-journalism-from-classrooms-to-news-n7zktg",
-    "title": "OpenAI：OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "summary": "据 OpenAI 官方信息，OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizatio…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "date": "2026-09-08",
-    "category": "行业动态",
+    "id": "worried-anthropic-researchers-warn-that-ai-8216-could-kill-all-humans-82-6oefgd",
+    "title": "The Verge：Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+    "summary": "据 The Verge 官方信息，A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+    "date": "2026-09-09",
+    "category": "AI产品",
     "tags": [
-      "OpenAI"
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "how-gpt-5-6-sol-helps-run-quantum-computing-experiments-vwai1b",
+    "title": "OpenAI：How GPT-5.6 Sol helps run quantum computing experiments",
+    "summary": "据 OpenAI 官方信息，See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubi…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "date": "2026-09-08",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-chatgpt-images-2-5-l64u7s",
+    "title": "OpenAI：Introducing ChatGPT Images 2.5",
+    "summary": "据 OpenAI 官方信息，ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your id…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "date": "2026-09-08",
+    "category": "大模型",
+    "tags": [
+      "GPT"
     ],
     "featured": true
   },
@@ -26,6 +53,37 @@
     "featured": false
   },
   {
+    "id": "drama-swirls-around-openai-s-legendary-mathematical-milestone-ltm4q6",
+    "title": "The Verge：Drama swirls around OpenAI’s legendary mathematical milestone",
+    "summary": "据 The Verge 官方信息，OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "date": "2026-09-08",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race-chk9vk",
+    "title": "The Verge：Meta bets on AI agent Muse to catch up in AI race",
+    "summary": "据 The Verge 官方信息，Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands o…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "date": "2026-09-08",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
     "id": "supporting-independent-journalism-in-ukraine-yzgo2p",
     "title": "OpenAI：Supporting independent journalism in Ukraine",
     "summary": "据 OpenAI 官方信息，OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent jou…",
@@ -37,63 +95,6 @@
       "OpenAI"
     ],
     "featured": true
-  },
-  {
-    "id": "research-acceleration-the-view-inside-openai-u3hlea",
-    "title": "OpenAI：Research acceleration: The view inside OpenAI",
-    "summary": "据 OpenAI 官方信息，Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and researc…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "date": "2026-09-06",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "seattle-times-and-newsday-sue-openai-and-microsoft-for-infringement-dcvkms",
-    "title": "The Verge：Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "summary": "据 The Verge 官方信息，The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, Fran…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "date": "2026-09-06",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Microsoft",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "rogue-openai-agents-appear-to-have-organized-another-attack-using-a-germ-tmkbt3",
-    "title": "The Verge：Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "summary": "据 The Verge 官方信息，A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "date": "2026-09-04",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "sam-altman-apologizes-for-8216-messy-8217-gpt-6-astra-rollout-that-s-loc-nl8k3m",
-    "title": "The Verge：Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-    "summary": "据 The Verge 官方信息，Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-    "date": "2026-09-04",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
   },
   {
     "id": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather--4mlnvk",
