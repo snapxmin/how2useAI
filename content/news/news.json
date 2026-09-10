@@ -1,43 +1,86 @@
 [
   {
-    "id": "worried-anthropic-researchers-warn-that-ai-8216-could-kill-all-humans-82-6oefgd",
-    "title": "The Verge：Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-    "summary": "据 The Verge 官方信息，A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the …",
+    "id": "why-the-current-tech-backlash-feels-different-mp4beb",
+    "title": "The Verge：Why the current tech backlash feels different",
+    "summary": "据 The Verge 官方信息，This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and ot…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-    "date": "2026-09-09",
-    "category": "AI产品",
+    "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+    "date": "2026-09-10",
+    "category": "大模型",
     "tags": [
       "OpenAI",
-      "Anthropic"
+      "Anthropic",
+      "Google",
+      "Meta"
     ],
     "featured": false
   },
   {
-    "id": "how-gpt-5-6-sol-helps-run-quantum-computing-experiments-vwai1b",
-    "title": "OpenAI：How GPT-5.6 Sol helps run quantum computing experiments",
-    "summary": "据 OpenAI 官方信息，See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubi…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/codex-quantum-computing-experiments",
-    "date": "2026-09-08",
+    "id": "mathematicians-want-proof-openai-didn-t-use-their-work-i26fxx",
+    "title": "The Verge：Mathematicians want proof OpenAI didn’t use their work",
+    "summary": "据 The Verge 官方信息，Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images Another rese…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+    "date": "2026-09-10",
     "category": "大模型",
     "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gpt-6-astra-the-next-generation-in-intelligence-for-work-qg4awp",
+    "title": "OpenAI：GPT-6 Astra: The next generation in intelligence for work",
+    "summary": "据 OpenAI 官方信息，Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "date": "2026-09-09",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
       "GPT"
     ],
     "featured": true
   },
   {
-    "id": "introducing-chatgpt-images-2-5-l64u7s",
-    "title": "OpenAI：Introducing ChatGPT Images 2.5",
-    "summary": "据 OpenAI 官方信息，ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your id…",
+    "id": "paul-christiano-joins-openai-foundation-board-gscq6f",
+    "title": "OpenAI：Paul Christiano joins OpenAI Foundation Board",
+    "summary": "据 OpenAI 官方信息，Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and st…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "date": "2026-09-08",
-    "category": "大模型",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "date": "2026-09-09",
+    "category": "开源",
     "tags": [
-      "GPT"
+      "OpenAI"
     ],
     "featured": true
+  },
+  {
+    "id": "get-ready-for-the-game-with-new-football-features-in-search-vxm8d0",
+    "title": "Google：Get ready for the game with new football features in Search",
+    "summary": "据 Google 官方信息，Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "date": "2026-09-09",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "recreating-a-70-year-love-story-frame-by-frame-g3r6o8",
+    "title": "Google：Recreating a 70-year love story frame by frame",
+    "summary": "据 Google 官方信息，Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "date": "2026-09-09",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
   },
   {
     "id": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-i-skramt",
@@ -49,37 +92,6 @@
     "category": "行业动态",
     "tags": [
       "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "drama-swirls-around-openai-s-legendary-mathematical-milestone-ltm4q6",
-    "title": "The Verge：Drama swirls around OpenAI’s legendary mathematical milestone",
-    "summary": "据 The Verge 官方信息，OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-    "date": "2026-09-08",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race-chk9vk",
-    "title": "The Verge：Meta bets on AI agent Muse to catch up in AI race",
-    "summary": "据 The Verge 官方信息，Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands o…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-    "date": "2026-09-08",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
     ],
     "featured": false
   },
@@ -120,19 +132,6 @@
     "tags": [
       "Gemini",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "try-google-pics-easy-image-creation-and-editing-in-google-workspace-7pdp5q",
-    "title": "Google：Try Google Pics: Easy image creation and editing in Google Workspace",
-    "summary": "据 Google 官方信息，Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-    "date": "2026-09-01",
-    "category": "大模型",
-    "tags": [
-      "Google"
     ],
     "featured": false
   }
