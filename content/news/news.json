@@ -1,5 +1,59 @@
 [
   {
+    "id": "anthropic-s-claude-opus-5-needs-to-be-retracted-llbdss",
+    "title": "Hacker News：Anthropic's Claude Opus 5 needs to be retracted",
+    "summary": "据 Hacker News 官方信息，I cant believe they put this as a frontier successor to any other opus. ITS NEITHER A SUCCESSOR NOR A GOOD MODEL! Its stupid as s*t. I never…",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=49658362",
+    "date": "2026-09-11",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "now-everyone-can-put-data-to-work-pjfeye",
+    "title": "OpenAI：Now everyone can put data to work",
+    "summary": "据 OpenAI 官方信息，Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/put-data-to-work",
+    "date": "2026-09-10",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-chatgpt-for-financial-services-bsvlb9",
+    "title": "OpenAI：Introducing ChatGPT for Financial Services",
+    "summary": "据 OpenAI 官方信息，Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready mater…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "date": "2026-09-10",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "3-ways-to-prep-for-your-next-big-race-with-search-b5wk9r",
+    "title": "Google：3 ways to prep for your next big race with Search",
+    "summary": "据 Google 官方信息，Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "date": "2026-09-10",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
     "id": "why-the-current-tech-backlash-feels-different-mp4beb",
     "title": "The Verge：Why the current tech backlash feels different",
     "summary": "据 The Verge 官方信息，This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and ot…",
@@ -44,19 +98,6 @@
     "featured": true
   },
   {
-    "id": "paul-christiano-joins-openai-foundation-board-gscq6f",
-    "title": "OpenAI：Paul Christiano joins OpenAI Foundation Board",
-    "summary": "据 OpenAI 官方信息，Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and st…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "date": "2026-09-09",
-    "category": "开源",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
     "id": "get-ready-for-the-game-with-new-football-features-in-search-vxm8d0",
     "title": "Google：Get ready for the game with new football features in Search",
     "summary": "据 Google 官方信息，Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
@@ -92,46 +133,6 @@
     "category": "行业动态",
     "tags": [
       "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "supporting-independent-journalism-in-ukraine-yzgo2p",
-    "title": "OpenAI：Supporting independent journalism in Ukraine",
-    "summary": "据 OpenAI 官方信息，OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent jou…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "date": "2026-09-07",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "introducing-weathernext-3-our-most-advanced-and-accurate-global-weather--4mlnvk",
-    "title": "Google DeepMind：Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "summary": "据 Google DeepMind 官方信息，Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "date": "2026-09-03",
-    "category": "大模型",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-agentic-video-understanding-with-gemini-la2whn",
-    "title": "Google DeepMind：Introducing agentic video understanding with Gemini",
-    "summary": "据 Google DeepMind 官方信息，Introducing agentic video understanding with Gemini",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "date": "2026-09-01",
-    "category": "大模型",
-    "tags": [
-      "Gemini",
-      "Agent"
     ],
     "featured": false
   }
