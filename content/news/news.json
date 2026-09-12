@@ -1,15 +1,28 @@
 [
   {
-    "id": "anthropic-s-claude-opus-5-needs-to-be-retracted-llbdss",
-    "title": "Hacker News：Anthropic's Claude Opus 5 needs to be retracted",
-    "summary": "据 Hacker News 官方信息，I cant believe they put this as a frontier successor to any other opus. ITS NEITHER A SUCCESSOR NOR A GOOD MODEL! Its stupid as s*t. I never…",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=49658362",
+    "id": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users-153l4k",
+    "title": "OpenAI：Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "date": "2026-09-11",
     "category": "大模型",
     "tags": [
-      "Anthropic",
-      "Claude"
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "anthropic-spent-this-week-in-hot-water-over-cybersecurity-f3vxkr",
+    "title": "The Verge：Anthropic spent this week in hot water over cybersecurity",
+    "summary": "据 The Verge 官方信息，After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "date": "2026-09-11",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
     ],
     "featured": false
   },
@@ -24,19 +37,6 @@
     "tags": [
       "GPT",
       "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "introducing-chatgpt-for-financial-services-bsvlb9",
-    "title": "OpenAI：Introducing ChatGPT for Financial Services",
-    "summary": "据 OpenAI 官方信息，Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready mater…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "date": "2026-09-10",
-    "category": "大模型",
-    "tags": [
-      "GPT"
     ],
     "featured": true
   },
