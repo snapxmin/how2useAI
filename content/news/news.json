@@ -1,41 +1,68 @@
 [
   {
-    "id": "anthropic-ceo-outlines-plan-to-slow-ai-development-htga4q",
-    "title": "TechCrunch：Anthropic CEO outlines plan to slow AI development",
-    "summary": "据 TechCrunch 官方信息，Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "date": "2026-09-12",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-s-rogue-ai-tried-to-hack-another-company-in-may-rioow3",
-    "title": "The Verge：OpenAI’s rogue AI tried to hack another company in May",
-    "summary": "据 The Verge 官方信息，In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent resear…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "date": "2026-09-12",
+    "id": "perplexity-trusts-gpt-6-astra-with-end-to-end-systems-l46txp",
+    "title": "OpenAI：Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "summary": "据 OpenAI 官方信息，Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "date": "2026-09-14",
     "category": "大模型",
     "tags": [
-      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "devfest-is-back-ysawlt",
+    "title": "Google：DevFest is back",
+    "summary": "据 Google 官方信息，DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic A…",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "date": "2026-09-14",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "microsoft-says-people-matter-more-than-ai-following-safety-concerns-q3r9oi",
+    "title": "The Verge：Microsoft says ‘people matter more than AI’ following safety concerns",
+    "summary": "据 The Verge 官方信息，Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Da…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "date": "2026-09-14",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Microsoft",
       "Agent"
     ],
     "featured": false
   },
   {
-    "id": "anthropic-ceo-says-it-s-time-to-pump-the-brakes-on-ai-x7dleu",
-    "title": "The Verge：Anthropic CEO says it’s time to pump the brakes on AI",
-    "summary": "据 The Verge 官方信息，Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its m…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-    "date": "2026-09-12",
+    "id": "only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-road-da99nv",
+    "title": "TechCrunch：Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "summary": "据 TechCrunch 官方信息，If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will conti…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "date": "2026-09-14",
     "category": "大模型",
     "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "trump-and-mike-johnson-think-the-ai-industry-is-overreacting-t8954l",
+    "title": "The Verge：Trump and Mike Johnson think the AI industry is overreacting",
+    "summary": "据 The Verge 官方信息，Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "date": "2026-09-13",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI",
       "Anthropic"
     ],
     "featured": false
@@ -51,20 +78,6 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "now-everyone-can-put-data-to-work-pjfeye",
-    "title": "OpenAI：Now everyone can put data to work",
-    "summary": "据 OpenAI 官方信息，Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/put-data-to-work",
-    "date": "2026-09-10",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Agent"
     ],
     "featured": true
   },
@@ -93,7 +106,7 @@
       "OpenAI",
       "GPT"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "get-ready-for-the-game-with-new-football-features-in-search-vxm8d0",
@@ -101,19 +114,6 @@
     "summary": "据 Google 官方信息，Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
     "source": "Google",
     "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "date": "2026-09-09",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "recreating-a-70-year-love-story-frame-by-frame-g3r6o8",
-    "title": "Google：Recreating a 70-year love story frame by frame",
-    "summary": "据 Google 官方信息，Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
     "date": "2026-09-09",
     "category": "行业动态",
     "tags": [
