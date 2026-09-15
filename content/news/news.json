@@ -1,5 +1,59 @@
 [
   {
+    "id": "new-insights-from-google-s-ai-economy-atlas-sgcz9d",
+    "title": "Google：New insights from Google’s AI & Economy ATLAS",
+    "summary": "据 Google 官方信息，We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "date": "2026-09-15",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-a-v4nomz",
+    "title": "TechCrunch：Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "summary": "据 TechCrunch 官方信息，Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with pa…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "date": "2026-09-15",
+    "category": "AI产品",
+    "tags": [
+      "Anthropic",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "claude-mods-functional-hooks-in-claude-code-and-desktop-a8fgph",
+    "title": "Hacker News：Claude Mods, Functional Hooks in Claude Code and Desktop",
+    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/anthropics/claude-code/issues/91870 Comments URL: https://news.ycombinator.com/item?id=49712921 Points: 2 # …",
+    "source": "Hacker News",
+    "url": "https://github.com/anthropics/claude-code/issues/91870",
+    "date": "2026-09-15",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "how-fyxer-built-an-ai-executive-assistant-people-trust-jegt8a",
+    "title": "OpenAI：How Fyxer built an AI executive assistant people trust",
+    "summary": "据 OpenAI 官方信息，Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/fyxer",
+    "date": "2026-09-14",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "perplexity-trusts-gpt-6-astra-with-end-to-end-systems-l46txp",
     "title": "OpenAI：Perplexity trusts GPT-6 Astra with end-to-end systems",
     "summary": "据 OpenAI 官方信息，Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with…",
@@ -24,6 +78,19 @@
       "Agent"
     ],
     "featured": true
+  },
+  {
+    "id": "watch-astronaut-christina-koch-and-google-s-james-manyika-discuss-space--oq3hhc",
+    "title": "Google：Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "summary": "据 Google 官方信息，Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "date": "2026-09-14",
+    "category": "研究进展",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
   },
   {
     "id": "microsoft-says-people-matter-more-than-ai-following-safety-concerns-q3r9oi",
@@ -54,20 +121,6 @@
     "featured": false
   },
   {
-    "id": "trump-and-mike-johnson-think-the-ai-industry-is-overreacting-t8954l",
-    "title": "The Verge：Trump and Mike Johnson think the AI industry is overreacting",
-    "summary": "据 The Verge 官方信息，Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "date": "2026-09-13",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
     "id": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users-153l4k",
     "title": "OpenAI：Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "summary": "据 OpenAI 官方信息，Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M …",
@@ -78,59 +131,6 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "3-ways-to-prep-for-your-next-big-race-with-search-b5wk9r",
-    "title": "Google：3 ways to prep for your next big race with Search",
-    "summary": "据 Google 官方信息，Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "date": "2026-09-10",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gpt-6-astra-the-next-generation-in-intelligence-for-work-qg4awp",
-    "title": "OpenAI：GPT-6 Astra: The next generation in intelligence for work",
-    "summary": "据 OpenAI 官方信息，Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "date": "2026-09-09",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "get-ready-for-the-game-with-new-football-features-in-search-vxm8d0",
-    "title": "Google：Get ready for the game with new football features in Search",
-    "summary": "据 Google 官方信息，Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "date": "2026-09-09",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-i-skramt",
-    "title": "Google DeepMind：AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "summary": "据 Google DeepMind 官方信息，AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-    "date": "2026-09-08",
-    "category": "行业动态",
-    "tags": [
-      "Google DeepMind"
     ],
     "featured": false
   }
