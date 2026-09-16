@@ -1,10 +1,66 @@
 [
   {
-    "id": "new-insights-from-google-s-ai-economy-atlas-sgcz9d",
-    "title": "Google：New insights from Google’s AI & Economy ATLAS",
-    "summary": "据 Google 官方信息，We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "id": "reimagining-advertising-with-ai-30ctep",
+    "title": "OpenAI：Reimagining advertising with AI",
+    "summary": "据 OpenAI 官方信息，Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot a…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "date": "2026-09-16",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "a-brief-history-of-ai-executives-calling-for-regulation-mi8mbp",
+    "title": "The Verge：A brief history of AI executives calling for regulation",
+    "summary": "据 The Verge 官方信息，Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow do…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+    "date": "2026-09-16",
+    "category": "政策安全",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Microsoft"
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-for-everyone-in-every-language-px7fcu",
+    "title": "Google：AI for everyone in every language",
+    "summary": "据 Google 官方信息，We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expr…",
     "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "date": "2026-09-15",
+    "category": "大模型",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking-i81944",
+    "title": "Google DeepMind：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "date": "2026-09-15",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-for-societal-impact-22d0ud",
+    "title": "Google：AI for Societal Impact",
+    "summary": "据 Google 官方信息，Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
     "date": "2026-09-15",
     "category": "行业动态",
     "tags": [
@@ -13,30 +69,18 @@
     "featured": false
   },
   {
-    "id": "early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-a-v4nomz",
-    "title": "TechCrunch：Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "summary": "据 TechCrunch 官方信息，Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with pa…",
+    "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-set-rbcmp2",
+    "title": "TechCrunch：Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "summary": "据 TechCrunch 官方信息，A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging t…",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "date": "2026-09-15",
-    "category": "AI产品",
-    "tags": [
-      "Anthropic",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "claude-mods-functional-hooks-in-claude-code-and-desktop-a8fgph",
-    "title": "Hacker News：Claude Mods, Functional Hooks in Claude Code and Desktop",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/anthropics/claude-code/issues/91870 Comments URL: https://news.ycombinator.com/item?id=49712921 Points: 2 # …",
-    "source": "Hacker News",
-    "url": "https://github.com/anthropics/claude-code/issues/91870",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "date": "2026-09-15",
     "category": "大模型",
     "tags": [
-      "Anthropic",
-      "Claude"
+      "Meta",
+      "GPT",
+      "Claude",
+      "Agent"
     ],
     "featured": false
   },
@@ -77,19 +121,6 @@
     "tags": [
       "Agent"
     ],
-    "featured": true
-  },
-  {
-    "id": "watch-astronaut-christina-koch-and-google-s-james-manyika-discuss-space--oq3hhc",
-    "title": "Google：Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-    "summary": "据 Google 官方信息，Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-    "date": "2026-09-14",
-    "category": "研究进展",
-    "tags": [
-      "Google"
-    ],
     "featured": false
   },
   {
@@ -104,33 +135,6 @@
       "Anthropic",
       "Microsoft",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-road-da99nv",
-    "title": "TechCrunch：Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "summary": "据 TechCrunch 官方信息，If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will conti…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "date": "2026-09-14",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users-153l4k",
-    "title": "OpenAI：Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "date": "2026-09-11",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
     ],
     "featured": false
   }
