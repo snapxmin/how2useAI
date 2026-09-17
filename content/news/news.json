@@ -1,5 +1,35 @@
 [
   {
+    "id": "microsoft-ai-ceo-says-ai-threats-are-real-and-anthropic-is-making-it-wor-6f3gih",
+    "title": "The Verge：Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spir…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+    "date": "2026-09-17",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "helping-older-adults-use-ai-in-everyday-life-jwvn20",
+    "title": "OpenAI：Helping older adults use AI in everyday life",
+    "summary": "据 OpenAI 官方信息，OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safel…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "date": "2026-09-16",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
     "id": "reimagining-advertising-with-ai-30ctep",
     "title": "OpenAI：Reimagining advertising with AI",
     "summary": "据 OpenAI 官方信息，Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot a…",
@@ -14,18 +44,46 @@
     "featured": true
   },
   {
-    "id": "a-brief-history-of-ai-executives-calling-for-regulation-mi8mbp",
-    "title": "The Verge：A brief history of AI executives calling for regulation",
-    "summary": "据 The Verge 官方信息，Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow do…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+    "id": "our-framework-for-reporting-model-misalignment-5v652e",
+    "title": "OpenAI：Our framework for reporting model misalignment",
+    "summary": "据 OpenAI 官方信息，OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
     "date": "2026-09-16",
-    "category": "政策安全",
+    "category": "大模型",
     "tags": [
-      "OpenAI",
-      "Anthropic",
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "your-ai-agents-can-now-control-your-google-home-devices-prmaqz",
+    "title": "TechCrunch：Your AI agents can now control your Google Home devices",
+    "summary": "据 TechCrunch 官方信息，Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connect…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "date": "2026-09-16",
+    "category": "大模型",
+    "tags": [
       "Google",
-      "Microsoft"
+      "GPT",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-will-now-let-any-ai-agent-run-your-smart-home-pm8bnz",
+    "title": "The Verge：Google will now let any AI agent run your smart home",
+    "summary": "据 The Verge 官方信息，Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Goog…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "date": "2026-09-16",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Claude",
+      "Agent"
     ],
     "featured": false
   },
@@ -69,48 +127,6 @@
     "featured": false
   },
   {
-    "id": "meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-set-rbcmp2",
-    "title": "TechCrunch：Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "summary": "据 TechCrunch 官方信息，A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging t…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "date": "2026-09-15",
-    "category": "大模型",
-    "tags": [
-      "Meta",
-      "GPT",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "how-fyxer-built-an-ai-executive-assistant-people-trust-jegt8a",
-    "title": "OpenAI：How Fyxer built an AI executive assistant people trust",
-    "summary": "据 OpenAI 官方信息，Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/fyxer",
-    "date": "2026-09-14",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "perplexity-trusts-gpt-6-astra-with-end-to-end-systems-l46txp",
-    "title": "OpenAI：Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "summary": "据 OpenAI 官方信息，Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "date": "2026-09-14",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "devfest-is-back-ysawlt",
     "title": "Google：DevFest is back",
     "summary": "据 Google 官方信息，DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic A…",
@@ -119,21 +135,6 @@
     "date": "2026-09-14",
     "category": "AI产品",
     "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "microsoft-says-people-matter-more-than-ai-following-safety-concerns-q3r9oi",
-    "title": "The Verge：Microsoft says ‘people matter more than AI’ following safety concerns",
-    "summary": "据 The Verge 官方信息，Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Da…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-    "date": "2026-09-14",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Microsoft",
       "Agent"
     ],
     "featured": false
