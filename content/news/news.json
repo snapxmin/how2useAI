@@ -1,5 +1,59 @@
 [
   {
+    "id": "new-experts-join-google-s-ai-economy-team-aexizc",
+    "title": "Google：New experts join Google’s AI & Economy team",
+    "summary": "据 Google 官方信息，We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "date": "2026-09-18",
+    "category": "研究进展",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "co-creating-the-future-of-fashion-with-google-nzr1at",
+    "title": "Google：Co-creating the future of fashion with Google",
+    "summary": "据 Google 官方信息，Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "date": "2026-09-18",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "researchers-used-anthropic-s-claude-to-hack-into-openai-v2sjoc",
+    "title": "TechCrunch：Researchers used Anthropic’s Claude to hack into OpenAI",
+    "summary": "据 TechCrunch 官方信息，Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining acces…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "date": "2026-09-18",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "making-global-data-easier-to-explore-xpai0q",
+    "title": "Google：Making global data easier to explore",
+    "summary": "据 Google 官方信息，Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to searc…",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "date": "2026-09-17",
+    "category": "AI产品",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
     "id": "microsoft-ai-ceo-says-ai-threats-are-real-and-anthropic-is-making-it-wor-6f3gih",
     "title": "The Verge：Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
     "summary": "据 The Verge 官方信息，Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spir…",
@@ -12,6 +66,20 @@
       "Anthropic",
       "Google",
       "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavio-rol407",
+    "title": "TechCrunch：OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "summary": "据 TechCrunch 官方信息，OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing …",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "date": "2026-09-17",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
     ],
     "featured": false
   },
@@ -57,50 +125,6 @@
     "featured": true
   },
   {
-    "id": "your-ai-agents-can-now-control-your-google-home-devices-prmaqz",
-    "title": "TechCrunch：Your AI agents can now control your Google Home devices",
-    "summary": "据 TechCrunch 官方信息，Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connect…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "date": "2026-09-16",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "GPT",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-will-now-let-any-ai-agent-run-your-smart-home-pm8bnz",
-    "title": "The Verge：Google will now let any AI agent run your smart home",
-    "summary": "据 The Verge 官方信息，Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Goog…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-    "date": "2026-09-16",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "ai-for-everyone-in-every-language-px7fcu",
-    "title": "Google：AI for everyone in every language",
-    "summary": "据 Google 官方信息，We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expr…",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "date": "2026-09-15",
-    "category": "大模型",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
     "id": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking-i81944",
     "title": "Google DeepMind：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
     "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -110,32 +134,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "ai-for-societal-impact-22d0ud",
-    "title": "Google：AI for Societal Impact",
-    "summary": "据 Google 官方信息，Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "date": "2026-09-15",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "devfest-is-back-ysawlt",
-    "title": "Google：DevFest is back",
-    "summary": "据 Google 官方信息，DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic A…",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-    "date": "2026-09-14",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
     ],
     "featured": false
   }
