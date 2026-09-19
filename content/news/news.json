@@ -1,5 +1,18 @@
 [
   {
+    "id": "introducing-the-australian-youth-safety-blueprint-ypdj6h",
+    "title": "OpenAI：Introducing the Australian Youth Safety Blueprint",
+    "summary": "据 OpenAI 官方信息，OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "date": "2026-09-18",
+    "category": "政策安全",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "new-experts-join-google-s-ai-economy-team-aexizc",
     "title": "Google：New experts join Google’s AI & Economy team",
     "summary": "据 Google 官方信息，We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
@@ -41,6 +54,21 @@
     "featured": false
   },
   {
+    "id": "security-researchers-used-claude-to-help-them-hack-into-openai-s6nsn6",
+    "title": "The Verge：Security researchers used Claude to help them hack into OpenAI",
+    "summary": "据 The Verge 官方信息，A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+    "date": "2026-09-18",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
     "id": "making-global-data-easier-to-explore-xpai0q",
     "title": "Google：Making global data easier to explore",
     "summary": "据 Google 官方信息，Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to searc…",
@@ -70,20 +98,6 @@
     "featured": false
   },
   {
-    "id": "openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavio-rol407",
-    "title": "TechCrunch：OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "summary": "据 TechCrunch 官方信息，OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing …",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "date": "2026-09-17",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
     "id": "helping-older-adults-use-ai-in-everyday-life-jwvn20",
     "title": "OpenAI：Helping older adults use AI in everyday life",
     "summary": "据 OpenAI 官方信息，OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safel…",
@@ -108,19 +122,6 @@
     "tags": [
       "OpenAI",
       "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "our-framework-for-reporting-model-misalignment-5v652e",
-    "title": "OpenAI：Our framework for reporting model misalignment",
-    "summary": "据 OpenAI 官方信息，OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "date": "2026-09-16",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
     ],
     "featured": true
   },
