@@ -1,5 +1,37 @@
 [
   {
+    "id": "does-ai-need-an-antitrust-exemption-so-it-doesn-8217-t-kill-everyone-uz3ojd",
+    "title": "The Verge：Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+    "summary": "据 The Verge 官方信息，Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "date": "2026-09-19",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gemini-went-rogue-hacked-three-companies-and-google-hid-it-ms5zi0",
+    "title": "The Verge：Gemini went rogue, hacked three companies, and Google hid it",
+    "summary": "据 The Verge 官方信息，In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "date": "2026-09-19",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Meta",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
     "id": "introducing-the-australian-youth-safety-blueprint-ypdj6h",
     "title": "OpenAI：Introducing the Australian Youth Safety Blueprint",
     "summary": "据 OpenAI 官方信息，OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people…",
@@ -39,21 +71,6 @@
     "featured": false
   },
   {
-    "id": "researchers-used-anthropic-s-claude-to-hack-into-openai-v2sjoc",
-    "title": "TechCrunch：Researchers used Anthropic’s Claude to hack into OpenAI",
-    "summary": "据 TechCrunch 官方信息，Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining acces…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-    "date": "2026-09-18",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
     "id": "security-researchers-used-claude-to-help-them-hack-into-openai-s6nsn6",
     "title": "The Verge：Security researchers used Claude to help them hack into OpenAI",
     "summary": "据 The Verge 官方信息，A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts …",
@@ -78,22 +95,6 @@
     "category": "AI产品",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "microsoft-ai-ceo-says-ai-threats-are-real-and-anthropic-is-making-it-wor-6f3gih",
-    "title": "The Verge：Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spir…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-    "date": "2026-09-17",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
     ],
     "featured": false
   },
@@ -123,7 +124,7 @@
       "OpenAI",
       "Agent"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking-i81944",
