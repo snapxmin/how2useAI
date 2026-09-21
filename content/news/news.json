@@ -1,5 +1,33 @@
 [
   {
+    "id": "how-v7-gives-ai-agents-institutional-memory-cze8s9",
+    "title": "OpenAI：How V7 gives AI agents institutional memory",
+    "summary": "据 OpenAI 官方信息，Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/v7",
+    "date": "2026-09-21",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-overb-tj5c9z",
+    "title": "The Verge：No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+    "summary": "据 The Verge 官方信息，The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who hav…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "date": "2026-09-20",
+    "category": "研究进展",
+    "tags": [
+      "OpenAI",
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
     "id": "does-ai-need-an-antitrust-exemption-so-it-doesn-8217-t-kill-everyone-uz3ojd",
     "title": "The Verge：Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
     "summary": "据 The Verge 官方信息，Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit…",
@@ -71,21 +99,6 @@
     "featured": false
   },
   {
-    "id": "security-researchers-used-claude-to-help-them-hack-into-openai-s6nsn6",
-    "title": "The Verge：Security researchers used Claude to help them hack into OpenAI",
-    "summary": "据 The Verge 官方信息，A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-    "date": "2026-09-18",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
     "id": "making-global-data-easier-to-explore-xpai0q",
     "title": "Google：Making global data easier to explore",
     "summary": "据 Google 官方信息，Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to searc…",
@@ -109,20 +122,6 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "reimagining-advertising-with-ai-30ctep",
-    "title": "OpenAI：Reimagining advertising with AI",
-    "summary": "据 OpenAI 官方信息，Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot a…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai",
-    "date": "2026-09-16",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
     ],
     "featured": false
   },
