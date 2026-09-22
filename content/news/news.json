@@ -14,26 +14,38 @@
     "featured": true
   },
   {
-    "id": "no-one-is-surprised-that-nvidia-s-jensen-huang-thinks-ai-fears-are-overb-tj5c9z",
-    "title": "The Verge：No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-    "summary": "据 The Verge 官方信息，The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who hav…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "date": "2026-09-20",
-    "category": "研究进展",
+    "id": "advisory-group-on-mathematics-and-artificial-intelligence-h309hj",
+    "title": "OpenAI：Advisory Group on Mathematics and Artificial Intelligence",
+    "summary": "据 OpenAI 官方信息，OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of eme…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "date": "2026-09-21",
+    "category": "行业动态",
     "tags": [
-      "OpenAI",
-      "Anthropic"
+      "OpenAI"
     ],
-    "featured": false
+    "featured": true
   },
   {
-    "id": "does-ai-need-an-antitrust-exemption-so-it-doesn-8217-t-kill-everyone-uz3ojd",
-    "title": "The Verge：Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-    "summary": "据 The Verge 官方信息，Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit…",
+    "id": "higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra-h6do75",
+    "title": "OpenAI：Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "summary": "据 OpenAI 官方信息，With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "date": "2026-09-21",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "can-john-ternus-find-apple-s-next-big-thing-s0myk5",
+    "title": "The Verge：Can John Ternus find Apple’s next big thing?",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the …",
     "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-    "date": "2026-09-19",
+    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "date": "2026-09-21",
     "category": "大模型",
     "tags": [
       "OpenAI",
@@ -41,36 +53,36 @@
       "Google",
       "Meta"
     ],
-    "featured": true
+    "featured": false
   },
   {
-    "id": "gemini-went-rogue-hacked-three-companies-and-google-hid-it-ms5zi0",
-    "title": "The Verge：Gemini went rogue, hacked three companies, and Google hid it",
-    "summary": "据 The Verge 官方信息，In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "date": "2026-09-19",
+    "id": "meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-xm3uyl",
+    "title": "TechCrunch：Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "summary": "据 TechCrunch 官方信息，Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period af…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "date": "2026-09-21",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "Google",
       "Meta",
-      "Gemini"
+      "GPT",
+      "Agent"
     ],
     "featured": false
   },
   {
-    "id": "introducing-the-australian-youth-safety-blueprint-ypdj6h",
-    "title": "OpenAI：Introducing the Australian Youth Safety Blueprint",
-    "summary": "据 OpenAI 官方信息，OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "date": "2026-09-18",
-    "category": "政策安全",
+    "id": "meta-s-ai-agent-has-been-blocked-from-using-amazon-com-xint3t",
+    "title": "TechCrunch：Meta’s AI agent has been blocked from using Amazon.com",
+    "summary": "据 TechCrunch 官方信息，Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're u…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "date": "2026-09-21",
+    "category": "大模型",
     "tags": [
-      "OpenAI"
+      "Meta",
+      "Agent"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "new-experts-join-google-s-ai-economy-team-aexizc",
@@ -108,20 +120,6 @@
     "category": "AI产品",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "helping-older-adults-use-ai-in-everyday-life-jwvn20",
-    "title": "OpenAI：Helping older adults use AI in everyday life",
-    "summary": "据 OpenAI 官方信息，OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safel…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "date": "2026-09-16",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
     ],
     "featured": false
   },
