@@ -1,11 +1,24 @@
 [
   {
-    "id": "how-v7-gives-ai-agents-institutional-memory-cze8s9",
-    "title": "OpenAI：How V7 gives AI agents institutional memory",
-    "summary": "据 OpenAI 官方信息，Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "id": "grab-and-openai-bring-practical-ai-skills-to-southeast-asia-esst7p",
+    "title": "OpenAI：Grab and OpenAI bring practical AI skills to Southeast Asia",
+    "summary": "据 OpenAI 官方信息，OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
     "source": "OpenAI",
-    "url": "https://openai.com/index/v7",
-    "date": "2026-09-21",
+    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+    "date": "2026-09-23",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra-oi00ou",
+    "title": "OpenAI：Parallel cut research time and cost in half with GPT‑6 Astra",
+    "summary": "据 OpenAI 官方信息，GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "date": "2026-09-22",
     "category": "大模型",
     "tags": [
       "GPT",
@@ -14,30 +27,63 @@
     "featured": true
   },
   {
-    "id": "advisory-group-on-mathematics-and-artificial-intelligence-h309hj",
-    "title": "OpenAI：Advisory Group on Mathematics and Artificial Intelligence",
-    "summary": "据 OpenAI 官方信息，OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of eme…",
+    "id": "introducing-gpt-6-sol-and-luna-2ls4s1",
+    "title": "OpenAI：Introducing GPT-6 Sol and Luna",
+    "summary": "据 OpenAI 官方信息，Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
     "source": "OpenAI",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "date": "2026-09-21",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "higgsfield-ai-ships-new-video-features-in-a-day-with-gpt-6-astra-h6do75",
-    "title": "OpenAI：Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "summary": "据 OpenAI 官方信息，With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "date": "2026-09-21",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "date": "2026-09-22",
     "category": "大模型",
     "tags": [
       "GPT"
     ],
     "featured": true
+  },
+  {
+    "id": "anthropic-launches-claude-opus-5-5-with-stricter-safeguards-for-cybersec-u3fz8o",
+    "title": "The Verge：Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "summary": "据 The Verge 官方信息，Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announce…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "date": "2026-09-22",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-launches-gpt-6-sol-and-luna-boasting-lower-cost-and-fewer-mistake-xvql2i",
+    "title": "TechCrunch：OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "summary": "据 TechCrunch 官方信息，OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "date": "2026-09-22",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "andreessen-horowitz-is-launching-an-academy-with-no-homework-and-partner-whltuo",
+    "title": "The Verge：Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "summary": "据 The Verge 官方信息，Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silico…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "date": "2026-09-22",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": false
   },
   {
     "id": "can-john-ternus-find-apple-s-next-big-thing-s0myk5",
@@ -52,35 +98,6 @@
       "Anthropic",
       "Google",
       "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-s-muse-is-outpacing-chatgpt-s-early-mobile-launch-xm3uyl",
-    "title": "TechCrunch：Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "summary": "据 TechCrunch 官方信息，Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period af…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "date": "2026-09-21",
-    "category": "大模型",
-    "tags": [
-      "Meta",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-s-ai-agent-has-been-blocked-from-using-amazon-com-xint3t",
-    "title": "TechCrunch：Meta’s AI agent has been blocked from using Amazon.com",
-    "summary": "据 TechCrunch 官方信息，Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're u…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "date": "2026-09-21",
-    "category": "大模型",
-    "tags": [
-      "Meta",
-      "Agent"
     ],
     "featured": false
   },
@@ -120,19 +137,6 @@
     "category": "AI产品",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-gemini-3-8-live-and-3-8-live-extended-thinking-i81944",
-    "title": "Google DeepMind：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "date": "2026-09-15",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
     ],
     "featured": false
   }
