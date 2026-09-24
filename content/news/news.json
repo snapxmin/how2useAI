@@ -1,16 +1,101 @@
 [
   {
-    "id": "grab-and-openai-bring-practical-ai-skills-to-southeast-asia-esst7p",
-    "title": "OpenAI：Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "summary": "据 OpenAI 官方信息，OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "date": "2026-09-23",
+    "id": "i-have-some-questions-for-mark-zuckerberg-wwhi01",
+    "title": "The Verge：I have some questions for Mark Zuckerberg",
+    "summary": "据 The Verge 官方信息，It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an ea…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+    "date": "2026-09-24",
+    "category": "大模型",
+    "tags": [
+      "Meta",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gemini-4-is-almost-ready-says-new-google-deepmind-chief-kvjikx",
+    "title": "The Verge：Gemini 4 is almost ready, says new Google DeepMind chief",
+    "summary": "据 The Verge 官方信息，Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "date": "2026-09-24",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "meta-s-muse-ai-charms-can-interact-with-each-other-q9fftq",
+    "title": "The Verge：Meta’s Muse AI Charms can interact with each other",
+    "summary": "据 The Verge 官方信息，Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later thi…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+    "date": "2026-09-24",
     "category": "AI产品",
     "tags": [
-      "OpenAI"
+      "Meta",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "show-hn-resume-claude-code-subagents-killed-by-a-usage-limit-don-t-redo--59mpdy",
+    "title": "Hacker News：Show HN: Resume Claude Code subagents killed by a usage limit, don't redo them",
+    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/error0702/agent-limit-retry Comments URL: https://news.ycombinator.com/item?id=49831324 Points: 2 # Comments…",
+    "source": "Hacker News",
+    "url": "https://github.com/error0702/agent-limit-retry",
+    "date": "2026-09-24",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai-jkrx6n",
+    "title": "OpenAI：Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "summary": "据 OpenAI 官方信息，Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "date": "2026-09-23",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT",
+      "Agent"
     ],
     "featured": true
+  },
+  {
+    "id": "airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-l2cjdd",
+    "title": "OpenAI：Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "summary": "据 OpenAI 官方信息，Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and shi…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/airbnb-gpt-6-astra",
+    "date": "2026-09-23",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "google-beam-expands-with-new-regions-partners-and-customers-i7azrh",
+    "title": "Google：Google Beam expands with new regions, partners, and customers",
+    "summary": "据 Google 官方信息，We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "date": "2026-09-23",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
   },
   {
     "id": "parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra-oi00ou",
@@ -27,81 +112,6 @@
     "featured": true
   },
   {
-    "id": "introducing-gpt-6-sol-and-luna-2ls4s1",
-    "title": "OpenAI：Introducing GPT-6 Sol and Luna",
-    "summary": "据 OpenAI 官方信息，Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "date": "2026-09-22",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "anthropic-launches-claude-opus-5-5-with-stricter-safeguards-for-cybersec-u3fz8o",
-    "title": "The Verge：Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-    "summary": "据 The Verge 官方信息，Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announce…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-    "date": "2026-09-22",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-launches-gpt-6-sol-and-luna-boasting-lower-cost-and-fewer-mistake-xvql2i",
-    "title": "TechCrunch：OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "summary": "据 TechCrunch 官方信息，OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "date": "2026-09-22",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "andreessen-horowitz-is-launching-an-academy-with-no-homework-and-partner-whltuo",
-    "title": "The Verge：Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-    "summary": "据 The Verge 官方信息，Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silico…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-    "date": "2026-09-22",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "can-john-ternus-find-apple-s-next-big-thing-s0myk5",
-    "title": "The Verge：Can John Ternus find Apple’s next big thing?",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-    "date": "2026-09-21",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
     "id": "new-experts-join-google-s-ai-economy-team-aexizc",
     "title": "Google：New experts join Google’s AI & Economy team",
     "summary": "据 Google 官方信息，We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
@@ -109,19 +119,6 @@
     "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
     "date": "2026-09-18",
     "category": "研究进展",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "co-creating-the-future-of-fashion-with-google-nzr1at",
-    "title": "Google：Co-creating the future of fashion with Google",
-    "summary": "据 Google 官方信息，Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "date": "2026-09-18",
-    "category": "行业动态",
     "tags": [
       "Google"
     ],
