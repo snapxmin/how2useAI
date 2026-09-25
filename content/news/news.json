@@ -1,57 +1,42 @@
 [
   {
-    "id": "i-have-some-questions-for-mark-zuckerberg-wwhi01",
-    "title": "The Verge：I have some questions for Mark Zuckerberg",
-    "summary": "据 The Verge 官方信息，It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an ea…",
+    "id": "microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-off-rnczub",
+    "title": "The Verge：Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "summary": "据 The Verge 官方信息，After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three A…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-    "date": "2026-09-24",
-    "category": "大模型",
-    "tags": [
-      "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-4-is-almost-ready-says-new-google-deepmind-chief-kvjikx",
-    "title": "The Verge：Gemini 4 is almost ready, says new Google DeepMind chief",
-    "summary": "据 The Verge 官方信息，Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
-    "date": "2026-09-24",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-s-muse-ai-charms-can-interact-with-each-other-q9fftq",
-    "title": "The Verge：Meta’s Muse AI Charms can interact with each other",
-    "summary": "据 The Verge 官方信息，Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later thi…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
-    "date": "2026-09-24",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "date": "2026-09-25",
     "category": "AI产品",
     "tags": [
-      "Meta",
+      "Microsoft",
       "Agent"
     ],
     "featured": false
   },
   {
-    "id": "show-hn-resume-claude-code-subagents-killed-by-a-usage-limit-don-t-redo--59mpdy",
-    "title": "Hacker News：Show HN: Resume Claude Code subagents killed by a usage limit, don't redo them",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/error0702/agent-limit-retry Comments URL: https://news.ycombinator.com/item?id=49831324 Points: 2 # Comments…",
+    "id": "ask-hn-anyone-elses-openai-and-claude-api-keys-mysteriously-leaked-last--kntwvv",
+    "title": "Hacker News：Ask HN: Anyone elses OpenAI and Claude API keys mysteriously leaked last night?",
+    "summary": "据 Hacker News 官方信息，Seems 1 (out of 3) of my openapi keys and of 1 my claude keys was leaked last night all around the same time. My keys are only stored on my …",
     "source": "Hacker News",
-    "url": "https://github.com/error0702/agent-limit-retry",
+    "url": "https://news.ycombinator.com/item?id=49845022",
+    "date": "2026-09-25",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "introducing-gemini-3-8-live-with-live-avatar-k2xcms",
+    "title": "Google DeepMind：Introducing Gemini 3.8 Live with Live Avatar",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "date": "2026-09-24",
     "category": "大模型",
     "tags": [
-      "Claude",
-      "Agent"
+      "Gemini"
     ],
     "featured": false
   },
@@ -85,6 +70,19 @@
     "featured": true
   },
   {
+    "id": "gemini-3-8-text-to-speech-says-hello-g9o5da",
+    "title": "Google DeepMind：Gemini 3.8 text-to-speech says hello",
+    "summary": "据 Google DeepMind 官方信息，Gemini 3.8 text-to-speech says hello",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "date": "2026-09-23",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
     "id": "google-beam-expands-with-new-regions-partners-and-customers-i7azrh",
     "title": "Google：Google Beam expands with new regions, partners, and customers",
     "summary": "据 Google 官方信息，We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
@@ -94,6 +92,19 @@
     "category": "行业动态",
     "tags": [
       "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "advancing-private-ai-compute-with-secure-server-side-memory-7jd4oo",
+    "title": "Google DeepMind：Advancing Private AI Compute with secure, server-side memory",
+    "summary": "据 Google DeepMind 官方信息，Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "date": "2026-09-23",
+    "category": "行业动态",
+    "tags": [
+      "Google DeepMind"
     ],
     "featured": false
   },
@@ -110,19 +121,6 @@
       "Agent"
     ],
     "featured": true
-  },
-  {
-    "id": "new-experts-join-google-s-ai-economy-team-aexizc",
-    "title": "Google：New experts join Google’s AI & Economy team",
-    "summary": "据 Google 官方信息，We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "date": "2026-09-18",
-    "category": "研究进展",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
   },
   {
     "id": "making-global-data-easier-to-explore-xpai0q",
