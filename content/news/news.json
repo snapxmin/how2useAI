@@ -1,29 +1,65 @@
 [
   {
-    "id": "microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-off-rnczub",
-    "title": "The Verge：Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-    "summary": "据 The Verge 官方信息，After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three A…",
+    "id": "can-cloudflare-ceo-matthew-prince-save-the-web-from-ai-5czstw",
+    "title": "The Verge：Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matth…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-    "date": "2026-09-25",
-    "category": "AI产品",
+    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+    "date": "2026-09-26",
+    "category": "大模型",
     "tags": [
-      "Microsoft",
-      "Agent"
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
     ],
-    "featured": false
+    "featured": true
   },
   {
-    "id": "ask-hn-anyone-elses-openai-and-claude-api-keys-mysteriously-leaked-last--kntwvv",
-    "title": "Hacker News：Ask HN: Anyone elses OpenAI and Claude API keys mysteriously leaked last night?",
-    "summary": "据 Hacker News 官方信息，Seems 1 (out of 3) of my openapi keys and of 1 my claude keys was leaked last night all around the same time. My keys are only stored on my …",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=49845022",
+    "id": "meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic-huz3d7",
+    "title": "TechCrunch：Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "summary": "据 TechCrunch 官方信息，When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s tu…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
     "date": "2026-09-25",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Claude"
+      "Anthropic",
+      "Meta",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "meta-s-ai-tamagotchi-bet-is-working-50zdip",
+    "title": "TechCrunch：Meta’s AI Tamagotchi bet is…working?",
+    "summary": "据 TechCrunch 官方信息，When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s tu…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "date": "2026-09-25",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Meta",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks-7nbqeu",
+    "title": "The Verge：One company is at the center of a wave of rogue AI attacks",
+    "summary": "据 The Verge 官方信息，In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Sinc…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "date": "2026-09-25",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
     ],
     "featured": false
   },
@@ -96,19 +132,6 @@
     "featured": false
   },
   {
-    "id": "advancing-private-ai-compute-with-secure-server-side-memory-7jd4oo",
-    "title": "Google DeepMind：Advancing Private AI Compute with secure, server-side memory",
-    "summary": "据 Google DeepMind 官方信息，Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "date": "2026-09-23",
-    "category": "行业动态",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
     "id": "parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra-oi00ou",
     "title": "OpenAI：Parallel cut research time and cost in half with GPT‑6 Astra",
     "summary": "据 OpenAI 官方信息，GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
@@ -119,19 +142,6 @@
     "tags": [
       "GPT",
       "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "making-global-data-easier-to-explore-xpai0q",
-    "title": "Google：Making global data easier to explore",
-    "summary": "据 Google 官方信息，Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to searc…",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "date": "2026-09-17",
-    "category": "AI产品",
-    "tags": [
-      "Google"
     ],
     "featured": false
   }
