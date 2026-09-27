@@ -16,6 +16,21 @@
     "featured": true
   },
   {
+    "id": "openai-pauses-training-of-its-most-capable-models-puwuq0",
+    "title": "The Verge：OpenAI pauses training of its ‘most capable models’",
+    "summary": "据 The Verge 官方信息，As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the de…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "date": "2026-09-26",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic-huz3d7",
     "title": "TechCrunch：Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
     "summary": "据 TechCrunch 官方信息，When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s tu…",
@@ -64,19 +79,6 @@
     "featured": false
   },
   {
-    "id": "introducing-gemini-3-8-live-with-live-avatar-k2xcms",
-    "title": "Google DeepMind：Introducing Gemini 3.8 Live with Live Avatar",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Live with Live Avatar",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "date": "2026-09-24",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
     "id": "ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai-jkrx6n",
     "title": "OpenAI：Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "summary": "据 OpenAI 官方信息，Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
@@ -106,19 +108,6 @@
     "featured": true
   },
   {
-    "id": "gemini-3-8-text-to-speech-says-hello-g9o5da",
-    "title": "Google DeepMind：Gemini 3.8 text-to-speech says hello",
-    "summary": "据 Google DeepMind 官方信息，Gemini 3.8 text-to-speech says hello",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "date": "2026-09-23",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
     "id": "google-beam-expands-with-new-regions-partners-and-customers-i7azrh",
     "title": "Google：Google Beam expands with new regions, partners, and customers",
     "summary": "据 Google 官方信息，We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
@@ -142,6 +131,19 @@
     "tags": [
       "GPT",
       "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "making-global-data-easier-to-explore-xpai0q",
+    "title": "Google：Making global data easier to explore",
+    "summary": "据 Google 官方信息，Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to searc…",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "date": "2026-09-17",
+    "category": "AI产品",
+    "tags": [
+      "Google"
     ],
     "featured": false
   }
