@@ -1,5 +1,63 @@
 [
   {
+    "id": "the-lenfest-institute-grows-landmark-program-with-expanded-openai-suppor-m0n39q",
+    "title": "OpenAI：The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "summary": "据 OpenAI 官方信息，OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "date": "2026-09-28",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "the-saaspocalypse-that-wasn-8217-t-with-atlassian-ceo-mike-cannon-brooke-e6yypk",
+    "title": "The Verge：The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other com…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+    "date": "2026-09-28",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Google",
+      "Meta",
+      "Microsoft"
+    ],
+    "featured": true
+  },
+  {
+    "id": "show-hn-nibia-fabric-turn-everyday-computers-into-a-shared-ai-compute-cl-faiqch",
+    "title": "Hacker News：Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
+    "summary": "据 Hacker News 官方信息，I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines. It b…",
+    "source": "Hacker News",
+    "url": "https://github.com/nibia/fabric",
+    "date": "2026-09-28",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "show-hn-open-source-agent-runtime-using-your-chatgpt-or-claude-subscript-3jzzt0",
+    "title": "Hacker News：Show HN: Open-source agent runtime using your ChatGPT or Claude subscription",
+    "summary": "据 Hacker News 官方信息，Hey HN! Sharing my work on an open-source agent runtime (like n8n, but for agents). It's OSI open-source under AGPL-3. People have been usin…",
+    "source": "Hacker News",
+    "url": "https://github.com/noclickapp/noclick",
+    "date": "2026-09-28",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "can-cloudflare-ceo-matthew-prince-save-the-web-from-ai-5czstw",
     "title": "The Verge：Can Cloudflare CEO Matthew Prince save the web from AI?",
     "summary": "据 The Verge 官方信息，Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matth…",
@@ -13,7 +71,7 @@
       "Google",
       "Meta"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "openai-pauses-training-of-its-most-capable-models-puwuq0",
@@ -31,50 +89,15 @@
     "featured": false
   },
   {
-    "id": "meta-s-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic-huz3d7",
-    "title": "TechCrunch：Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "summary": "据 TechCrunch 官方信息，When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s tu…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-    "date": "2026-09-25",
+    "id": "introducing-gemini-3-8-live-with-live-avatar-k2xcms",
+    "title": "Google DeepMind：Introducing Gemini 3.8 Live with Live Avatar",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Live with Live Avatar",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "date": "2026-09-24",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Meta",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-s-ai-tamagotchi-bet-is-working-50zdip",
-    "title": "TechCrunch：Meta’s AI Tamagotchi bet is…working?",
-    "summary": "据 TechCrunch 官方信息，When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s tu…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-    "date": "2026-09-25",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Meta",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks-7nbqeu",
-    "title": "The Verge：One company is at the center of a wave of rogue AI attacks",
-    "summary": "据 The Verge 官方信息，In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Sinc…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "date": "2026-09-25",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
+      "Gemini"
     ],
     "featured": false
   },
@@ -105,45 +128,18 @@
       "OpenAI",
       "GPT"
     ],
-    "featured": true
-  },
-  {
-    "id": "google-beam-expands-with-new-regions-partners-and-customers-i7azrh",
-    "title": "Google：Google Beam expands with new regions, partners, and customers",
-    "summary": "据 Google 官方信息，We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "date": "2026-09-23",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
     "featured": false
   },
   {
-    "id": "parallel-cut-research-time-and-cost-in-half-with-gpt-6-astra-oi00ou",
-    "title": "OpenAI：Parallel cut research time and cost in half with GPT‑6 Astra",
-    "summary": "据 OpenAI 官方信息，GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "date": "2026-09-22",
+    "id": "gemini-3-8-text-to-speech-says-hello-g9o5da",
+    "title": "Google DeepMind：Gemini 3.8 text-to-speech says hello",
+    "summary": "据 Google DeepMind 官方信息，Gemini 3.8 text-to-speech says hello",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "date": "2026-09-23",
     "category": "大模型",
     "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "making-global-data-easier-to-explore-xpai0q",
-    "title": "Google：Making global data easier to explore",
-    "summary": "据 Google 官方信息，Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to searc…",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-    "date": "2026-09-17",
-    "category": "AI产品",
-    "tags": [
-      "Google"
+      "Gemini"
     ],
     "featured": false
   }
