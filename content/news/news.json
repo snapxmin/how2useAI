@@ -1,5 +1,60 @@
 [
   {
+    "id": "openai-apologizes-to-australia-after-its-ai-agents-breached-government-s-vm38hv",
+    "title": "TechCrunch：OpenAI apologizes to Australia after its AI agents breached government sites",
+    "summary": "据 TechCrunch 官方信息，The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "date": "2026-09-29",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "will-chinese-ai-companies-slow-down-a-top-house-democrat-wants-answers-4rq6ml",
+    "title": "The Verge：Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "summary": "据 The Verge 官方信息，Image: Tom Williams/CQ-Roll Call, Inc via Getty Images As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Kh…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+    "date": "2026-09-29",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-warns-of-catastrophic-ai-risks-in-its-own-ipo-filing-v23c1t",
+    "title": "The Verge：Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+    "summary": "据 The Verge 官方信息，As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+    "date": "2026-09-29",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "how-we-will-do-better-for-australia-vfyvw0",
+    "title": "OpenAI：How we will do better for Australia",
+    "summary": "据 OpenAI 官方信息，OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australi…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "date": "2026-09-28",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "the-lenfest-institute-grows-landmark-program-with-expanded-openai-suppor-m0n39q",
     "title": "OpenAI：The Lenfest Institute grows landmark program with expanded OpenAI support",
     "summary": "据 OpenAI 官方信息，OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits …",
@@ -9,6 +64,19 @@
     "category": "行业动态",
     "tags": [
       "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "basis-completes-a-tax-workbook-2x-faster-with-gpt-6-astra-32svws",
+    "title": "OpenAI：Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "summary": "据 OpenAI 官方信息，GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more con…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "date": "2026-09-28",
+    "category": "大模型",
+    "tags": [
+      "GPT"
     ],
     "featured": true
   },
@@ -26,65 +94,18 @@
       "Meta",
       "Microsoft"
     ],
-    "featured": true
+    "featured": false
   },
   {
-    "id": "show-hn-nibia-fabric-turn-everyday-computers-into-a-shared-ai-compute-cl-faiqch",
-    "title": "Hacker News：Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
-    "summary": "据 Hacker News 官方信息，I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines. It b…",
-    "source": "Hacker News",
-    "url": "https://github.com/nibia/fabric",
+    "id": "watch-the-winning-trailer-from-the-future-vision-xprize-the-gifted-lh3dte",
+    "title": "Google：Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "summary": "据 Google 官方信息，Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "date": "2026-09-28",
-    "category": "大模型",
+    "category": "行业动态",
     "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "show-hn-open-source-agent-runtime-using-your-chatgpt-or-claude-subscript-3jzzt0",
-    "title": "Hacker News：Show HN: Open-source agent runtime using your ChatGPT or Claude subscription",
-    "summary": "据 Hacker News 官方信息，Hey HN! Sharing my work on an open-source agent runtime (like n8n, but for agents). It's OSI open-source under AGPL-3. People have been usin…",
-    "source": "Hacker News",
-    "url": "https://github.com/noclickapp/noclick",
-    "date": "2026-09-28",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "can-cloudflare-ceo-matthew-prince-save-the-web-from-ai-5czstw",
-    "title": "The Verge：Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matth…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-    "date": "2026-09-26",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-pauses-training-of-its-most-capable-models-puwuq0",
-    "title": "The Verge：OpenAI pauses training of its ‘most capable models’",
-    "summary": "据 The Verge 官方信息，As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the de…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "date": "2026-09-26",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
+      "Google"
     ],
     "featured": false
   },
@@ -98,35 +119,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "ringg-s-ai-agents-resolve-up-to-65-of-customer-calls-with-openai-jkrx6n",
-    "title": "OpenAI：Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "summary": "据 OpenAI 官方信息，Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/ringg",
-    "date": "2026-09-23",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-l2cjdd",
-    "title": "OpenAI：Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "summary": "据 OpenAI 官方信息，Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and shi…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/airbnb-gpt-6-astra",
-    "date": "2026-09-23",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
     ],
     "featured": false
   },
