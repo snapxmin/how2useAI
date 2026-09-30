@@ -1,79 +1,51 @@
 [
   {
-    "id": "openai-apologizes-to-australia-after-its-ai-agents-breached-government-s-vm38hv",
-    "title": "TechCrunch：OpenAI apologizes to Australia after its AI agents breached government sites",
-    "summary": "据 TechCrunch 官方信息，The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-    "date": "2026-09-29",
-    "category": "AI产品",
+    "id": "helping-small-businesses-put-ai-to-work-x6tgsv",
+    "title": "OpenAI：Helping small businesses put AI to work",
+    "summary": "据 OpenAI 官方信息，OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on ho…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "date": "2026-09-30",
+    "category": "行业动态",
     "tags": [
-      "OpenAI",
-      "Agent"
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-synthid-bio-ect2g6",
+    "title": "Google DeepMind：Introducing SynthID Bio",
+    "summary": "据 Google DeepMind 官方信息，Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "date": "2026-09-30",
+    "category": "行业动态",
+    "tags": [
+      "Google DeepMind"
     ],
     "featured": false
   },
   {
-    "id": "will-chinese-ai-companies-slow-down-a-top-house-democrat-wants-answers-4rq6ml",
-    "title": "The Verge：Will Chinese AI companies slow down? A top House Democrat wants answers",
-    "summary": "据 The Verge 官方信息，Image: Tom Williams/CQ-Roll Call, Inc via Getty Images As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Kh…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-    "date": "2026-09-29",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Hugging Face",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-warns-of-catastrophic-ai-risks-in-its-own-ipo-filing-v23c1t",
-    "title": "The Verge：Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-    "summary": "据 The Verge 官方信息，As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+    "id": "devday-2026-recap-w7zso2",
+    "title": "OpenAI：DevDay 2026 Recap",
+    "summary": "据 OpenAI 官方信息，Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builder…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/devday-2026-recap",
     "date": "2026-09-29",
     "category": "大模型",
     "tags": [
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "how-we-will-do-better-for-australia-vfyvw0",
-    "title": "OpenAI：How we will do better for Australia",
-    "summary": "据 OpenAI 官方信息，OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australi…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "date": "2026-09-28",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI"
+      "OpenAI",
+      "GPT"
     ],
     "featured": true
   },
   {
-    "id": "the-lenfest-institute-grows-landmark-program-with-expanded-openai-suppor-m0n39q",
-    "title": "OpenAI：The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "summary": "据 OpenAI 官方信息，OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits …",
+    "id": "introducing-gpt-6-1-sol-ua7zrm",
+    "title": "OpenAI：Introducing GPT-6.1 Sol",
+    "summary": "据 OpenAI 官方信息，Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and out…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "date": "2026-09-28",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "basis-completes-a-tax-workbook-2x-faster-with-gpt-6-astra-32svws",
-    "title": "OpenAI：Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "summary": "据 OpenAI 官方信息，GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more con…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "date": "2026-09-28",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "date": "2026-09-29",
     "category": "大模型",
     "tags": [
       "GPT"
@@ -81,18 +53,62 @@
     "featured": true
   },
   {
-    "id": "the-saaspocalypse-that-wasn-8217-t-with-atlassian-ceo-mike-cannon-brooke-e6yypk",
-    "title": "The Verge：The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other com…",
+    "id": "openai-launches-dots-its-muse-competitor-6mizmf",
+    "title": "The Verge：OpenAI launches Dots, its Muse competitor",
+    "summary": "据 The Verge 官方信息，Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with ag…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-    "date": "2026-09-28",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "date": "2026-09-29",
     "category": "大模型",
     "tags": [
-      "Anthropic",
-      "Google",
+      "OpenAI",
       "Meta",
-      "Microsoft"
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-s-latest-features-take-direct-aim-at-the-app-store-model-8intw3",
+    "title": "TechCrunch：OpenAI’s latest features take direct aim at the app store model",
+    "summary": "据 TechCrunch 官方信息，OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be d…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "date": "2026-09-29",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch-vruff0",
+    "title": "TechCrunch：The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "summary": "据 TechCrunch 官方信息，Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirec…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "date": "2026-09-29",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-ypq4uk",
+    "title": "TechCrunch：OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "summary": "据 TechCrunch 官方信息，OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "date": "2026-09-29",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Microsoft",
+      "GPT"
     ],
     "featured": false
   },
@@ -116,19 +132,6 @@
     "source": "Google DeepMind",
     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "date": "2026-09-24",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-3-8-text-to-speech-says-hello-g9o5da",
-    "title": "Google DeepMind：Gemini 3.8 text-to-speech says hello",
-    "summary": "据 Google DeepMind 官方信息，Gemini 3.8 text-to-speech says hello",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "date": "2026-09-23",
     "category": "大模型",
     "tags": [
       "Gemini"
