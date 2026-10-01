@@ -1,16 +1,75 @@
 [
   {
-    "id": "helping-small-businesses-put-ai-to-work-x6tgsv",
-    "title": "OpenAI：Helping small businesses put AI to work",
-    "summary": "据 OpenAI 官方信息，OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on ho…",
+    "id": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out-5lq39o",
+    "title": "OpenAI：How Albertsons Companies is reimagining retail from the inside out",
+    "summary": "据 OpenAI 官方信息，Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of cu…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "date": "2026-10-01",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free-lkrssv",
+    "title": "The Verge：OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "summary": "据 The Verge 官方信息，A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "date": "2026-10-01",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Meta",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "inside-our-months-long-investigation-into-kevin-o-leary-s-utah-data-cent-f49vc",
+    "title": "The Verge：Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+    "summary": "据 The Verge 官方信息，Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+    "date": "2026-10-01",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "disrupting-a-coordinated-model-distillation-campaign-7h46aa",
+    "title": "OpenAI：Disrupting a coordinated model-distillation campaign",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "date": "2026-09-30",
-    "category": "行业动态",
+    "category": "大模型",
     "tags": [
       "OpenAI"
     ],
     "featured": true
+  },
+  {
+    "id": "gemini-4-argon-our-next-era-of-frontier-intelligence-t9g98l",
+    "title": "Google DeepMind：Gemini 4 Argon: our next era of frontier intelligence",
+    "summary": "据 Google DeepMind 官方信息，Gemini 4 Argon: our next era of frontier intelligence",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "date": "2026-09-30",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
   },
   {
     "id": "introducing-synthid-bio-ect2g6",
@@ -22,6 +81,20 @@
     "category": "行业动态",
     "tags": [
       "Google DeepMind"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet-77tgzm",
+    "title": "TechCrunch：Google releases Gemini 4 Argon, called its most powerful model yet",
+    "summary": "据 TechCrunch 官方信息，Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "date": "2026-09-30",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
     ],
     "featured": false
   },
@@ -38,79 +111,6 @@
       "GPT"
     ],
     "featured": true
-  },
-  {
-    "id": "introducing-gpt-6-1-sol-ua7zrm",
-    "title": "OpenAI：Introducing GPT-6.1 Sol",
-    "summary": "据 OpenAI 官方信息，Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and out…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "date": "2026-09-29",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "openai-launches-dots-its-muse-competitor-6mizmf",
-    "title": "The Verge：OpenAI launches Dots, its Muse competitor",
-    "summary": "据 The Verge 官方信息，Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI OpenAI is responding to Meta's buzzy Muse AI with ag…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-    "date": "2026-09-29",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Meta",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-s-latest-features-take-direct-aim-at-the-app-store-model-8intw3",
-    "title": "TechCrunch：OpenAI’s latest features take direct aim at the app store model",
-    "summary": "据 TechCrunch 官方信息，OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be d…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "date": "2026-09-29",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "the-internet-is-convinced-elon-musk-s-xai-trolled-openai-s-dots-launch-vruff0",
-    "title": "TechCrunch：The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "summary": "据 TechCrunch 官方信息，Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirec…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "date": "2026-09-29",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-ypq4uk",
-    "title": "TechCrunch：OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "summary": "据 TechCrunch 官方信息，OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "date": "2026-09-29",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Microsoft",
-      "GPT"
-    ],
-    "featured": false
   },
   {
     "id": "watch-the-winning-trailer-from-the-future-vision-xprize-the-gifted-lh3dte",
