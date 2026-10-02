@@ -1,5 +1,44 @@
 [
   {
+    "id": "a-model-guide-for-the-gpt-6-family-dirhg",
+    "title": "OpenAI：A model guide for the GPT-6 family",
+    "summary": "据 OpenAI 官方信息，Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for p…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "date": "2026-10-02",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "the-latest-ai-news-we-announced-in-september-2026-pcfac7",
+    "title": "Google：The latest AI news we announced in September 2026",
+    "summary": "据 Google 官方信息，Here are Google’s latest AI updates from September 2026",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "date": "2026-10-02",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-music-maker-suno-now-generates-spoken-words-r943cj",
+    "title": "The Verge：AI music maker Suno now generates spoken words",
+    "summary": "据 The Verge 官方信息，Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descript…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "date": "2026-10-02",
+    "category": "大模型",
+    "tags": [
+      "The Verge"
+    ],
+    "featured": false
+  },
+  {
     "id": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out-5lq39o",
     "title": "OpenAI：How Albertsons Companies is reimagining retail from the inside out",
     "summary": "据 OpenAI 官方信息，Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of cu…",
@@ -85,34 +124,6 @@
     "featured": false
   },
   {
-    "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet-77tgzm",
-    "title": "TechCrunch：Google releases Gemini 4 Argon, called its most powerful model yet",
-    "summary": "据 TechCrunch 官方信息，Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-    "date": "2026-09-30",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "devday-2026-recap-w7zso2",
-    "title": "OpenAI：DevDay 2026 Recap",
-    "summary": "据 OpenAI 官方信息，Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builder…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/devday-2026-recap",
-    "date": "2026-09-29",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "watch-the-winning-trailer-from-the-future-vision-xprize-the-gifted-lh3dte",
     "title": "Google：Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
     "summary": "据 Google 官方信息，Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -122,19 +133,6 @@
     "category": "行业动态",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-gemini-3-8-live-with-live-avatar-k2xcms",
-    "title": "Google DeepMind：Introducing Gemini 3.8 Live with Live Avatar",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 3.8 Live with Live Avatar",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-    "date": "2026-09-24",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
     ],
     "featured": false
   }
