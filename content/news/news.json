@@ -1,5 +1,18 @@
 [
   {
+    "id": "an-openai-safety-employee-has-quit-and-is-sounding-the-alarm-rhnxw6",
+    "title": "The Verge：An OpenAI safety employee has quit and is sounding the alarm",
+    "summary": "据 The Verge 官方信息，David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his positi…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "date": "2026-10-03",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
     "id": "a-model-guide-for-the-gpt-6-family-dirhg",
     "title": "OpenAI：A model guide for the GPT-6 family",
     "summary": "据 OpenAI 官方信息，Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for p…",
@@ -8,6 +21,20 @@
     "date": "2026-10-02",
     "category": "大模型",
     "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "chatham-scales-its-capital-markets-expertise-with-openai-kn3t1c",
+    "title": "OpenAI：Chatham scales its capital markets expertise with OpenAI",
+    "summary": "据 OpenAI 官方信息，Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "date": "2026-10-02",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
       "GPT"
     ],
     "featured": true
@@ -26,15 +53,32 @@
     "featured": false
   },
   {
-    "id": "ai-music-maker-suno-now-generates-spoken-words-r943cj",
-    "title": "The Verge：AI music maker Suno now generates spoken words",
-    "summary": "据 The Verge 官方信息，Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descript…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "id": "call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it-g3mlr6",
+    "title": "TechCrunch：Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "summary": "据 TechCrunch 官方信息，This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — …",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
     "date": "2026-10-02",
-    "category": "大模型",
+    "category": "AI产品",
     "tags": [
-      "The Verge"
+      "OpenAI",
+      "Anthropic",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "it-s-not-ai-anymore-it-s-super-intelligence-according-to-the-white-house-5ycqsz",
+    "title": "TechCrunch：It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "summary": "据 TechCrunch 官方信息，This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — …",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "date": "2026-10-02",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Meta"
     ],
     "featured": false
   },
@@ -49,51 +93,6 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "openai-s-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free-lkrssv",
-    "title": "The Verge：OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-    "summary": "据 The Verge 官方信息，A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-    "date": "2026-10-01",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Meta",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "inside-our-months-long-investigation-into-kevin-o-leary-s-utah-data-cent-f49vc",
-    "title": "The Verge：Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-    "summary": "据 The Verge 官方信息，Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-    "date": "2026-10-01",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "disrupting-a-coordinated-model-distillation-campaign-7h46aa",
-    "title": "OpenAI：Disrupting a coordinated model-distillation campaign",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "date": "2026-09-30",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
     ],
     "featured": true
   },
