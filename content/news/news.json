@@ -1,43 +1,100 @@
 [
   {
-    "id": "an-openai-safety-employee-has-quit-and-is-sounding-the-alarm-rhnxw6",
-    "title": "The Verge：An OpenAI safety employee has quit and is sounding the alarm",
-    "summary": "据 The Verge 官方信息，David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his positi…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-    "date": "2026-10-03",
+    "id": "atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-int-k22udp",
+    "title": "OpenAI：Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "summary": "据 OpenAI 官方信息，Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and de…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "date": "2026-10-06",
     "category": "大模型",
     "tags": [
       "OpenAI"
     ],
-    "featured": false
-  },
-  {
-    "id": "a-model-guide-for-the-gpt-6-family-dirhg",
-    "title": "OpenAI：A model guide for the GPT-6 family",
-    "summary": "据 OpenAI 官方信息，Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for p…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "date": "2026-10-02",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
     "featured": true
   },
   {
-    "id": "chatham-scales-its-capital-markets-expertise-with-openai-kn3t1c",
-    "title": "OpenAI：Chatham scales its capital markets expertise with OpenAI",
-    "summary": "据 OpenAI 官方信息，Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "id": "anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-cre-ioccy7",
+    "title": "TechCrunch：Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "summary": "据 TechCrunch 官方信息，\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rat…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "date": "2026-10-06",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "mirror-particle-is-building-a-world-model-of-human-behavior-2td68t",
+    "title": "TechCrunch：Mirror Particle is building a ‘world model’ of human behavior",
+    "summary": "据 TechCrunch 官方信息，Mirror Particle will launch at TechCrunch Disrupt Startup Battlefield with a world model built from scratch to predict human behavior, argui…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "date": "2026-10-06",
+    "category": "大模型",
+    "tags": [
+      "TechCrunch"
+    ],
+    "featured": false
+  },
+  {
+    "id": "building-advertising-for-the-way-people-use-ai-ko3yz8",
+    "title": "OpenAI：Building advertising for the way people use AI",
+    "summary": "据 OpenAI 官方信息，OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for adver…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/chatham-financial",
-    "date": "2026-10-02",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "date": "2026-10-05",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "GPT"
     ],
     "featured": true
+  },
+  {
+    "id": "our-approach-to-eu-text-provenance-rules-i7yom4",
+    "title": "OpenAI：Our approach to EU text provenance rules",
+    "summary": "据 OpenAI 官方信息，How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with re…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "date": "2026-10-05",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-is-adding-text-watermarking-in-chatgpt-and-codex-9tct91",
+    "title": "The Verge：OpenAI is adding text watermarking in ChatGPT and Codex",
+    "summary": "据 The Verge 官方信息，An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at fir…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "date": "2026-10-05",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "sam-altman-says-some-bad-things-8217-will-happen-but-ai-is-totally-worth-36zn2x",
+    "title": "The Verge：Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+    "summary": "据 The Verge 官方信息，Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenA…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+    "date": "2026-10-05",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": false
   },
   {
     "id": "the-latest-ai-news-we-announced-in-september-2026-pcfac7",
@@ -51,50 +108,6 @@
       "Google"
     ],
     "featured": false
-  },
-  {
-    "id": "call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it-g3mlr6",
-    "title": "TechCrunch：Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "summary": "据 TechCrunch 官方信息，This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — …",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "date": "2026-10-02",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "it-s-not-ai-anymore-it-s-super-intelligence-according-to-the-white-house-5ycqsz",
-    "title": "TechCrunch：It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "summary": "据 TechCrunch 官方信息，This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — …",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "date": "2026-10-02",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "how-albertsons-companies-is-reimagining-retail-from-the-inside-out-5lq39o",
-    "title": "OpenAI：How Albertsons Companies is reimagining retail from the inside out",
-    "summary": "据 OpenAI 官方信息，Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of cu…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/albertsons-reimagining-retail",
-    "date": "2026-10-01",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
   },
   {
     "id": "gemini-4-argon-our-next-era-of-frontier-intelligence-t9g98l",
@@ -119,19 +132,6 @@
     "category": "行业动态",
     "tags": [
       "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "watch-the-winning-trailer-from-the-future-vision-xprize-the-gifted-lh3dte",
-    "title": "Google：Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "summary": "据 Google 官方信息，Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "date": "2026-09-28",
-    "category": "行业动态",
-    "tags": [
-      "Google"
     ],
     "featured": false
   }
