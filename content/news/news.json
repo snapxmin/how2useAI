@@ -1,14 +1,111 @@
 [
   {
-    "id": "atlassian-and-openai-expand-partnership-to-turn-enterprise-knowledge-int-k22udp",
-    "title": "OpenAI：Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "summary": "据 OpenAI 官方信息，Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and de…",
+    "id": "introducing-playground-create-and-play-custom-games-qo8qtl",
+    "title": "Google：Introducing Playground: Create and play custom games",
+    "summary": "据 Google 官方信息，Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "date": "2026-10-07",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "muse-launches-on-the-ipad-oltf0f",
+    "title": "The Verge：Muse launches on the iPad",
+    "summary": "据 The Verge 官方信息，After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+    "date": "2026-10-07",
+    "category": "大模型",
+    "tags": [
+      "Meta",
+      "GPT",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-s-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-a-iuodlq",
+    "title": "TechCrunch：OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "summary": "据 TechCrunch 官方信息，OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversatio…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "date": "2026-10-07",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-is-getting-college-planning-tools-cggy9m",
+    "title": "The Verge：ChatGPT is getting college planning tools",
+    "summary": "据 The Verge 官方信息，A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in Aug…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+    "date": "2026-10-07",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-for-teens-is-an-unacceptable-risk-says-common-sense-media-gm2hlf",
+    "title": "The Verge：ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+    "summary": "据 The Verge 官方信息，Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenA…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "date": "2026-10-07",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "sharing-ai-progress-in-mathematics-jiiymm",
+    "title": "OpenAI：Sharing AI progress in mathematics",
+    "summary": "据 OpenAI 官方信息，OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and resear…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/atlassian-partnership",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "date": "2026-10-06",
     "category": "大模型",
     "tags": [
       "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-jump-trading-is-scaling-quant-research-with-chatgpt-ml0gl6",
+    "title": "OpenAI：How Jump Trading is scaling quant research with ChatGPT",
+    "summary": "据 OpenAI 官方信息，Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human revie…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/jump-trading",
+    "date": "2026-10-06",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "advancing-computer-use-with-ironclad-f394s7",
+    "title": "OpenAI：Advancing computer use with Ironclad",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professiona…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "date": "2026-10-06",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
     ],
     "featured": true
   },
@@ -27,76 +124,6 @@
     "featured": false
   },
   {
-    "id": "mirror-particle-is-building-a-world-model-of-human-behavior-2td68t",
-    "title": "TechCrunch：Mirror Particle is building a ‘world model’ of human behavior",
-    "summary": "据 TechCrunch 官方信息，Mirror Particle will launch at TechCrunch Disrupt Startup Battlefield with a world model built from scratch to predict human behavior, argui…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-    "date": "2026-10-06",
-    "category": "大模型",
-    "tags": [
-      "TechCrunch"
-    ],
-    "featured": false
-  },
-  {
-    "id": "building-advertising-for-the-way-people-use-ai-ko3yz8",
-    "title": "OpenAI：Building advertising for the way people use AI",
-    "summary": "据 OpenAI 官方信息，OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for adver…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "date": "2026-10-05",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "our-approach-to-eu-text-provenance-rules-i7yom4",
-    "title": "OpenAI：Our approach to EU text provenance rules",
-    "summary": "据 OpenAI 官方信息，How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with re…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "date": "2026-10-05",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "openai-is-adding-text-watermarking-in-chatgpt-and-codex-9tct91",
-    "title": "The Verge：OpenAI is adding text watermarking in ChatGPT and Codex",
-    "summary": "据 The Verge 官方信息，An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at fir…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-    "date": "2026-10-05",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "sam-altman-says-some-bad-things-8217-will-happen-but-ai-is-totally-worth-36zn2x",
-    "title": "The Verge：Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-    "summary": "据 The Verge 官方信息，Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenA…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-    "date": "2026-10-05",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "the-latest-ai-news-we-announced-in-september-2026-pcfac7",
     "title": "Google：The latest AI news we announced in September 2026",
     "summary": "据 Google 官方信息，Here are Google’s latest AI updates from September 2026",
@@ -106,32 +133,6 @@
     "category": "行业动态",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-4-argon-our-next-era-of-frontier-intelligence-t9g98l",
-    "title": "Google DeepMind：Gemini 4 Argon: our next era of frontier intelligence",
-    "summary": "据 Google DeepMind 官方信息，Gemini 4 Argon: our next era of frontier intelligence",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-    "date": "2026-09-30",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-synthid-bio-ect2g6",
-    "title": "Google DeepMind：Introducing SynthID Bio",
-    "summary": "据 Google DeepMind 官方信息，Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-    "date": "2026-09-30",
-    "category": "行业动态",
-    "tags": [
-      "Google DeepMind"
     ],
     "featured": false
   }
