@@ -1,5 +1,91 @@
 [
   {
+    "id": "can-you-trust-meta-s-muse-or-openai-s-dots-to-run-your-life-3jmpzx",
+    "title": "The Verge：Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+    "summary": "据 The Verge 官方信息，My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+    "date": "2026-10-08",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": true
+  },
+  {
+    "id": "disrupting-ai-enabled-false-front-operations-fmaeal",
+    "title": "OpenAI：Disrupting AI-enabled “false front” operations",
+    "summary": "据 OpenAI 官方信息，OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "date": "2026-10-08",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fra-wqssxd",
+    "title": "TechCrunch：Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "summary": "据 TechCrunch 官方信息，Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent d…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "date": "2026-10-08",
+    "category": "大模型",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-bans-abusive-or-cruel-behavior-toward-claude-fhc44l",
+    "title": "The Verge：Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "summary": "据 The Verge 官方信息，Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including e…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "date": "2026-10-08",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-is-launching-a-one-stop-gemini-agent-for-your-work-tasks-5o5gzl",
+    "title": "The Verge：Google is launching a one-stop Gemini agent for your work tasks",
+    "summary": "据 The Verge 官方信息，Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of th…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+    "date": "2026-10-08",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Microsoft",
+      "Gemini",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "radisson-hotel-group-brings-hotel-discovery-into-chatgpt-6k6svf",
+    "title": "OpenAI：Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "summary": "据 OpenAI 官方信息，Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/radisson",
+    "date": "2026-10-07",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
     "id": "introducing-playground-create-and-play-custom-games-qo8qtl",
     "title": "Google：Introducing Playground: Create and play custom games",
     "summary": "据 Google 官方信息，Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
@@ -13,53 +99,11 @@
     "featured": false
   },
   {
-    "id": "muse-launches-on-the-ipad-oltf0f",
-    "title": "The Verge：Muse launches on the iPad",
-    "summary": "据 The Verge 官方信息，After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-    "date": "2026-10-07",
-    "category": "大模型",
-    "tags": [
-      "Meta",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-s-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-a-iuodlq",
-    "title": "TechCrunch：OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "summary": "据 TechCrunch 官方信息，OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversatio…",
+    "id": "chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface-wluo86",
+    "title": "TechCrunch：ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "summary": "据 TechCrunch 官方信息，OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "date": "2026-10-07",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "chatgpt-is-getting-college-planning-tools-cggy9m",
-    "title": "The Verge：ChatGPT is getting college planning tools",
-    "summary": "据 The Verge 官方信息，A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in Aug…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-    "date": "2026-10-07",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "chatgpt-for-teens-is-an-unacceptable-risk-says-common-sense-media-gm2hlf",
-    "title": "The Verge：ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-    "summary": "据 The Verge 官方信息，Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenA…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
     "date": "2026-10-07",
     "category": "大模型",
     "tags": [
@@ -82,57 +126,15 @@
     "featured": true
   },
   {
-    "id": "how-jump-trading-is-scaling-quant-research-with-chatgpt-ml0gl6",
-    "title": "OpenAI：How Jump Trading is scaling quant research with ChatGPT",
-    "summary": "据 OpenAI 官方信息，Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human revie…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/jump-trading",
+    "id": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model-nu32xb",
+    "title": "Google DeepMind：EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "summary": "据 Google DeepMind 官方信息，EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "date": "2026-10-06",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "advancing-computer-use-with-ironclad-f394s7",
-    "title": "OpenAI：Advancing computer use with Ironclad",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professiona…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "date": "2026-10-06",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "anthropic-is-giving-startups-a-free-year-of-claude-team-and-1-000-in-cre-ioccy7",
-    "title": "TechCrunch：Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-    "summary": "据 TechCrunch 官方信息，\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rat…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "date": "2026-10-06",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "the-latest-ai-news-we-announced-in-september-2026-pcfac7",
-    "title": "Google：The latest AI news we announced in September 2026",
-    "summary": "据 Google 官方信息，Here are Google’s latest AI updates from September 2026",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "date": "2026-10-02",
-    "category": "行业动态",
-    "tags": [
-      "Google"
+      "Google DeepMind"
     ],
     "featured": false
   }
