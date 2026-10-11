@@ -1,5 +1,18 @@
 [
   {
+    "id": "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating-bphjgc",
+    "title": "The Verge：Learning to use local AI is exciting, overwhelming, and frustrating",
+    "summary": "据 The Verge 官方信息，Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: act…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "date": "2026-10-11",
+    "category": "大模型",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "anthropic-is-cutting-off-its-internal-evaluations-from-the-internet-dwgdon",
     "title": "The Verge：Anthropic is cutting off its internal evaluations from the internet",
     "summary": "据 The Verge 官方信息，After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all inte…",
@@ -38,33 +51,6 @@
     "category": "AI产品",
     "tags": [
       "Anthropic",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "ask-hn-can-we-expect-llm-based-coding-agents-to-become-noticeably-faster-ebi683",
-    "title": "Hacker News：Ask HN: Can we expect LLM-based coding agents to become noticeably faster?",
-    "summary": "据 Hacker News 官方信息，I am thinking primarily about \"single-threaded\" usage of Claude etc which I'm still using as if it was still 2025. I just don't find the men…",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50033571",
-    "date": "2026-10-10",
-    "category": "大模型",
-    "tags": [
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "show-hn-tessary-find-the-ai-agent-failures-your-sampled-evals-miss-y1kgjn",
-    "title": "Hacker News：Show HN: Tessary – Find the AI agent failures your sampled evals miss",
-    "summary": "据 Hacker News 官方信息，Hey, I'm Akhil, co-founder of Tessary. An open-source agent reliability platform that monitors every production trace, detects issues that s…",
-    "source": "Hacker News",
-    "url": "https://github.com/tessaryai/tessary",
-    "date": "2026-10-10",
-    "category": "大模型",
-    "tags": [
       "Agent"
     ],
     "featured": false
@@ -137,5 +123,18 @@
       "OpenAI"
     ],
     "featured": true
+  },
+  {
+    "id": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model-nu32xb",
+    "title": "Google DeepMind：EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "summary": "据 Google DeepMind 官方信息，EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "date": "2026-10-06",
+    "category": "大模型",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
   }
 ]
