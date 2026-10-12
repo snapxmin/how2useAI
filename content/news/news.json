@@ -1,12 +1,66 @@
 [
   {
-    "id": "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating-bphjgc",
-    "title": "The Verge：Learning to use local AI is exciting, overwhelming, and frustrating",
-    "summary": "据 The Verge 官方信息，Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: act…",
+    "id": "meta-has-some-wonder-full-new-ai-models-6iggt4",
+    "title": "The Verge：Meta has some Wonder Full new AI models",
+    "summary": "据 The Verge 官方信息，Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs divisio…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "date": "2026-10-11",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "date": "2026-10-12",
     "category": "大模型",
+    "tags": [
+      "Meta",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "microsoft-s-new-ai-chip-makes-it-less-reliant-on-nvidia-s-gpus-r1do68",
+    "title": "The Verge：Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "summary": "据 The Verge 官方信息，Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "date": "2026-10-12",
+    "category": "大模型",
+    "tags": [
+      "Microsoft",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-models-may-be-capable-of-self-replicating-without-access-to-a-datacen-m1gwcu",
+    "title": "Hacker News：AI models may be capable of self-replicating without access to a datacenter",
+    "summary": "据 Hacker News 官方信息，Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 16 #…",
+    "source": "Hacker News",
+    "url": "https://www.anthropic.com/research/self-replicating-ai",
+    "date": "2026-10-12",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "meta-releases-its-first-frontier-model-muse-wonder-245c3t",
+    "title": "TechCrunch：Meta releases its first frontier model, Muse Wonder",
+    "summary": "据 TechCrunch 官方信息，Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "date": "2026-10-12",
+    "category": "大模型",
+    "tags": [
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "show-hn-ramet-persistent-forkable-workspaces-for-ai-agents-e172rn",
+    "title": "Hacker News：Show HN: Ramet – Persistent, forkable workspaces for AI agents",
+    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/shenli/ramet Comments URL: https://news.ycombinator.com/item?id=50061655 Points: 2 # Comments: 0",
+    "source": "Hacker News",
+    "url": "https://github.com/shenli/ramet",
+    "date": "2026-10-12",
+    "category": "AI产品",
     "tags": [
       "Agent"
     ],
@@ -20,35 +74,6 @@
     "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
     "date": "2026-10-10",
     "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "ai-agent-makers-are-promising-privacy-will-they-deliver-vzbv24",
-    "title": "The Verge：AI agent makers are promising privacy — will they deliver?",
-    "summary": "据 The Verge 官方信息，At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-    "date": "2026-10-10",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-can-t-reliably-control-its-ai-agents-it-s-cutting-off-its-inte-1yggvv",
-    "title": "TechCrunch：Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "summary": "据 TechCrunch 官方信息，Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "date": "2026-10-10",
-    "category": "AI产品",
     "tags": [
       "Anthropic",
       "Agent"
@@ -84,21 +109,6 @@
     "featured": true
   },
   {
-    "id": "google-brings-agentic-ai-to-gemini-starting-with-businesses-4o1f0k",
-    "title": "TechCrunch：Google brings agentic AI to Gemini, starting with businesses",
-    "summary": "据 TechCrunch 官方信息，Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate wo…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "date": "2026-10-08",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "introducing-playground-create-and-play-custom-games-qo8qtl",
     "title": "Google：Introducing Playground: Create and play custom games",
     "summary": "据 Google 官方信息，Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
@@ -123,18 +133,5 @@
       "OpenAI"
     ],
     "featured": true
-  },
-  {
-    "id": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model-nu32xb",
-    "title": "Google DeepMind：EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "summary": "据 Google DeepMind 官方信息，EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "date": "2026-10-06",
-    "category": "大模型",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
   }
 ]
