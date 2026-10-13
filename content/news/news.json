@@ -1,5 +1,60 @@
 [
   {
+    "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
+    "title": "Google：Gemini 4 Argon: Built to solve your hardest problems",
+    "summary": "据 Google 官方信息，We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "date": "2026-10-13",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gemini-4-argon-for-robotics-kshkad",
+    "title": "Google DeepMind：Gemini 4 Argon for Robotics",
+    "summary": "据 Google DeepMind 官方信息，Gemini 4 Argon for Robotics",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "date": "2026-10-13",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": true
+  },
+  {
+    "id": "google-finally-releases-gemini-4-argon-5fu5xs",
+    "title": "The Verge：Google finally releases Gemini 4 Argon",
+    "summary": "据 The Verge 官方信息，After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming i…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+    "date": "2026-10-13",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "GPT",
+      "Claude",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "character-ai-files-for-bankruptcy-xsajae",
+    "title": "The Verge：Character.AI files for bankruptcy",
+    "summary": "据 The Verge 官方信息，Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Di…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "date": "2026-10-13",
+    "category": "AI产品",
+    "tags": [
+      "The Verge"
+    ],
+    "featured": false
+  },
+  {
     "id": "meta-has-some-wonder-full-new-ai-models-6iggt4",
     "title": "The Verge：Meta has some Wonder Full new AI models",
     "summary": "据 The Verge 官方信息，Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs divisio…",
@@ -9,73 +64,6 @@
     "category": "大模型",
     "tags": [
       "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "microsoft-s-new-ai-chip-makes-it-less-reliant-on-nvidia-s-gpus-r1do68",
-    "title": "The Verge：Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-    "summary": "据 The Verge 官方信息，Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-    "date": "2026-10-12",
-    "category": "大模型",
-    "tags": [
-      "Microsoft",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "ai-models-may-be-capable-of-self-replicating-without-access-to-a-datacen-m1gwcu",
-    "title": "Hacker News：AI models may be capable of self-replicating without access to a datacenter",
-    "summary": "据 Hacker News 官方信息，Article URL: https://www.anthropic.com/research/self-replicating-ai Comments URL: https://news.ycombinator.com/item?id=50061603 Points: 16 #…",
-    "source": "Hacker News",
-    "url": "https://www.anthropic.com/research/self-replicating-ai",
-    "date": "2026-10-12",
-    "category": "大模型",
-    "tags": [
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-releases-its-first-frontier-model-muse-wonder-245c3t",
-    "title": "TechCrunch：Meta releases its first frontier model, Muse Wonder",
-    "summary": "据 TechCrunch 官方信息，Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "date": "2026-10-12",
-    "category": "大模型",
-    "tags": [
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "show-hn-ramet-persistent-forkable-workspaces-for-ai-agents-e172rn",
-    "title": "Hacker News：Show HN: Ramet – Persistent, forkable workspaces for AI agents",
-    "summary": "据 Hacker News 官方信息，Article URL: https://github.com/shenli/ramet Comments URL: https://news.ycombinator.com/item?id=50061655 Points: 2 # Comments: 0",
-    "source": "Hacker News",
-    "url": "https://github.com/shenli/ramet",
-    "date": "2026-10-12",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-is-cutting-off-its-internal-evaluations-from-the-internet-dwgdon",
-    "title": "The Verge：Anthropic is cutting off its internal evaluations from the internet",
-    "summary": "据 The Verge 官方信息，After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all inte…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "date": "2026-10-10",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
       "Agent"
     ],
     "featured": false
@@ -92,7 +80,7 @@
       "GPT",
       "Agent"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "pollo-ai-turns-creative-ideas-into-campaigns-with-openai-g662nx",
@@ -106,7 +94,7 @@
       "OpenAI",
       "GPT"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "introducing-playground-create-and-play-custom-games-qo8qtl",
@@ -133,5 +121,18 @@
       "OpenAI"
     ],
     "featured": true
+  },
+  {
+    "id": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model-nu32xb",
+    "title": "Google DeepMind：EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "summary": "据 Google DeepMind 官方信息，EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "date": "2026-10-06",
+    "category": "大模型",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
   }
 ]
