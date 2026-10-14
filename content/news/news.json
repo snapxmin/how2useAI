@@ -1,5 +1,57 @@
 [
   {
+    "id": "the-eu-s-next-chapter-in-ai-is-agentic-gdr7kl",
+    "title": "OpenAI：The EU’s next chapter in AI is agentic",
+    "summary": "据 OpenAI 官方信息，New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more valu…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "date": "2026-10-14",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "anthropic-s-self-replicating-ai-warning-is-an-alarming-deja-vu-9h81e",
+    "title": "The Verge：Anthropic’s self-replicating AI warning is an alarming deja vu",
+    "summary": "据 The Verge 官方信息，Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+    "date": "2026-10-14",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices-g8tl7",
+    "title": "Ars Technica：Anthropic warns small AI models could self-replicate through IoT devices",
+    "summary": "据 Ars Technica 官方信息，\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "date": "2026-10-14",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "floqer-s-ai-agents-research-sales-prospects-so-teams-don-t-have-to-pp6qnv",
+    "title": "TechCrunch：Floqer’s AI agents research sales prospects so teams don’t have to",
+    "summary": "据 TechCrunch 官方信息，Floqer is an autonomous customer knowledge platform that provides business-to-business sales and marketing teams with an AI-powered database…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "date": "2026-10-14",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
     "title": "Google：Gemini 4 Argon: Built to solve your hardest problems",
     "summary": "据 Google 官方信息，We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -13,17 +65,17 @@
     "featured": true
   },
   {
-    "id": "gemini-4-argon-for-robotics-kshkad",
-    "title": "Google DeepMind：Gemini 4 Argon for Robotics",
-    "summary": "据 Google DeepMind 官方信息，Gemini 4 Argon for Robotics",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "id": "higgsfield-takes-ai-video-from-1-minute-to-over-10-879ws",
+    "title": "OpenAI：Higgsfield takes AI video from 1 minute to over 10",
+    "summary": "据 OpenAI 官方信息，Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
     "date": "2026-10-13",
     "category": "大模型",
     "tags": [
-      "Gemini"
+      "GPT"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "google-finally-releases-gemini-4-argon-5fu5xs",
@@ -42,57 +94,15 @@
     "featured": false
   },
   {
-    "id": "character-ai-files-for-bankruptcy-xsajae",
-    "title": "The Verge：Character.AI files for bankruptcy",
-    "summary": "据 The Verge 官方信息，Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Di…",
+    "id": "openai-employee-arrested-for-allegedly-planting-a-bug-in-a-conference-ro-9kg9qa",
+    "title": "The Verge：OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "summary": "据 The Verge 官方信息，An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The em…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
     "date": "2026-10-13",
-    "category": "AI产品",
-    "tags": [
-      "The Verge"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-has-some-wonder-full-new-ai-models-6iggt4",
-    "title": "The Verge：Meta has some Wonder Full new AI models",
-    "summary": "据 The Verge 官方信息，Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs divisio…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "date": "2026-10-12",
     "category": "大模型",
     "tags": [
-      "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1-sol-7u788z",
-    "title": "OpenAI：Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "summary": "据 OpenAI 官方信息，Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/asana-browser-agent",
-    "date": "2026-10-09",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "pollo-ai-turns-creative-ideas-into-campaigns-with-openai-g662nx",
-    "title": "OpenAI：Pollo AI turns creative ideas into campaigns with OpenAI",
-    "summary": "据 OpenAI 官方信息，With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/pollo-ai",
-    "date": "2026-10-08",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
+      "OpenAI"
     ],
     "featured": false
   },
@@ -121,18 +131,5 @@
       "OpenAI"
     ],
     "featured": true
-  },
-  {
-    "id": "embeddinggemma-2-an-open-lightweight-multimodal-embedding-model-nu32xb",
-    "title": "Google DeepMind：EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "summary": "据 Google DeepMind 官方信息，EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "date": "2026-10-06",
-    "category": "大模型",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
   }
 ]
