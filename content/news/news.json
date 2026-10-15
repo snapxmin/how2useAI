@@ -1,27 +1,102 @@
 [
   {
-    "id": "the-eu-s-next-chapter-in-ai-is-agentic-gdr7kl",
-    "title": "OpenAI：The EU’s next chapter in AI is agentic",
-    "summary": "据 OpenAI 官方信息，New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more valu…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "date": "2026-10-14",
+    "id": "google-s-universal-cart-shopping-tool-launches-in-the-us-l2ug3z",
+    "title": "TechCrunch：Google’s Universal Cart shopping tool launches in the US",
+    "summary": "据 TechCrunch 官方信息，The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "date": "2026-10-15",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "benn-jordan-on-flock-privacy-and-the-new-surveillance-backlash-somneg",
+    "title": "The Verge：Benn Jordan on Flock, privacy, and the new surveillance backlash",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+    "date": "2026-10-15",
     "category": "AI产品",
     "tags": [
+      "Google",
+      "Meta",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-launches-its-8216-universal-8217-online-shopping-cart-ahead-of-th-yiytgv",
+    "title": "The Verge：Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+    "summary": "据 The Verge 官方信息，Save all of the products you’re browsing in one place. | Image: Google Google's intelligent AI shopping cart is finally here, and just in ti…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+    "date": "2026-10-15",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "ai-agents-are-coming-to-rivian-s-cars-kigdvs",
+    "title": "TechCrunch：AI agents are coming to Rivian’s cars",
+    "summary": "据 TechCrunch 官方信息，We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "date": "2026-10-15",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "amp-puts-ai-agents-to-work-beyond-code-with-openai-models-pwolyf",
+    "title": "OpenAI：Amp puts AI agents to work beyond code with OpenAI models",
+    "summary": "据 OpenAI 官方信息，See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "date": "2026-10-14",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT",
       "Agent"
     ],
     "featured": true
   },
   {
-    "id": "anthropic-s-self-replicating-ai-warning-is-an-alarming-deja-vu-9h81e",
-    "title": "The Verge：Anthropic’s self-replicating AI warning is an alarming deja vu",
-    "summary": "据 The Verge 官方信息，Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+    "id": "how-third-moment-research-runs-10-000-agents-for-36-hours-xhewie",
+    "title": "OpenAI：How Third Moment Research runs 10,000 agents for 36+ hours",
+    "summary": "据 OpenAI 官方信息，With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/third-moment-research",
     "date": "2026-10-14",
     "category": "大模型",
     "tags": [
-      "Anthropic"
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "the-ai-race-is-back-on-kfe2ks",
+    "title": "The Verge：The AI race is back on",
+    "summary": "据 The Verge 官方信息，Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "date": "2026-10-14",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
     ],
     "featured": false
   },
@@ -39,19 +114,6 @@
     "featured": false
   },
   {
-    "id": "floqer-s-ai-agents-research-sales-prospects-so-teams-don-t-have-to-pp6qnv",
-    "title": "TechCrunch：Floqer’s AI agents research sales prospects so teams don’t have to",
-    "summary": "据 TechCrunch 官方信息，Floqer is an autonomous customer knowledge platform that provides business-to-business sales and marketing teams with an AI-powered database…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "date": "2026-10-14",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
     "title": "Google：Gemini 4 Argon: Built to solve your hardest problems",
     "summary": "据 Google 官方信息，We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -61,61 +123,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": true
-  },
-  {
-    "id": "higgsfield-takes-ai-video-from-1-minute-to-over-10-879ws",
-    "title": "OpenAI：Higgsfield takes AI video from 1 minute to over 10",
-    "summary": "据 OpenAI 官方信息，Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "date": "2026-10-13",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-finally-releases-gemini-4-argon-5fu5xs",
-    "title": "The Verge：Google finally releases Gemini 4 Argon",
-    "summary": "据 The Verge 官方信息，After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming i…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-    "date": "2026-10-13",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "GPT",
-      "Claude",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-employee-arrested-for-allegedly-planting-a-bug-in-a-conference-ro-9kg9qa",
-    "title": "The Verge：OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "summary": "据 The Verge 官方信息，An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The em…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-    "date": "2026-10-13",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-playground-create-and-play-custom-games-qo8qtl",
-    "title": "Google：Introducing Playground: Create and play custom games",
-    "summary": "据 Google 官方信息，Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "date": "2026-10-07",
-    "category": "行业动态",
-    "tags": [
-      "Google"
     ],
     "featured": false
   },
