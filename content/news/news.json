@@ -1,5 +1,31 @@
 [
   {
+    "id": "meta-launches-an-open-weight-ai-model-that-runs-on-macs-ag6vxs",
+    "title": "TechCrunch：Meta launches an open-weight AI model that runs on Macs",
+    "summary": "据 TechCrunch 官方信息，Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple sili…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "date": "2026-10-15",
+    "category": "大模型",
+    "tags": [
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee--3xjn15",
+    "title": "TechCrunch：Anthropic is letting METR researchers look under the hood with employee-level access",
+    "summary": "据 TechCrunch 官方信息，METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "date": "2026-10-15",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
     "id": "google-s-universal-cart-shopping-tool-launches-in-the-us-l2ug3z",
     "title": "TechCrunch：Google’s Universal Cart shopping tool launches in the US",
     "summary": "据 TechCrunch 官方信息，The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
@@ -14,6 +40,34 @@
     "featured": false
   },
   {
+    "id": "chatgpt-can-peek-at-your-chrome-tabs-now-34yxy3",
+    "title": "The Verge：ChatGPT can peek at your Chrome tabs now",
+    "summary": "据 The Verge 官方信息，OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "date": "2026-10-15",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "meta-and-apple-team-up-to-make-muse-ai-models-run-better-on-macs-246ia",
+    "title": "The Verge：Meta and Apple team up to make Muse AI models run better on Macs",
+    "summary": "据 The Verge 官方信息，The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "date": "2026-10-15",
+    "category": "大模型",
+    "tags": [
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
     "id": "benn-jordan-on-flock-privacy-and-the-new-surveillance-backlash-somneg",
     "title": "The Verge：Benn Jordan on Flock, privacy, and the new surveillance backlash",
     "summary": "据 The Verge 官方信息，Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two …",
@@ -24,33 +78,6 @@
     "tags": [
       "Google",
       "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-launches-its-8216-universal-8217-online-shopping-cart-ahead-of-th-yiytgv",
-    "title": "The Verge：Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
-    "summary": "据 The Verge 官方信息，Save all of the products you’re browsing in one place. | Image: Google Google's intelligent AI shopping cart is finally here, and just in ti…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-    "date": "2026-10-15",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "ai-agents-are-coming-to-rivian-s-cars-kigdvs",
-    "title": "TechCrunch：AI agents are coming to Rivian’s cars",
-    "summary": "据 TechCrunch 官方信息，We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "date": "2026-10-15",
-    "category": "AI产品",
-    "tags": [
       "Agent"
     ],
     "featured": false
@@ -83,35 +110,6 @@
       "Agent"
     ],
     "featured": true
-  },
-  {
-    "id": "the-ai-race-is-back-on-kfe2ks",
-    "title": "The Verge：The AI race is back on",
-    "summary": "据 The Verge 官方信息，Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-    "date": "2026-10-14",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices-g8tl7",
-    "title": "Ars Technica：Anthropic warns small AI models could self-replicate through IoT devices",
-    "summary": "据 Ars Technica 官方信息，\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-    "source": "Ars Technica",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "date": "2026-10-14",
-    "category": "大模型",
-    "tags": [
-      "Anthropic"
-    ],
-    "featured": false
   },
   {
     "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
