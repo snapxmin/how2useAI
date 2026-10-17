@@ -1,84 +1,71 @@
 [
   {
-    "id": "meta-launches-an-open-weight-ai-model-that-runs-on-macs-ag6vxs",
-    "title": "TechCrunch：Meta launches an open-weight AI model that runs on Macs",
-    "summary": "据 TechCrunch 官方信息，Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple sili…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "date": "2026-10-15",
-    "category": "大模型",
+    "id": "websites-are-closing-their-doors-to-ai-agents-nppsti",
+    "title": "The Verge：Websites are closing their doors to AI agents",
+    "summary": "据 The Verge 官方信息，Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on you…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "date": "2026-10-17",
+    "category": "AI产品",
     "tags": [
-      "Meta"
+      "OpenAI",
+      "Google",
+      "Meta",
+      "Agent"
     ],
     "featured": false
   },
   {
-    "id": "anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee--3xjn15",
-    "title": "TechCrunch：Anthropic is letting METR researchers look under the hood with employee-level access",
-    "summary": "据 TechCrunch 官方信息，METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "date": "2026-10-15",
+    "id": "stack-overflow-for-agents-triples-signups-with-chatgpt-plugin-vkaw63",
+    "title": "OpenAI：Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "summary": "据 OpenAI 官方信息，Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent cre…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "date": "2026-10-16",
     "category": "大模型",
     "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "replit-is-no-longer-working-with-anthropic-ceo-says-nxejkw",
+    "title": "TechCrunch：Replit is no longer working with Anthropic, CEO says",
+    "summary": "据 TechCrunch 官方信息，Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, bu…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026-10-16",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI",
       "Anthropic"
     ],
     "featured": false
   },
   {
-    "id": "google-s-universal-cart-shopping-tool-launches-in-the-us-l2ug3z",
-    "title": "TechCrunch：Google’s Universal Cart shopping tool launches in the US",
-    "summary": "据 TechCrunch 官方信息，The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "id": "an-nvidia-insider-turned-vc-on-why-robotics-hasn-t-hit-its-chatgpt-momen-ylnkmj",
+    "title": "TechCrunch：An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "summary": "据 TechCrunch 官方信息，Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego …",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "date": "2026-10-15",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "date": "2026-10-16",
     "category": "大模型",
     "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "chatgpt-can-peek-at-your-chrome-tabs-now-34yxy3",
-    "title": "The Verge：ChatGPT can peek at your Chrome tabs now",
-    "summary": "据 The Verge 官方信息，OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "date": "2026-10-15",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Google",
       "GPT"
     ],
     "featured": false
   },
   {
-    "id": "meta-and-apple-team-up-to-make-muse-ai-models-run-better-on-macs-246ia",
-    "title": "The Verge：Meta and Apple team up to make Muse AI models run better on Macs",
-    "summary": "据 The Verge 官方信息，The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+    "id": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravi-wsrtv7",
+    "title": "Google DeepMind：Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary": "据 Google DeepMind 官方信息，Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "date": "2026-10-15",
-    "category": "大模型",
+    "category": "行业动态",
     "tags": [
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "benn-jordan-on-flock-privacy-and-the-new-surveillance-backlash-somneg",
-    "title": "The Verge：Benn Jordan on Flock, privacy, and the new surveillance backlash",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
-    "date": "2026-10-15",
-    "category": "AI产品",
-    "tags": [
-      "Google",
-      "Meta",
-      "Agent"
+      "Google"
     ],
     "featured": false
   },
@@ -98,18 +85,17 @@
     "featured": true
   },
   {
-    "id": "how-third-moment-research-runs-10-000-agents-for-36-hours-xhewie",
-    "title": "OpenAI：How Third Moment Research runs 10,000 agents for 36+ hours",
-    "summary": "据 OpenAI 官方信息，With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/third-moment-research",
+    "id": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-1lrmpq",
+    "title": "Google DeepMind：Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "summary": "据 Google DeepMind 官方信息，Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats w…",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "date": "2026-10-14",
     "category": "大模型",
     "tags": [
-      "GPT",
-      "Agent"
+      "Google"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
@@ -117,6 +103,19 @@
     "summary": "据 Google 官方信息，We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
     "source": "Google",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "date": "2026-10-13",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "developing-gemini-4-argon-responsibly-and-safely-qme5j7",
+    "title": "Google DeepMind：Developing Gemini 4 Argon responsibly and safely",
+    "summary": "据 Google DeepMind 官方信息，Developing Gemini 4 Argon responsibly and safely",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "date": "2026-10-13",
     "category": "大模型",
     "tags": [
