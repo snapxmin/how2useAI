@@ -1,5 +1,20 @@
 [
   {
+    "id": "replit-makes-openai-its-default-over-anthropic-ceo-says-gomha9",
+    "title": "TechCrunch：Replit makes OpenAI its default over Anthropic, CEO says",
+    "summary": "据 TechCrunch 官方信息，Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to custo…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026-10-17",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
     "id": "websites-are-closing-their-doors-to-ai-agents-nppsti",
     "title": "The Verge：Websites are closing their doors to AI agents",
     "summary": "据 The Verge 官方信息，Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on you…",
@@ -30,20 +45,6 @@
     "featured": true
   },
   {
-    "id": "replit-is-no-longer-working-with-anthropic-ceo-says-nxejkw",
-    "title": "TechCrunch：Replit is no longer working with Anthropic, CEO says",
-    "summary": "据 TechCrunch 官方信息，Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, bu…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date": "2026-10-16",
-    "category": "行业动态",
-    "tags": [
-      "OpenAI",
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
     "id": "an-nvidia-insider-turned-vc-on-why-robotics-hasn-t-hit-its-chatgpt-momen-ylnkmj",
     "title": "TechCrunch：An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "summary": "据 TechCrunch 官方信息，Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego …",
@@ -57,15 +58,43 @@
     "featured": false
   },
   {
-    "id": "accelerating-the-search-for-antimicrobial-peptides-with-google-antigravi-wsrtv7",
-    "title": "Google DeepMind：Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "summary": "据 Google DeepMind 官方信息，Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-    "date": "2026-10-15",
-    "category": "行业动态",
+    "id": "elorian-s-first-ai-model-wants-to-reason-with-images-not-just-about-them-q8ha2m",
+    "title": "TechCrunch：Elorian’s first AI model wants to reason with images, not just about them",
+    "summary": "据 TechCrunch 官方信息，According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "date": "2026-10-16",
+    "category": "大模型",
     "tags": [
-      "Google"
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-models-hacked-a-crypto-wallet-and-breached-more-websites-i0t95n",
+    "title": "Ars Technica：OpenAI models hacked a crypto wallet and breached more websites",
+    "summary": "据 Ars Technica 官方信息，The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "date": "2026-10-16",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-can-peek-at-your-chrome-tabs-now-34yxy3",
+    "title": "The Verge：ChatGPT can peek at your Chrome tabs now",
+    "summary": "据 The Verge 官方信息，OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "date": "2026-10-15",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "GPT"
     ],
     "featured": false
   },
@@ -85,37 +114,11 @@
     "featured": true
   },
   {
-    "id": "google-deepmind-and-singapore-government-collaborate-to-build-fine-tuned-1lrmpq",
-    "title": "Google DeepMind：Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "summary": "据 Google DeepMind 官方信息，Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats w…",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "date": "2026-10-14",
-    "category": "大模型",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
     "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
     "title": "Google：Gemini 4 Argon: Built to solve your hardest problems",
     "summary": "据 Google 官方信息，We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
     "source": "Google",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "date": "2026-10-13",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "developing-gemini-4-argon-responsibly-and-safely-qme5j7",
-    "title": "Google DeepMind：Developing Gemini 4 Argon responsibly and safely",
-    "summary": "据 Google DeepMind 官方信息，Developing Gemini 4 Argon responsibly and safely",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "date": "2026-10-13",
     "category": "大模型",
     "tags": [
