@@ -1,11 +1,40 @@
 [
   {
-    "id": "advancing-coding-in-low-resource-programming-languages-d0a9bt",
-    "title": "OpenAI：Advancing coding in low‑resource programming languages",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and …",
+    "id": "openai-models-are-coming-to-google-cloud-jynn0h",
+    "title": "OpenAI：OpenAI models are coming to Google Cloud",
+    "summary": "据 OpenAI 官方信息，OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplac…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "date": "2026-10-19",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "date": "2026-10-21",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Gemini"
+    ],
+    "featured": true
+  },
+  {
+    "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data-2mmzrq",
+    "title": "OpenAI：Using thousands of AI agents to uncover new leads in biological data",
+    "summary": "据 OpenAI 官方信息，See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brai…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "date": "2026-10-21",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-we-built-chatgpt-s-novel-ad-stack-for-user-trust-and-relevance-ta8vtl",
+    "title": "OpenAI：How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relev…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "date": "2026-10-21",
     "category": "大模型",
     "tags": [
       "OpenAI",
@@ -14,31 +43,70 @@
     "featured": true
   },
   {
-    "id": "microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-can-vddw2z",
-    "title": "TechCrunch：Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-    "summary": "据 TechCrunch 官方信息，Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "date": "2026-10-19",
+    "id": "southeast-asia-s-digital-economy-to-hit-368-billion-ys3jqf",
+    "title": "Google：Southeast Asia’s digital economy to hit $368 billion",
+    "summary": "据 Google 官方信息，Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "source": "Google",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "date": "2026-10-21",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-says-an-ai-agent-lied-about-disabling-its-safety-monitoring-syste-4c2du7",
+    "title": "The Verge：OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "summary": "据 The Verge 官方信息，OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "date": "2026-10-21",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Anthropic",
-      "Microsoft",
+      "GPT",
       "Agent"
     ],
     "featured": false
   },
   {
-    "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-p-5qavu5",
-    "title": "TechCrunch：Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "summary": "据 TechCrunch 官方信息，Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "date": "2026-10-19",
+    "id": "conversational-gemini-navigation-comes-to-apple-carplay-68ld2f",
+    "title": "The Verge：Conversational Gemini navigation comes to Apple CarPlay",
+    "summary": "据 The Verge 官方信息，After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Ge…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+    "date": "2026-10-21",
     "category": "大模型",
     "tags": [
-      "Agent"
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-cou-sbglz6",
+    "title": "TechCrunch：Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "summary": "据 TechCrunch 官方信息，The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "date": "2026-10-20",
+    "category": "大模型",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-7vrfx8",
+    "title": "TechCrunch：OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "summary": "据 TechCrunch 官方信息，OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Ros…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "date": "2026-10-20",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
     ],
     "featured": false
   },
@@ -58,64 +126,6 @@
     "featured": false
   },
   {
-    "id": "a-hacker-broke-into-john-deere-and-sharkninja-with-an-army-of-ai-agents-pjcm98",
-    "title": "The Verge：A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "summary": "据 The Verge 官方信息，A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI s…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "date": "2026-10-19",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accou-gcmydc",
-    "title": "TechCrunch：Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-    "summary": "据 TechCrunch 官方信息，OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its o…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "date": "2026-10-19",
-    "category": "大模型",
-    "tags": [
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "websites-are-closing-their-doors-to-ai-agents-nppsti",
-    "title": "The Verge：Websites are closing their doors to AI agents",
-    "summary": "据 The Verge 官方信息，Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on you…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "date": "2026-10-17",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "amp-puts-ai-agents-to-work-beyond-code-with-openai-models-pwolyf",
-    "title": "OpenAI：Amp puts AI agents to work beyond code with OpenAI models",
-    "summary": "据 OpenAI 官方信息，See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "date": "2026-10-14",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
     "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
     "title": "Google：Gemini 4 Argon: Built to solve your hardest problems",
     "summary": "据 Google 官方信息，We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -127,18 +137,5 @@
       "Gemini"
     ],
     "featured": false
-  },
-  {
-    "id": "sharing-ai-progress-in-mathematics-jiiymm",
-    "title": "OpenAI：Sharing AI progress in mathematics",
-    "summary": "据 OpenAI 官方信息，OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and resear…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "date": "2026-10-06",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
   }
 ]
