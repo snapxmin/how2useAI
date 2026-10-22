@@ -1,18 +1,60 @@
 [
   {
-    "id": "openai-models-are-coming-to-google-cloud-jynn0h",
-    "title": "OpenAI：OpenAI models are coming to Google Cloud",
-    "summary": "据 OpenAI 官方信息，OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplac…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "date": "2026-10-21",
+    "id": "bill-gates-says-to-prepare-for-20-years-of-tumultuous-ai-disruption-a4xg21",
+    "title": "The Verge：Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+    "summary": "据 The Verge 官方信息，Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in t…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+    "date": "2026-10-22",
     "category": "大模型",
     "tags": [
       "OpenAI",
+      "Anthropic",
       "Google",
-      "Gemini"
+      "Meta"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "beyond-tree-cover-mapping-the-world-s-forest-types-ufatvw",
+    "title": "Google DeepMind：Beyond tree cover: mapping the world’s forest types",
+    "summary": "据 Google DeepMind 官方信息，A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "date": "2026-10-22",
+    "category": "AI产品",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
+  },
+  {
+    "id": "claude-duet-app-is-anthropic-s-bet-on-agents-8qpjuq",
+    "title": "TechCrunch：Claude Duet app is Anthropic’s bet on agents",
+    "summary": "据 TechCrunch 官方信息，Claude Duet is available through waitlist for Pro and Max plan users",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "date": "2026-10-22",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "1password-lets-ai-agents-use-your-passwords-without-seeing-them-9n57gz",
+    "title": "The Verge：1Password lets AI agents use your passwords without seeing them",
+    "summary": "据 The Verge 官方信息，1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+    "date": "2026-10-22",
+    "category": "大模型",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
   },
   {
     "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data-2mmzrq",
@@ -25,6 +67,21 @@
     "tags": [
       "OpenAI",
       "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-models-are-coming-to-google-cloud-jynn0h",
+    "title": "OpenAI：OpenAI models are coming to Google Cloud",
+    "summary": "据 OpenAI 官方信息，OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplac…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "date": "2026-10-21",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Gemini"
     ],
     "featured": true
   },
@@ -56,69 +113,15 @@
     "featured": false
   },
   {
-    "id": "openai-says-an-ai-agent-lied-about-disabling-its-safety-monitoring-syste-4c2du7",
-    "title": "The Verge：OpenAI says an AI agent lied about disabling its safety monitoring system",
-    "summary": "据 The Verge 官方信息，OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. …",
+    "id": "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent-axrii",
+    "title": "The Verge：Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "summary": "据 The Verge 官方信息，Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
     "date": "2026-10-21",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "conversational-gemini-navigation-comes-to-apple-carplay-68ld2f",
-    "title": "The Verge：Conversational Gemini navigation comes to Apple CarPlay",
-    "summary": "据 The Verge 官方信息，After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Ge…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-    "date": "2026-10-21",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-cou-sbglz6",
-    "title": "TechCrunch：Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "summary": "据 TechCrunch 官方信息，The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "date": "2026-10-20",
-    "category": "大模型",
-    "tags": [
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business-7vrfx8",
-    "title": "TechCrunch：OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-    "summary": "据 TechCrunch 官方信息，OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Ros…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-    "date": "2026-10-20",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "jb-pritzker-thinks-ai-could-help-us-live-to-100-or-threaten-us-like-nuke-gq8076",
-    "title": "The Verge：JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the sh…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-    "date": "2026-10-19",
-    "category": "大模型",
-    "tags": [
       "Anthropic",
       "Meta",
       "Claude"
