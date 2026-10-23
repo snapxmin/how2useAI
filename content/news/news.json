@@ -1,37 +1,48 @@
 [
   {
-    "id": "bill-gates-says-to-prepare-for-20-years-of-tumultuous-ai-disruption-a4xg21",
-    "title": "The Verge：Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-    "summary": "据 The Verge 官方信息，Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in t…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-    "date": "2026-10-22",
+    "id": "does-your-model-run-on-aws-trainium-look-it-up-uvl40z",
+    "title": "Hugging Face：Does Your Model Run on AWS Trainium? Look It Up",
+    "summary": "据 Hugging Face 官方信息，Does Your Model Run on AWS Trainium? Look It Up",
+    "source": "Hugging Face",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "date": "2026-10-23",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
+      "Hugging Face"
     ],
     "featured": false
   },
   {
-    "id": "beyond-tree-cover-mapping-the-world-s-forest-types-ufatvw",
-    "title": "Google DeepMind：Beyond tree cover: mapping the world’s forest types",
-    "summary": "据 Google DeepMind 官方信息，A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "id": "uber-brings-chatgpt-work-to-all-employees-with-openai-sagip6",
+    "title": "OpenAI：Uber brings ChatGPT Work to all employees with OpenAI",
+    "summary": "据 OpenAI 官方信息，Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete com…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
     "date": "2026-10-22",
-    "category": "AI产品",
+    "category": "大模型",
     "tags": [
-      "Google DeepMind"
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-makes-its-jev-competitor-widely-available-as-decision-model-compe-ugte7u",
+    "title": "TechCrunch：OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "summary": "据 TechCrunch 官方信息，OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "date": "2026-10-22",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
     ],
     "featured": false
   },
   {
     "id": "claude-duet-app-is-anthropic-s-bet-on-agents-8qpjuq",
     "title": "TechCrunch：Claude Duet app is Anthropic’s bet on agents",
-    "summary": "据 TechCrunch 官方信息，Claude Duet is available through waitlist for Pro and Max plan users",
+    "summary": "据 TechCrunch 官方信息，Claude Duet is available through waitlist for Pro and Max plan users.",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
     "date": "2026-10-22",
@@ -44,13 +55,28 @@
     "featured": false
   },
   {
-    "id": "1password-lets-ai-agents-use-your-passwords-without-seeing-them-9n57gz",
-    "title": "The Verge：1Password lets AI agents use your passwords without seeing them",
-    "summary": "据 The Verge 官方信息，1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. …",
+    "id": "canva-s-first-ai-image-model-plans-designs-before-generating-them-ue79nb",
+    "title": "The Verge：Canva’s first AI image model plans designs before generating them",
+    "summary": "据 The Verge 官方信息，Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, a…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
     "date": "2026-10-22",
     "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Microsoft"
+    ],
+    "featured": false
+  },
+  {
+    "id": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without--kssjwa",
+    "title": "TechCrunch：1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "summary": "据 TechCrunch 官方信息，The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those ac…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "date": "2026-10-22",
+    "category": "AI产品",
     "tags": [
       "Agent"
     ],
@@ -86,20 +112,6 @@
     "featured": true
   },
   {
-    "id": "how-we-built-chatgpt-s-novel-ad-stack-for-user-trust-and-relevance-ta8vtl",
-    "title": "OpenAI：How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relev…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "date": "2026-10-21",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
     "id": "southeast-asia-s-digital-economy-to-hit-368-billion-ys3jqf",
     "title": "Google：Southeast Asia’s digital economy to hit $368 billion",
     "summary": "据 Google 官方信息，Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
@@ -109,22 +121,6 @@
     "category": "行业动态",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent-axrii",
-    "title": "The Verge：Anthropic takes on Muse with Claude Duet, its new AI agent",
-    "summary": "据 The Verge 官方信息，Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-    "date": "2026-10-21",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Meta",
-      "Claude"
     ],
     "featured": false
   },
