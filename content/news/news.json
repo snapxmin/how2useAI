@@ -1,30 +1,57 @@
 [
   {
-    "id": "does-your-model-run-on-aws-trainium-look-it-up-uvl40z",
-    "title": "Hugging Face：Does Your Model Run on AWS Trainium? Look It Up",
-    "summary": "据 Hugging Face 官方信息，Does Your Model Run on AWS Trainium? Look It Up",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "date": "2026-10-23",
-    "category": "大模型",
-    "tags": [
-      "Hugging Face"
-    ],
-    "featured": false
-  },
-  {
-    "id": "uber-brings-chatgpt-work-to-all-employees-with-openai-sagip6",
-    "title": "OpenAI：Uber brings ChatGPT Work to all employees with OpenAI",
-    "summary": "据 OpenAI 官方信息，Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete com…",
+    "id": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users-par-153p22",
+    "title": "OpenAI：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
     "source": "OpenAI",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "date": "2026-10-22",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "date": "2026-10-23",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "GPT"
     ],
     "featured": true
+  },
+  {
+    "id": "securing-our-frontier-model-training-environment-w1yqw2",
+    "title": "OpenAI：Securing our frontier model training environment",
+    "summary": "据 OpenAI 官方信息，OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "date": "2026-10-23",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-now-trains-its-frontier-ai-models-with-no-internet-access-itjbfh",
+    "title": "The Verge：OpenAI now trains its frontier AI models with no internet access",
+    "summary": "据 The Verge 官方信息，OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "date": "2026-10-23",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-c-24e9g3",
+    "title": "TechCrunch：OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summary": "据 TechCrunch 官方信息，OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "date": "2026-10-23",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
   },
   {
     "id": "openai-makes-its-jev-competitor-widely-available-as-decision-model-compe-ugte7u",
@@ -70,19 +97,6 @@
     "featured": false
   },
   {
-    "id": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without--kssjwa",
-    "title": "TechCrunch：1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "summary": "据 TechCrunch 官方信息，The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those ac…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "date": "2026-10-22",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data-2mmzrq",
     "title": "OpenAI：Using thousands of AI agents to uncover new leads in biological data",
     "summary": "据 OpenAI 官方信息，See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brai…",
@@ -93,21 +107,6 @@
     "tags": [
       "OpenAI",
       "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "openai-models-are-coming-to-google-cloud-jynn0h",
-    "title": "OpenAI：OpenAI models are coming to Google Cloud",
-    "summary": "据 OpenAI 官方信息，OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplac…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "date": "2026-10-21",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "Gemini"
     ],
     "featured": true
   },
