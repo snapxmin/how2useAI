@@ -1,5 +1,32 @@
 [
   {
+    "id": "forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-democr-r6ui22",
+    "title": "TechCrunch：Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "summary": "据 TechCrunch 官方信息，A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disa…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "date": "2026-10-24",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-mak-5lngod",
+    "title": "TechCrunch：The AI graveyard: a running list of projects and startups that didn’t make it",
+    "summary": "据 TechCrunch 官方信息，From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "date": "2026-10-24",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
     "id": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users-par-153p22",
     "title": "OpenAI：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "summary": "据 OpenAI 官方信息，Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
@@ -41,15 +68,15 @@
     "featured": false
   },
   {
-    "id": "openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-c-24e9g3",
-    "title": "TechCrunch：OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "summary": "据 TechCrunch 官方信息，OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "date": "2026-10-23",
-    "category": "大模型",
+    "id": "beyond-tree-cover-mapping-the-world-s-forest-types-ufatvw",
+    "title": "Google DeepMind：Beyond tree cover: mapping the world’s forest types",
+    "summary": "据 Google DeepMind 官方信息，A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "date": "2026-10-22",
+    "category": "AI产品",
     "tags": [
-      "OpenAI"
+      "Google DeepMind"
     ],
     "featured": false
   },
@@ -63,36 +90,6 @@
     "category": "大模型",
     "tags": [
       "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "claude-duet-app-is-anthropic-s-bet-on-agents-8qpjuq",
-    "title": "TechCrunch：Claude Duet app is Anthropic’s bet on agents",
-    "summary": "据 TechCrunch 官方信息，Claude Duet is available through waitlist for Pro and Max plan users.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "date": "2026-10-22",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "canva-s-first-ai-image-model-plans-designs-before-generating-them-ue79nb",
-    "title": "The Verge：Canva’s first AI image model plans designs before generating them",
-    "summary": "据 The Verge 官方信息，Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, a…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-    "date": "2026-10-22",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Google",
-      "Microsoft"
     ],
     "featured": false
   },
