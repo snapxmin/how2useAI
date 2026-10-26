@@ -1,26 +1,97 @@
 [
   {
-    "id": "forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-picks-democr-r6ui22",
-    "title": "TechCrunch：Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "summary": "据 TechCrunch 官方信息，A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disa…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "date": "2026-10-24",
+    "id": "kevin-roose-is-agi-pilled-why-aren-t-you-75n27o",
+    "title": "The Verge：Kevin Roose is AGI-pilled. Why aren’t you?",
+    "summary": "据 The Verge 官方信息，Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transfor…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+    "date": "2026-10-26",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "GPT"
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-fanatics-and-openai-streamline-the-fan-experience-ivh3fp",
+    "title": "OpenAI：How Fanatics and OpenAI streamline the fan experience",
+    "summary": "据 OpenAI 官方信息，Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "date": "2026-10-26",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "our-newest-ai-quest-mapping-the-human-brain-t5xk66",
+    "title": "Google：Our newest AI Quest: Mapping the human brain",
+    "summary": "据 Google 官方信息，Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "date": "2026-10-26",
+    "category": "AI产品",
+    "tags": [
+      "Google"
     ],
     "featured": false
   },
   {
-    "id": "the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn-t-mak-5lngod",
-    "title": "TechCrunch：The AI graveyard: a running list of projects and startups that didn’t make it",
-    "summary": "据 TechCrunch 官方信息，From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe…",
+    "id": "anthropic-s-ipo-filing-lays-out-a-plan-to-8216-revolutionize-every-area--pw1rv8",
+    "title": "The Verge：Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+    "summary": "据 The Verge 官方信息，Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to th…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+    "date": "2026-10-26",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "show-hn-hob-open-source-on-device-alternative-to-claude-cowork-and-chatg-qxqwvx",
+    "title": "Hacker News：Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "summary": "据 Hacker News 官方信息，Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop …",
+    "source": "Hacker News",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "date": "2026-10-26",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-s-ipo-filing-reveals-its-strategy-for-keeping-enterprise-custo-v444w4",
+    "title": "TechCrunch：Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "summary": "据 TechCrunch 官方信息，Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling …",
     "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "date": "2026-10-24",
-    "category": "AI产品",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "date": "2026-10-26",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "can-ai-help-solve-the-cobol-code-crisis-z4rhmq",
+    "title": "The Verge：Can AI help solve the COBOL code crisis?",
+    "summary": "据 The Verge 官方信息，A computer running COBOL 73, an antiquated computer programming language, awaits taxpayer information entries at the Internal Revenue Servic…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+    "date": "2026-10-26",
+    "category": "大模型",
     "tags": [
       "OpenAI"
     ],
@@ -37,59 +108,6 @@
     "tags": [
       "OpenAI",
       "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "securing-our-frontier-model-training-environment-w1yqw2",
-    "title": "OpenAI：Securing our frontier model training environment",
-    "summary": "据 OpenAI 官方信息，OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "date": "2026-10-23",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "openai-now-trains-its-frontier-ai-models-with-no-internet-access-itjbfh",
-    "title": "The Verge：OpenAI now trains its frontier AI models with no internet access",
-    "summary": "据 The Verge 官方信息，OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "date": "2026-10-23",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "beyond-tree-cover-mapping-the-world-s-forest-types-ufatvw",
-    "title": "Google DeepMind：Beyond tree cover: mapping the world’s forest types",
-    "summary": "据 Google DeepMind 官方信息，A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-    "date": "2026-10-22",
-    "category": "AI产品",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-makes-its-jev-competitor-widely-available-as-decision-model-compe-ugte7u",
-    "title": "TechCrunch：OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "summary": "据 TechCrunch 官方信息，OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "date": "2026-10-22",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
     ],
     "featured": false
   },
@@ -117,19 +135,6 @@
     "category": "行业动态",
     "tags": [
       "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-4-argon-built-to-solve-your-hardest-problems-i24174",
-    "title": "Google：Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "据 Google 官方信息，We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "date": "2026-10-13",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
     ],
     "featured": false
   }
