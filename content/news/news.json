@@ -1,5 +1,60 @@
 [
   {
+    "id": "apple-is-adding-an-ai-chatbot-to-pages-keynote-and-numbers-3o76vr",
+    "title": "The Verge：Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+    "summary": "据 The Verge 官方信息，Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+    "date": "2026-10-27",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assis-nzy931",
+    "title": "TechCrunch：How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "summary": "据 TechCrunch 官方信息，Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "date": "2026-10-27",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "working-with-academic-communities-to-build-scientific-understanding-5lqois",
+    "title": "OpenAI：Working with academic communities to build scientific understanding",
+    "summary": "据 OpenAI 官方信息，OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "date": "2026-10-26",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebase-plnvx8",
+    "title": "OpenAI：GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "summary": "据 OpenAI 官方信息，CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "date": "2026-10-26",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
     "id": "kevin-roose-is-agi-pilled-why-aren-t-you-75n27o",
     "title": "The Verge：Kevin Roose is AGI-pilled. Why aren’t you?",
     "summary": "据 The Verge 官方信息，Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transfor…",
@@ -13,20 +68,7 @@
       "Google",
       "Meta"
     ],
-    "featured": true
-  },
-  {
-    "id": "how-fanatics-and-openai-streamline-the-fan-experience-ivh3fp",
-    "title": "OpenAI：How Fanatics and OpenAI streamline the fan experience",
-    "summary": "据 OpenAI 官方信息，Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "date": "2026-10-26",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "our-newest-ai-quest-mapping-the-human-brain-t5xk66",
@@ -57,57 +99,15 @@
     "featured": false
   },
   {
-    "id": "show-hn-hob-open-source-on-device-alternative-to-claude-cowork-and-chatg-qxqwvx",
-    "title": "Hacker News：Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "summary": "据 Hacker News 官方信息，Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop …",
-    "source": "Hacker News",
-    "url": "https://github.com/FrigadeHQ/hob",
-    "date": "2026-10-26",
-    "category": "大模型",
+    "id": "beyond-tree-cover-mapping-the-world-s-forest-types-ufatvw",
+    "title": "Google DeepMind：Beyond tree cover: mapping the world’s forest types",
+    "summary": "据 Google DeepMind 官方信息，A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "date": "2026-10-22",
+    "category": "AI产品",
     "tags": [
-      "GPT",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-s-ipo-filing-reveals-its-strategy-for-keeping-enterprise-custo-v444w4",
-    "title": "TechCrunch：Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-    "summary": "据 TechCrunch 官方信息，Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling …",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-    "date": "2026-10-26",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "can-ai-help-solve-the-cobol-code-crisis-z4rhmq",
-    "title": "The Verge：Can AI help solve the COBOL code crisis?",
-    "summary": "据 The Verge 官方信息，A computer running COBOL 73, an antiquated computer programming language, awaits taxpayer information entries at the Internal Revenue Servic…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-    "date": "2026-10-26",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "rapidly-scaling-online-storage-to-serve-over-1-billion-chatgpt-users-par-153p22",
-    "title": "OpenAI：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "date": "2026-10-23",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
+      "Google DeepMind"
     ],
     "featured": false
   },
