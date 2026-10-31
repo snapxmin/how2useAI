@@ -1,57 +1,56 @@
 [
   {
-    "id": "wikipedia-s-operator-says-a-bad-ai-copyright-ruling-could-threaten-the-o-cfctc1",
-    "title": "The Verge：Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "summary": "据 The Verge 官方信息，The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large l…",
+    "id": "sam-altman-says-it-s-better-for-ram-to-be-in-a-data-center-than-on-your--1xseui",
+    "title": "The Verge：Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "summary": "据 The Verge 官方信息，Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have R…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
     "date": "2026-10-30",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "Microsoft"
+      "OpenAI"
     ],
     "featured": false
   },
   {
-    "id": "doordash-said-it-s-only-received-several-hundred-orders-from-ai-agents-j7y5jh",
-    "title": "TechCrunch：DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "summary": "据 TechCrunch 官方信息，DoorDash said that it is open to working with third-party agent makers.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "date": "2026-10-30",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-is-asking-wall-street-to-believe-in-agi-tf8doj",
-    "title": "The Verge：Anthropic is asking Wall Street to believe in AGI",
-    "summary": "据 The Verge 官方信息，Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story insi…",
+    "id": "the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping-bnerzz",
+    "title": "The Verge：The biggest names in AI are backing a new way to opt out of scraping",
+    "summary": "据 The Verge 官方信息，OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as re…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-    "date": "2026-10-29",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+    "date": "2026-10-30",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "Anthropic",
       "Google",
-      "Meta"
+      "Microsoft"
     ],
     "featured": false
   },
   {
-    "id": "ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-mode-51hzjr",
-    "title": "TechCrunch：Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "summary": "据 TechCrunch 官方信息，Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 …",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "date": "2026-10-29",
+    "id": "google-8217-s-satellite-ai-server-transmits-its-first-response-to-earth-tdhcbv",
+    "title": "The Verge：Google&#8217;s satellite AI server transmits its first response to Earth",
+    "summary": "据 The Verge 官方信息，Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully boote…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "date": "2026-10-30",
     "category": "大模型",
     "tags": [
-      "TechCrunch"
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-foll-moi9vl",
+    "title": "TechCrunch：Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "summary": "据 TechCrunch 官方信息，Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to rai…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "date": "2026-10-30",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic"
     ],
     "featured": false
   },
