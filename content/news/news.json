@@ -1,5 +1,46 @@
 [
   {
+    "id": "ask-hn-lost-all-my-claude-credits-fq58sh",
+    "title": "Hacker News：Ask HN: Lost all my Claude credits",
+    "summary": "据 Hacker News 官方信息，I just got an email from Anthropic: Your Claude API access is turned off Your access to the Claude API has been disabled because your organi…",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50326994",
+    "date": "2026-11-01",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-s-mythos-class-model-allegedly-leaked-on-hugging-face-fq5755",
+    "title": "Hacker News：Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+    "summary": "据 Hacker News 官方信息，URL deleted for malware concerns. Comments URL: https://news.ycombinator.com/item?id=50326727 Points: 17 # Comments: 5",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50326727",
+    "date": "2026-11-01",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Hugging Face"
+    ],
+    "featured": false
+  },
+  {
+    "id": "alleged-mythos-class-anthropic-checkpoint-leak-xp3c5y",
+    "title": "Hacker News：Alleged Mythos Class Anthropic Checkpoint Leak",
+    "summary": "据 Hacker News 官方信息，Article URL: https://huggingface.co/burner22/numbat Comments URL: https://news.ycombinator.com/item?id=50327240 Points: 4 # Comments: 0",
+    "source": "Hacker News",
+    "url": "https://huggingface.co/burner22/numbat",
+    "date": "2026-11-01",
+    "category": "行业动态",
+    "tags": [
+      "Anthropic"
+    ],
+    "featured": false
+  },
+  {
     "id": "sam-altman-says-it-s-better-for-ram-to-be-in-a-data-center-than-on-your--1xseui",
     "title": "The Verge：Sam Altman says it’s better for RAM to be in a data center than on your desk",
     "summary": "据 The Verge 官方信息，Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have R…",
@@ -42,19 +83,6 @@
     "featured": false
   },
   {
-    "id": "anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-foll-moi9vl",
-    "title": "TechCrunch：Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-    "summary": "据 TechCrunch 官方信息，Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to rai…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-    "date": "2026-10-30",
-    "category": "行业动态",
-    "tags": [
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
     "id": "openai-and-servicenow-expand-partnership-across-enterprise-workflows-h8zi4z",
     "title": "OpenAI：OpenAI and ServiceNow expand partnership across enterprise workflows",
     "summary": "据 OpenAI 官方信息，OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and C…",
@@ -83,32 +111,6 @@
       "Agent"
     ],
     "featured": true
-  },
-  {
-    "id": "gemini-4-carbon-our-next-frontier-model-rpnlck",
-    "title": "Google DeepMind：Gemini 4 Carbon: Our next frontier model",
-    "summary": "据 Google DeepMind 官方信息，Gemini 4 Carbon: Our next frontier model",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "date": "2026-10-28",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "genie-4-a-new-generation-of-world-simulation-463z1b",
-    "title": "Google DeepMind：Genie 4: A new generation of world simulation",
-    "summary": "据 Google DeepMind 官方信息，Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "date": "2026-10-27",
-    "category": "大模型",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
   },
   {
     "id": "our-newest-ai-quest-mapping-the-human-brain-t5xk66",
