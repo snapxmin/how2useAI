@@ -1,11 +1,38 @@
 [
   {
-    "id": "ask-hn-lost-all-my-claude-credits-fq58sh",
-    "title": "Hacker News：Ask HN: Lost all my Claude credits",
-    "summary": "据 Hacker News 官方信息，I just got an email from Anthropic: Your Claude API access is turned off Your access to the Claude API has been disabled because your organi…",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50326994",
-    "date": "2026-11-01",
+    "id": "the-latest-ai-news-we-announced-in-october-2026-o2pqw6",
+    "title": "Google：The latest AI news we announced in October 2026",
+    "summary": "据 Google 官方信息，Here are Google’s latest AI updates from October 2026",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "date": "2026-11-02",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-is-finally-merging-chatgpt-s-chat-and-work-tabs-l703eq",
+    "title": "TechCrunch：OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+    "summary": "据 TechCrunch 官方信息，OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "date": "2026-11-02",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-clamps-down-on-claude-s-ai-video-game-clones-odtsb3",
+    "title": "The Verge：Anthropic clamps down on Claude’s AI video game clones",
+    "summary": "据 The Verge 官方信息，Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by To…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "date": "2026-11-02",
     "category": "大模型",
     "tags": [
       "Anthropic",
@@ -14,71 +41,41 @@
     "featured": false
   },
   {
-    "id": "anthropic-s-mythos-class-model-allegedly-leaked-on-hugging-face-fq5755",
-    "title": "Hacker News：Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-    "summary": "据 Hacker News 官方信息，URL deleted for malware concerns. Comments URL: https://news.ycombinator.com/item?id=50326727 Points: 17 # Comments: 5",
-    "source": "Hacker News",
-    "url": "https://news.ycombinator.com/item?id=50326727",
-    "date": "2026-11-01",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Hugging Face"
-    ],
-    "featured": false
-  },
-  {
-    "id": "alleged-mythos-class-anthropic-checkpoint-leak-xp3c5y",
-    "title": "Hacker News：Alleged Mythos Class Anthropic Checkpoint Leak",
-    "summary": "据 Hacker News 官方信息，Article URL: https://huggingface.co/burner22/numbat Comments URL: https://news.ycombinator.com/item?id=50327240 Points: 4 # Comments: 0",
-    "source": "Hacker News",
-    "url": "https://huggingface.co/burner22/numbat",
-    "date": "2026-11-01",
-    "category": "行业动态",
+    "id": "new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-cont-n7gur8",
+    "title": "TechCrunch：New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "summary": "据 TechCrunch 官方信息，The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "date": "2026-11-02",
+    "category": "AI产品",
     "tags": [
       "Anthropic"
     ],
     "featured": false
   },
   {
-    "id": "sam-altman-says-it-s-better-for-ram-to-be-in-a-data-center-than-on-your--1xseui",
-    "title": "The Verge：Sam Altman says it’s better for RAM to be in a data center than on your desk",
-    "summary": "据 The Verge 官方信息，Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have R…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-    "date": "2026-10-30",
+    "id": "42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict--fxu6xh",
+    "title": "TechCrunch：42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "summary": "据 TechCrunch 官方信息，Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "date": "2026-11-02",
     "category": "大模型",
+    "tags": [
+      "TechCrunch"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-pitches-data-center-power-plants-as-a-way-to-protect-nearby-areas-81depl",
+    "title": "The Verge：OpenAI pitches data center power plants as a way to protect nearby areas",
+    "summary": "据 The Verge 官方信息，In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgi…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "date": "2026-11-02",
+    "category": "行业动态",
     "tags": [
       "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping-bnerzz",
-    "title": "The Verge：The biggest names in AI are backing a new way to opt out of scraping",
-    "summary": "据 The Verge 官方信息，OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as re…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-    "date": "2026-10-30",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Microsoft"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-8217-s-satellite-ai-server-transmits-its-first-response-to-earth-tdhcbv",
-    "title": "The Verge：Google&#8217;s satellite AI server transmits its first response to Earth",
-    "summary": "据 The Verge 官方信息，Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully boote…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "date": "2026-10-30",
-    "category": "大模型",
-    "tags": [
-      "Google"
     ],
     "featured": false
   },
