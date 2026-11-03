@@ -1,5 +1,46 @@
 [
   {
+    "id": "heimstaden-is-changing-residential-real-estate-management-with-ai-rwzlom",
+    "title": "OpenAI：Heimstaden is changing residential real estate management with AI",
+    "summary": "据 OpenAI 官方信息，Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/heimstaden",
+    "date": "2026-11-03",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "agentic-cheminformatics-with-google-antigravity-tlc0r7",
+    "title": "Google DeepMind：Agentic cheminformatics with Google Antigravity",
+    "summary": "据 Google DeepMind 官方信息，Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidif…",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "date": "2026-11-03",
+    "category": "AI产品",
+    "tags": [
+      "Google",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "openai-is-quietly-renaming-data-centers-compute-campuses-wy1xbm",
+    "title": "The Verge：OpenAI is quietly renaming data centers ‘compute campuses’",
+    "summary": "据 The Verge 官方信息，The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images People hate data centers. They're loud, …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+    "date": "2026-11-03",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
     "id": "the-latest-ai-news-we-announced-in-october-2026-o2pqw6",
     "title": "Google：The latest AI news we announced in October 2026",
     "summary": "据 Google 官方信息，Here are Google’s latest AI updates from October 2026",
@@ -29,7 +70,7 @@
   {
     "id": "anthropic-clamps-down-on-claude-s-ai-video-game-clones-odtsb3",
     "title": "The Verge：Anthropic clamps down on Claude’s AI video game clones",
-    "summary": "据 The Verge 官方信息，Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by To…",
+    "summary": "据 The Verge 官方信息，Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by T…",
     "source": "The Verge",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
     "date": "2026-11-02",
@@ -41,41 +82,15 @@
     "featured": false
   },
   {
-    "id": "new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-cont-n7gur8",
-    "title": "TechCrunch：New York Times and other outlets sue web browser Brave over alleged content scraping",
-    "summary": "据 TechCrunch 官方信息，The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-    "date": "2026-11-02",
-    "category": "AI产品",
-    "tags": [
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict--fxu6xh",
-    "title": "TechCrunch：42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "summary": "据 TechCrunch 官方信息，Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "date": "2026-11-02",
-    "category": "大模型",
-    "tags": [
-      "TechCrunch"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-pitches-data-center-power-plants-as-a-way-to-protect-nearby-areas-81depl",
-    "title": "The Verge：OpenAI pitches data center power plants as a way to protect nearby areas",
-    "summary": "据 The Verge 官方信息，In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgi…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-    "date": "2026-11-02",
+    "id": "speeding-up-planning-decisions-with-ai-710zzm",
+    "title": "Google DeepMind：Speeding up planning decisions with AI",
+    "summary": "据 Google DeepMind 官方信息，Google DeepMind and UK government work together to reduce planning assessment times",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "date": "2026-10-30",
     "category": "行业动态",
     "tags": [
-      "OpenAI"
+      "Google"
     ],
     "featured": false
   },
@@ -92,33 +107,18 @@
       "GPT",
       "Agent"
     ],
-    "featured": true
+    "featured": false
   },
   {
-    "id": "legora-is-building-the-agentic-operating-system-for-legal-work-zak4fs",
-    "title": "OpenAI：Legora is building the agentic operating system for legal work",
-    "summary": "据 OpenAI 官方信息，See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/legora",
+    "id": "gemini-4-carbon-our-next-frontier-model-rpnlck",
+    "title": "Google DeepMind：Gemini 4 Carbon: Our next frontier model",
+    "summary": "据 Google DeepMind 官方信息，Gemini 4 Carbon: Our next frontier model",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
     "date": "2026-10-28",
     "category": "大模型",
     "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "our-newest-ai-quest-mapping-the-human-brain-t5xk66",
-    "title": "Google：Our newest AI Quest: Mapping the human brain",
-    "summary": "据 Google 官方信息，Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "date": "2026-10-26",
-    "category": "AI产品",
-    "tags": [
-      "Google"
+      "Gemini"
     ],
     "featured": false
   },
