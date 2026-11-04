@@ -1,5 +1,101 @@
 [
   {
+    "id": "openai-to-acquire-pierre-computer-company-inc-kf6ujl",
+    "title": "OpenAI：OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary": "据 OpenAI 官方信息，OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "date": "2026-11-04",
+    "category": "行业动态",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "launch-hn-kino-ai-yc-s23-ai-media-manager-and-video-editor-fsdo6j",
+    "title": "Hacker News：Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "summary": "据 Hacker News 官方信息，Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and ass…",
+    "source": "Hacker News",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "date": "2026-11-04",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-will-now-make-you-animated-gifs-nx5sfm",
+    "title": "The Verge：ChatGPT will now make you animated GIFs",
+    "summary": "据 The Verge 官方信息，ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Im…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+    "date": "2026-11-04",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "uber-only-fulfilled-4-rides-from-ai-agents-last-quarter-9x9ukm",
+    "title": "The Verge：Uber only fulfilled 4 rides from AI agents last quarter",
+    "summary": "据 The Verge 官方信息，AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+    "date": "2026-11-04",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI",
+      "Meta",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "sam-altman-addresses-ram-comments-people-should-8216-put-as-much-as-they-457r7z",
+    "title": "The Verge：Sam Altman addresses RAM comments: People should &#8216;put as much as they want in their computers&#8217;",
+    "summary": "据 The Verge 官方信息，OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+    "date": "2026-11-04",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "voice-remixing-in-gemini-3-8-flash-tts-un67wm",
+    "title": "Hacker News：Voice remixing in Gemini 3.8 Flash TTS",
+    "summary": "据 Hacker News 官方信息，Article URL: https://aistudio.google.com/docs/voice-remixing Comments URL: https://news.ycombinator.com/item?id=50369043 Points: 2 # Comment…",
+    "source": "Hacker News",
+    "url": "https://aistudio.google.com/docs/voice-remixing",
+    "date": "2026-11-04",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "how-cisco-defends-at-machine-speed-with-openai-xla9yr",
+    "title": "OpenAI：How Cisco defends at machine speed with OpenAI",
+    "summary": "据 OpenAI 官方信息，Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "date": "2026-11-03",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
     "id": "heimstaden-is-changing-residential-real-estate-management-with-ai-rwzlom",
     "title": "OpenAI：Heimstaden is changing residential real estate management with AI",
     "summary": "据 OpenAI 官方信息，Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across…",
@@ -14,29 +110,15 @@
     "featured": true
   },
   {
-    "id": "agentic-cheminformatics-with-google-antigravity-tlc0r7",
-    "title": "Google DeepMind：Agentic cheminformatics with Google Antigravity",
-    "summary": "据 Google DeepMind 官方信息，Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidif…",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "id": "anthropic-is-working-on-a-system-to-prove-ai-models-identity-npec5q",
+    "title": "TechCrunch：Anthropic is working on a system to prove AI models’ identity",
+    "summary": "据 TechCrunch 官方信息，Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "date": "2026-11-03",
-    "category": "AI产品",
+    "category": "大模型",
     "tags": [
-      "Google",
-      "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "openai-is-quietly-renaming-data-centers-compute-campuses-wy1xbm",
-    "title": "The Verge：OpenAI is quietly renaming data centers ‘compute campuses’",
-    "summary": "据 The Verge 官方信息，The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images People hate data centers. They're loud, …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-    "date": "2026-11-03",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI"
+      "Anthropic"
     ],
     "featured": false
   },
@@ -52,88 +134,5 @@
       "Google"
     ],
     "featured": false
-  },
-  {
-    "id": "openai-is-finally-merging-chatgpt-s-chat-and-work-tabs-l703eq",
-    "title": "TechCrunch：OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "summary": "据 TechCrunch 官方信息，OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "date": "2026-11-02",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-clamps-down-on-claude-s-ai-video-game-clones-odtsb3",
-    "title": "The Verge：Anthropic clamps down on Claude’s AI video game clones",
-    "summary": "据 The Verge 官方信息，Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by T…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-    "date": "2026-11-02",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "speeding-up-planning-decisions-with-ai-710zzm",
-    "title": "Google DeepMind：Speeding up planning decisions with AI",
-    "summary": "据 Google DeepMind 官方信息，Google DeepMind and UK government work together to reduce planning assessment times",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-    "date": "2026-10-30",
-    "category": "行业动态",
-    "tags": [
-      "Google"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-and-servicenow-expand-partnership-across-enterprise-workflows-h8zi4z",
-    "title": "OpenAI：OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "summary": "据 OpenAI 官方信息，OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and C…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "date": "2026-10-28",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-4-carbon-our-next-frontier-model-rpnlck",
-    "title": "Google DeepMind：Gemini 4 Carbon: Our next frontier model",
-    "summary": "据 Google DeepMind 官方信息，Gemini 4 Carbon: Our next frontier model",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-    "date": "2026-10-28",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data-2mmzrq",
-    "title": "OpenAI：Using thousands of AI agents to uncover new leads in biological data",
-    "summary": "据 OpenAI 官方信息，See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brai…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "date": "2026-10-21",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": true
   }
 ]
