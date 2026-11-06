@@ -1,14 +1,43 @@
 [
   {
-    "id": "setting-a-new-standard-for-responsible-ai-infrastructure-9fokgz",
-    "title": "OpenAI：Setting a new standard for responsible AI infrastructure",
-    "summary": "据 OpenAI 官方信息，OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide resp…",
+    "id": "gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity-agents-v31vlj",
+    "title": "OpenAI：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "summary": "据 OpenAI 官方信息，Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within a…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
     "date": "2026-11-05",
-    "category": "政策安全",
+    "category": "大模型",
     "tags": [
-      "OpenAI"
+      "OpenAI",
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "merge-builds-product-and-business-tools-with-openai-technology-o6fri6",
+    "title": "OpenAI：Merge builds product and business tools with OpenAI technology",
+    "summary": "据 OpenAI 官方信息，Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "date": "2026-11-05",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "australian-universities-are-creating-ai-native-graduates-tu5txf",
+    "title": "OpenAI：Australian universities are creating AI-native graduates",
+    "summary": "据 OpenAI 官方信息，Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled wor…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "date": "2026-11-05",
+    "category": "大模型",
+    "tags": [
+      "GPT"
     ],
     "featured": true
   },
@@ -23,7 +52,23 @@
     "tags": [
       "Gemini"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "perplexity-launches-its-own-take-on-ai-agents-for-work-bkkpjd",
+    "title": "The Verge：Perplexity launches its own take on AI agents for work",
+    "summary": "据 The Verge 官方信息，Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multip…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "date": "2026-11-05",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
   },
   {
     "id": "openai-says-its-new-cybersecurity-model-is-better-at-not-hacking-other-c-3b4nfl",
@@ -42,58 +87,15 @@
     "featured": false
   },
   {
-    "id": "gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity-agents-usyk2w",
-    "title": "Hacker News：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-    "summary": "据 Hacker News 官方信息，Article URL: https://openai.com/index/introducing-gpt-6-cyber/ Comments URL: https://news.ycombinator.com/item?id=50381590 Points: 16 # Comm…",
-    "source": "Hacker News",
-    "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+    "id": "airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-2027-t645r4",
+    "title": "TechCrunch：Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "summary": "据 TechCrunch 官方信息，Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
     "date": "2026-11-05",
-    "category": "大模型",
+    "category": "AI产品",
     "tags": [
-      "OpenAI",
-      "GPT",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "show-hn-training-a-sota-pangram-like-detector-on-a-4070ti-with-claude-mabc7w",
-    "title": "Hacker News：Show HN: Training a SOTA Pangram-like detector on a 4070ti with Claude",
-    "summary": "据 Hacker News 官方信息，This is kinda claude-slop but I was really interested in figuring out a way to break Pangram, and to do that I first needed to have a way to…",
-    "source": "Hacker News",
-    "url": "https://huggingface.co/mesmertech/mesmer-ai-detector-4b",
-    "date": "2026-11-05",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "how-cisco-defends-at-machine-speed-with-openai-xla9yr",
-    "title": "OpenAI：How Cisco defends at machine speed with OpenAI",
-    "summary": "据 OpenAI 官方信息，Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/cisco-cyber",
-    "date": "2026-11-03",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "heimstaden-is-changing-residential-real-estate-management-with-ai-rwzlom",
-    "title": "OpenAI：Heimstaden is changing residential real estate management with AI",
-    "summary": "据 OpenAI 官方信息，Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/heimstaden",
-    "date": "2026-11-03",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
     ],
     "featured": false
   },
