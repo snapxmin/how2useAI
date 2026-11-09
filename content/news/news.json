@@ -1,11 +1,52 @@
 [
   {
-    "id": "ai-broke-the-cybersecurity-world-what-s-next-bt1rx8",
-    "title": "The Verge：AI broke the cybersecurity world. What’s next?",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity …",
+    "id": "chatgpt-enterprise-now-available-in-aws-marketplace-j03ohr",
+    "title": "OpenAI：ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "据 OpenAI 官方信息，ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "date": "2026-11-09",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "kuken-industries-searches-70-years-of-drawings-in-minutes-jh4ylu",
+    "title": "OpenAI：Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "据 OpenAI 官方信息，Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minute…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/kuken",
+    "date": "2026-11-09",
+    "category": "AI产品",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "anthropic-launches-new-claude-fable-and-mythos-5-2-models-yotxwm",
+    "title": "The Verge：Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "summary": "据 The Verge 官方信息，Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" techn…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-    "date": "2026-11-07",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "date": "2026-11-09",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "hold-up-i-had-a-great-time-talking-to-the-riaa-guy-lpabf1",
+    "title": "The Verge：Hold up — I had a great time talking to the RIAA guy",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+    "date": "2026-11-09",
     "category": "大模型",
     "tags": [
       "OpenAI",
@@ -13,15 +54,30 @@
       "Google",
       "Meta"
     ],
-    "featured": true
+    "featured": false
   },
   {
-    "id": "why-a-new-report-on-anthropic-automating-ai-development-is-alarming-rese-46w0i2",
-    "title": "The Verge：Why a new report on Anthropic automating AI development is alarming researchers",
-    "summary": "据 The Verge 官方信息，Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears …",
+    "id": "apple-s-50-intelligence-usage-packs-extend-access-to-some-ai-features-m7c063",
+    "title": "The Verge：Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "summary": "据 The Verge 官方信息，After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated L…",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "date": "2026-11-07",
+    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "date": "2026-11-09",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns-20tyzp",
+    "title": "TechCrunch：Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "summary": "据 TechCrunch 官方信息，Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "date": "2026-11-09",
     "category": "大模型",
     "tags": [
       "Anthropic"
@@ -29,32 +85,16 @@
     "featured": false
   },
   {
-    "id": "measuring-how-ai-agents-handle-everyday-wet-lab-science-a9gbxj",
-    "title": "OpenAI：Measuring how AI agents handle everyday wet-lab science",
-    "summary": "据 OpenAI 官方信息，OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "date": "2026-11-06",
-    "category": "AI产品",
+    "id": "meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution-885dsr",
+    "title": "TechCrunch：Meta releases Muse Ember, a new lightweight model for agent execution",
+    "summary": "据 TechCrunch 官方信息，At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "date": "2026-11-09",
+    "category": "大模型",
     "tags": [
-      "OpenAI",
+      "Meta",
       "Agent"
-    ],
-    "featured": true
-  },
-  {
-    "id": "all-the-latest-updates-on-ai-data-centers-8hmauv",
-    "title": "The Verge：All the latest updates on AI data centers",
-    "summary": "据 The Verge 官方信息，Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "date": "2026-11-06",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
     ],
     "featured": false
   },
@@ -74,20 +114,6 @@
     "featured": true
   },
   {
-    "id": "merge-builds-product-and-business-tools-with-openai-technology-o6fri6",
-    "title": "OpenAI：Merge builds product and business tools with OpenAI technology",
-    "summary": "据 OpenAI 官方信息，Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/merge-builds-with-openai",
-    "date": "2026-11-05",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
     "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-clips-h558wq",
     "title": "Google：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "summary": "据 Google 官方信息，Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
@@ -101,42 +127,16 @@
     "featured": false
   },
   {
-    "id": "airbnb-says-it-s-launching-an-ai-travel-agent-in-the-first-half-of-2027-t645r4",
-    "title": "TechCrunch：Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "summary": "据 TechCrunch 官方信息，Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "date": "2026-11-05",
+    "id": "agentic-cheminformatics-with-google-antigravity-tlc0r7",
+    "title": "Google DeepMind：Agentic cheminformatics with Google Antigravity",
+    "summary": "据 Google DeepMind 官方信息，Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidif…",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "date": "2026-11-03",
     "category": "AI产品",
     "tags": [
+      "Google",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-y3t7nk",
-    "title": "TechCrunch：Meta says US users can now video chat with their Muse AI avatar",
-    "summary": "据 TechCrunch 官方信息，Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Mu…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "date": "2026-11-05",
-    "category": "AI产品",
-    "tags": [
-      "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "the-latest-ai-news-we-announced-in-october-2026-o2pqw6",
-    "title": "Google：The latest AI news we announced in October 2026",
-    "summary": "据 Google 官方信息，Here are Google’s latest AI updates from October 2026",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "date": "2026-11-02",
-    "category": "行业动态",
-    "tags": [
-      "Google"
     ],
     "featured": false
   }
