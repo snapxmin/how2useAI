@@ -1,117 +1,130 @@
 [
   {
-    "id": "chatgpt-enterprise-now-available-in-aws-marketplace-j03ohr",
-    "title": "OpenAI：ChatGPT Enterprise now available in AWS Marketplace",
-    "summary": "据 OpenAI 官方信息，ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and …",
+    "id": "helping-caregivers-use-ai-in-everyday-life-r84f89",
+    "title": "OpenAI：Helping caregivers use AI in everyday life",
+    "summary": "据 OpenAI 官方信息，OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for ev…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "date": "2026-11-09",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "date": "2026-11-10",
     "category": "大模型",
     "tags": [
+      "OpenAI",
       "GPT"
     ],
     "featured": true
   },
   {
-    "id": "kuken-industries-searches-70-years-of-drawings-in-minutes-jh4ylu",
-    "title": "OpenAI：Kuken Industries searches 70 years of drawings in minutes",
-    "summary": "据 OpenAI 官方信息，Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minute…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/kuken",
-    "date": "2026-11-09",
-    "category": "AI产品",
+    "id": "google-cloud-launches-gemini-for-healthcare-wnttok",
+    "title": "Google：Google Cloud launches Gemini for healthcare.",
+    "summary": "据 Google 官方信息，Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "date": "2026-11-10",
+    "category": "大模型",
     "tags": [
-      "OpenAI"
+      "Google",
+      "Gemini"
     ],
     "featured": true
   },
   {
-    "id": "anthropic-launches-new-claude-fable-and-mythos-5-2-models-yotxwm",
-    "title": "The Verge：Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "summary": "据 The Verge 官方信息，Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" techn…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-    "date": "2026-11-09",
+    "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-closer-to-your-ev-de73rl",
+    "title": "Google：We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "summary": "据 Google 官方信息，Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this part…",
+    "source": "Google",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "date": "2026-11-10",
     "category": "大模型",
     "tags": [
-      "Anthropic",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "hold-up-i-had-a-great-time-talking-to-the-riaa-guy-lpabf1",
-    "title": "The Verge：Hold up — I had a great time talking to the RIAA guy",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-    "date": "2026-11-09",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
-    "id": "apple-s-50-intelligence-usage-packs-extend-access-to-some-ai-features-m7c063",
-    "title": "The Verge：Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "summary": "据 The Verge 官方信息，After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated L…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "date": "2026-11-09",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
       "Google",
       "Gemini"
     ],
     "featured": false
   },
   {
-    "id": "anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns-20tyzp",
-    "title": "TechCrunch：Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "summary": "据 TechCrunch 官方信息，Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "date": "2026-11-09",
-    "category": "大模型",
-    "tags": [
-      "Anthropic"
-    ],
-    "featured": false
-  },
-  {
-    "id": "meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution-885dsr",
-    "title": "TechCrunch：Meta releases Muse Ember, a new lightweight model for agent execution",
-    "summary": "据 TechCrunch 官方信息，At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "date": "2026-11-09",
-    "category": "大模型",
-    "tags": [
-      "Meta",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gpt-6-cyber-advancing-the-frontier-of-aligned-cybersecurity-agents-v31vlj",
-    "title": "OpenAI：GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-    "summary": "据 OpenAI 官方信息，Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within a…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-gpt-6-cyber",
-    "date": "2026-11-05",
+    "id": "google-releases-gemini-4-carbon-with-agent-swarm-feature-4ooh33",
+    "title": "The Verge：Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "summary": "据 The Verge 官方信息，Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity def…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "date": "2026-11-10",
     "category": "大模型",
     "tags": [
       "OpenAI",
+      "Anthropic",
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-pl-t4bueb",
+    "title": "TechCrunch：Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "summary": "据 TechCrunch 官方信息，As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, a…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "date": "2026-11-10",
+    "category": "大模型",
+    "tags": [
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "after-challenging-google-s-android-with-cyanogen-its-co-founder-takes-ai-7o9ie",
+    "title": "TechCrunch：After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "summary": "据 TechCrunch 官方信息，Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "date": "2026-11-10",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chatgpt-is-getting-verified-ai-business-agents-qoprod",
+    "title": "The Verge：ChatGPT is getting verified AI ‘Business Agents’",
+    "summary": "据 The Verge 官方信息，ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. Th…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "date": "2026-11-10",
+    "category": "大模型",
+    "tags": [
       "GPT",
       "Agent"
     ],
+    "featured": false
+  },
+  {
+    "id": "coderabbit-scales-agentic-software-development-and-ships-20x-more-u30q25",
+    "title": "OpenAI：CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "据 OpenAI 官方信息，CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "date": "2026-11-09",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
     "featured": true
+  },
+  {
+    "id": "control-room-a-central-system-to-track-and-stop-model-workloads-across-o-dyx8al",
+    "title": "OpenAI：Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security …",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/control-room",
+    "date": "2026-11-09",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
   },
   {
     "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-clips-h558wq",
@@ -123,20 +136,6 @@
     "category": "大模型",
     "tags": [
       "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "agentic-cheminformatics-with-google-antigravity-tlc0r7",
-    "title": "Google DeepMind：Agentic cheminformatics with Google Antigravity",
-    "summary": "据 Google DeepMind 官方信息，Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidif…",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-    "date": "2026-11-03",
-    "category": "AI产品",
-    "tags": [
-      "Google",
-      "Agent"
     ],
     "featured": false
   }
