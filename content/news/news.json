@@ -1,5 +1,19 @@
 [
   {
+    "id": "cogent-and-openai-build-cyber-defense-factories-for-enterprises-vltlyd",
+    "title": "OpenAI：Cogent and OpenAI build cyber defense factories for enterprises",
+    "summary": "据 OpenAI 官方信息，Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/cogent-security",
+    "date": "2026-11-10",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
     "id": "helping-caregivers-use-ai-in-everyday-life-r84f89",
     "title": "OpenAI：Helping caregivers use AI in everyday life",
     "summary": "据 OpenAI 官方信息，OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for ev…",
@@ -25,7 +39,20 @@
       "Google",
       "Gemini"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "gemini-intelligence-new-features-on-more-devices-xkdhcv",
+    "title": "Google：Gemini Intelligence: New features, on more devices",
+    "summary": "据 Google 官方信息，Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "date": "2026-11-10",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
   },
   {
     "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-closer-to-your-ev-de73rl",
@@ -38,6 +65,32 @@
     "tags": [
       "Google",
       "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gemini-4-carbon-is-now-available-yzwus9",
+    "title": "Google DeepMind：Gemini 4 Carbon is now available",
+    "summary": "据 Google DeepMind 官方信息，Gemini 4 Carbon is now available",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "date": "2026-11-10",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "introducing-alphaproof-code-a-breakthrough-in-verifying-complex-software-bgux8c",
+    "title": "Google DeepMind：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "summary": "据 Google DeepMind 官方信息，AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "date": "2026-11-10",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
     ],
     "featured": false
   },
@@ -58,48 +111,6 @@
     "featured": false
   },
   {
-    "id": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-pl-t4bueb",
-    "title": "TechCrunch：Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "summary": "据 TechCrunch 官方信息，As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, a…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "after-challenging-google-s-android-with-cyanogen-its-co-founder-takes-ai-7o9ie",
-    "title": "TechCrunch：After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-    "summary": "据 TechCrunch 官方信息，Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "chatgpt-is-getting-verified-ai-business-agents-qoprod",
-    "title": "The Verge：ChatGPT is getting verified AI ‘Business Agents’",
-    "summary": "据 The Verge 官方信息，ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. Th…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "coderabbit-scales-agentic-software-development-and-ships-20x-more-u30q25",
     "title": "OpenAI：CodeRabbit scales agentic software development and ships 20x more",
     "summary": "据 OpenAI 官方信息，CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
@@ -114,25 +125,12 @@
     "featured": true
   },
   {
-    "id": "control-room-a-central-system-to-track-and-stop-model-workloads-across-o-dyx8al",
-    "title": "OpenAI：Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "summary": "据 OpenAI 官方信息，Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security …",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/control-room",
+    "id": "gemini-robotics-2-5-accelerates-real-world-general-dexterity-rwbjjw",
+    "title": "Google DeepMind：Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "summary": "据 Google DeepMind 官方信息，Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
     "date": "2026-11-09",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-omni-1-2-flash-fast-and-cost-effective-with-longer-clips-h558wq",
-    "title": "Google：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "summary": "据 Google 官方信息，Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "date": "2026-11-05",
     "category": "大模型",
     "tags": [
       "Gemini"
