@@ -1,5 +1,60 @@
 [
   {
+    "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-ldfil1",
+    "title": "Google：Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "summary": "据 Google 官方信息，We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "date": "2026-11-12",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "introducing-gemini-4-hydrogen-hbu3h5",
+    "title": "Google DeepMind：Introducing Gemini 4 Hydrogen",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "jensen-huang-is-out-what-did-china-want-from-him-iv13mz",
+    "title": "The Verge：Jensen Huang is out. What did China want from him?",
+    "summary": "据 The Verge 官方信息，Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+    "date": "2026-11-12",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Meta"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-x49d78",
+    "title": "Google：Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "summary": "据 Google 官方信息，Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "date": "2026-11-11",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": true
+  },
+  {
     "id": "cogent-and-openai-build-cyber-defense-factories-for-enterprises-vltlyd",
     "title": "OpenAI：Cogent and OpenAI build cyber defense factories for enterprises",
     "summary": "据 OpenAI 官方信息，Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
@@ -25,7 +80,7 @@
       "OpenAI",
       "GPT"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "google-cloud-launches-gemini-for-healthcare-wnttok",
@@ -33,33 +88,6 @@
     "summary": "据 Google 官方信息，Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
     "source": "Google",
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-intelligence-new-features-on-more-devices-xkdhcv",
-    "title": "Google：Gemini Intelligence: New features, on more devices",
-    "summary": "据 Google 官方信息，Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "we-re-bringing-adobe-s-creative-and-productivity-tools-closer-to-your-ev-de73rl",
-    "title": "Google：We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "summary": "据 Google 官方信息，Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this part…",
-    "source": "Google",
-    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
     "date": "2026-11-10",
     "category": "大模型",
     "tags": [
@@ -77,35 +105,6 @@
     "date": "2026-11-10",
     "category": "大模型",
     "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-alphaproof-code-a-breakthrough-in-verifying-complex-software-bgux8c",
-    "title": "Google DeepMind：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-    "summary": "据 Google DeepMind 官方信息，AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-    "date": "2026-11-10",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-releases-gemini-4-carbon-with-agent-swarm-feature-4ooh33",
-    "title": "The Verge：Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-    "summary": "据 The Verge 官方信息，Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity def…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Google",
       "Gemini"
     ],
     "featured": false
