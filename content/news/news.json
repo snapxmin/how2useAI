@@ -1,5 +1,49 @@
 [
   {
+    "id": "introducing-chatgpt-wallet-90v11g",
+    "title": "OpenAI：Introducing ChatGPT Wallet",
+    "summary": "据 OpenAI 官方信息，Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing c…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "date": "2026-11-13",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "claude-s-duet-agent-is-a-little-neurotic-and-surprisingly-helpful-ri6hdi",
+    "title": "The Verge：Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "summary": "据 The Verge 官方信息，Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with the…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "date": "2026-11-13",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Meta",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "how-amplitude-ships-product-improvements-in-1-2-days-with-openai-59ljd8",
+    "title": "OpenAI：How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "summary": "据 OpenAI 官方信息，Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding …",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "date": "2026-11-12",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
     "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-ldfil1",
     "title": "Google：Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "summary": "据 Google 官方信息，We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
@@ -27,21 +71,6 @@
     "featured": false
   },
   {
-    "id": "jensen-huang-is-out-what-did-china-want-from-him-iv13mz",
-    "title": "The Verge：Jensen Huang is out. What did China want from him?",
-    "summary": "据 The Verge 官方信息，Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-    "date": "2026-11-12",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Meta"
-    ],
-    "featured": false
-  },
-  {
     "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-x49d78",
     "title": "Google：Gemini Decisions API: Fast, calibrated multimodal decisions",
     "summary": "据 Google 官方信息，Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
@@ -52,7 +81,7 @@
     "tags": [
       "Gemini"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "cogent-and-openai-build-cyber-defense-factories-for-enterprises-vltlyd",
@@ -67,20 +96,6 @@
       "Agent"
     ],
     "featured": true
-  },
-  {
-    "id": "helping-caregivers-use-ai-in-everyday-life-r84f89",
-    "title": "OpenAI：Helping caregivers use AI in everyday life",
-    "summary": "据 OpenAI 官方信息，OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for ev…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
   },
   {
     "id": "google-cloud-launches-gemini-for-healthcare-wnttok",
@@ -108,20 +123,6 @@
       "Gemini"
     ],
     "featured": false
-  },
-  {
-    "id": "coderabbit-scales-agentic-software-development-and-ships-20x-more-u30q25",
-    "title": "OpenAI：CodeRabbit scales agentic software development and ships 20x more",
-    "summary": "据 OpenAI 官方信息，CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/coderabbit-codex-daybreak",
-    "date": "2026-11-09",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": true
   },
   {
     "id": "gemini-robotics-2-5-accelerates-real-world-general-dexterity-rwbjjw",
