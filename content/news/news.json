@@ -1,5 +1,21 @@
 [
   {
+    "id": "the-openai-board-member-who-fired-sam-altman-says-we-still-can-8217-t-tr-ccbpyn",
+    "title": "The Verge：The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. Thi…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "date": "2026-11-14",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Google",
+      "Meta"
+    ],
+    "featured": true
+  },
+  {
     "id": "introducing-chatgpt-wallet-90v11g",
     "title": "OpenAI：Introducing ChatGPT Wallet",
     "summary": "据 OpenAI 官方信息，Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing c…",
@@ -14,18 +30,16 @@
     "featured": true
   },
   {
-    "id": "claude-s-duet-agent-is-a-little-neurotic-and-surprisingly-helpful-ri6hdi",
-    "title": "The Verge：Claude’s Duet agent is a little neurotic and surprisingly helpful",
-    "summary": "据 The Verge 官方信息，Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with the…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "id": "shield-helps-technicians-hand-off-legacy-portal-work-with-openai-77ndc0",
+    "title": "OpenAI：Shield helps technicians hand off legacy portal work with OpenAI",
+    "summary": "据 OpenAI 官方信息，Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on iss…",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
     "date": "2026-11-13",
-    "category": "大模型",
+    "category": "AI产品",
     "tags": [
       "OpenAI",
-      "Anthropic",
-      "Meta",
-      "Claude"
+      "Agent"
     ],
     "featured": false
   },
@@ -82,20 +96,6 @@
       "Gemini"
     ],
     "featured": false
-  },
-  {
-    "id": "cogent-and-openai-build-cyber-defense-factories-for-enterprises-vltlyd",
-    "title": "OpenAI：Cogent and OpenAI build cyber defense factories for enterprises",
-    "summary": "据 OpenAI 官方信息，Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/cogent-security",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": true
   },
   {
     "id": "google-cloud-launches-gemini-for-healthcare-wnttok",
