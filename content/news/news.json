@@ -1,41 +1,80 @@
 [
   {
-    "id": "the-openai-board-member-who-fired-sam-altman-says-we-still-can-8217-t-tr-ccbpyn",
-    "title": "The Verge：The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "summary": "据 The Verge 官方信息，Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. Thi…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "date": "2026-11-14",
+    "id": "broadening-access-to-ai-for-scientists-79o6tc",
+    "title": "OpenAI：Broadening access to AI for scientists",
+    "summary": "据 OpenAI 官方信息，We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "date": "2026-11-16",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "lvmh-s-media-division-announces-strategic-partnership-with-openai-wha8mb",
+    "title": "OpenAI：LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "据 OpenAI 官方信息，LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through Chat…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "date": "2026-11-16",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Anthropic",
-      "Google",
-      "Meta"
+      "GPT"
     ],
     "featured": true
   },
   {
-    "id": "introducing-chatgpt-wallet-90v11g",
-    "title": "OpenAI：Introducing ChatGPT Wallet",
-    "summary": "据 OpenAI 官方信息，Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing c…",
+    "id": "our-first-phase-of-embedded-assessments-3sq2ws",
+    "title": "OpenAI：Our first phase of embedded assessments",
+    "summary": "据 OpenAI 官方信息，OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safegu…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-chatgpt-wallet",
-    "date": "2026-11-13",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "date": "2026-11-16",
     "category": "大模型",
     "tags": [
-      "GPT",
-      "Agent"
+      "OpenAI"
     ],
     "featured": true
   },
   {
-    "id": "shield-helps-technicians-hand-off-legacy-portal-work-with-openai-77ndc0",
-    "title": "OpenAI：Shield helps technicians hand off legacy portal work with OpenAI",
-    "summary": "据 OpenAI 官方信息，Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on iss…",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/shield",
-    "date": "2026-11-13",
+    "id": "new-ask-maps-features-to-help-with-holiday-travel-and-prep-5n8lj9",
+    "title": "Google：New Ask Maps features to help with holiday travel and prep",
+    "summary": "据 Google 官方信息，Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "date": "2026-11-16",
+    "category": "AI产品",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "show-hn-my-oss-claude-meetings-alternative-that-works-with-any-agent-or--ujahzf",
+    "title": "Hacker News：Show HN: My OSS Claude Meetings alternative that works with any agent or call",
+    "summary": "据 Hacker News 官方信息，Since February, I've been developing an agent-in-calls solution with a friend. With the announcement of Claude Meetings last week, it's now …",
+    "source": "Hacker News",
+    "url": "https://github.com/wanderingstan/vibeconf-app/",
+    "date": "2026-11-16",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Google",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "california-state-ag-sues-openai-over-rogue-agent-incidents-yggj8w",
+    "title": "TechCrunch：California state AG sues OpenAI over rogue agent incidents",
+    "summary": "据 TechCrunch 官方信息，The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "date": "2026-11-16",
     "category": "AI产品",
     "tags": [
       "OpenAI",
@@ -44,18 +83,31 @@
     "featured": false
   },
   {
-    "id": "how-amplitude-ships-product-improvements-in-1-2-days-with-openai-59ljd8",
-    "title": "OpenAI：How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "summary": "据 OpenAI 官方信息，Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding …",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/amplitude",
-    "date": "2026-11-12",
+    "id": "openai-will-embed-safety-researchers-to-investigate-ai-subversion-h4jyf0",
+    "title": "TechCrunch：OpenAI will embed safety researchers to investigate AI subversion",
+    "summary": "据 TechCrunch 官方信息，OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on acc…",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "date": "2026-11-16",
+    "category": "大模型",
+    "tags": [
+      "OpenAI"
+    ],
+    "featured": false
+  },
+  {
+    "id": "openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-cs-alakv1",
+    "title": "TechCrunch：OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "summary": "据 TechCrunch 官方信息，ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "date": "2026-11-16",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Agent"
+      "GPT"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-ldfil1",
@@ -72,65 +124,12 @@
     "featured": false
   },
   {
-    "id": "introducing-gemini-4-hydrogen-hbu3h5",
-    "title": "Google DeepMind：Introducing Gemini 4 Hydrogen",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Hydrogen",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "date": "2026-11-12",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
     "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-x49d78",
     "title": "Google：Gemini Decisions API: Fast, calibrated multimodal decisions",
     "summary": "据 Google 官方信息，Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
     "source": "Google",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "date": "2026-11-11",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-cloud-launches-gemini-for-healthcare-wnttok",
-    "title": "Google：Google Cloud launches Gemini for healthcare.",
-    "summary": "据 Google 官方信息，Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-4-carbon-is-now-available-yzwus9",
-    "title": "Google DeepMind：Gemini 4 Carbon is now available",
-    "summary": "据 Google DeepMind 官方信息，Gemini 4 Carbon is now available",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-    "date": "2026-11-10",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-robotics-2-5-accelerates-real-world-general-dexterity-rwbjjw",
-    "title": "Google DeepMind：Gemini Robotics 2.5 accelerates real-world general dexterity",
-    "summary": "据 Google DeepMind 官方信息，Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-    "date": "2026-11-09",
     "category": "大模型",
     "tags": [
       "Gemini"
