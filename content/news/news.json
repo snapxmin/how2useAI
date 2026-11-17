@@ -1,5 +1,76 @@
 [
   {
+    "id": "astra-for-law-leads-in-legal-intelligence-wqr0d8",
+    "title": "OpenAI：Astra for Law leads in legal intelligence",
+    "summary": "据 OpenAI 官方信息，Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "date": "2026-11-17",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "put-gemini-to-work-for-you-mq0re8",
+    "title": "Google：Put Gemini to work for you",
+    "summary": "据 Google 官方信息，Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to ge…",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "date": "2026-11-17",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-s-spark-ai-agent-becomes-tasks-and-now-it-s-free-ezatdj",
+    "title": "The Verge：Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+    "summary": "据 The Verge 官方信息，You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as \"Tasks\" and making it free …",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+    "date": "2026-11-17",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "microsoft-unveils-ai-models-for-coding-cybersecurity-bzkbnq",
+    "title": "Hacker News：Microsoft unveils AI models for coding, cybersecurity",
+    "summary": "据 Hacker News 官方信息，Article URL: https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/…",
+    "source": "Hacker News",
+    "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/",
+    "date": "2026-11-17",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Microsoft"
+    ],
+    "featured": false
+  },
+  {
+    "id": "proton-s-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrive-5lpcvr",
+    "title": "TechCrunch：Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "summary": "据 TechCrunch 官方信息，Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls …",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "date": "2026-11-17",
+    "category": "大模型",
+    "tags": [
+      "GPT",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
     "id": "broadening-access-to-ai-for-scientists-79o6tc",
     "title": "OpenAI：Broadening access to AI for scientists",
     "summary": "据 OpenAI 官方信息，We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
@@ -13,25 +84,11 @@
     "featured": true
   },
   {
-    "id": "lvmh-s-media-division-announces-strategic-partnership-with-openai-wha8mb",
-    "title": "OpenAI：LVMH’s Media Division announces strategic partnership with OpenAI",
-    "summary": "据 OpenAI 官方信息，LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through Chat…",
+    "id": "how-revolut-raises-ambition-without-lowering-the-bar-5ef3x4",
+    "title": "OpenAI：How Revolut raises ambition without lowering the bar",
+    "summary": "据 OpenAI 官方信息，Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without c…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/lvmh-media-division-partnership",
-    "date": "2026-11-16",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "our-first-phase-of-embedded-assessments-3sq2ws",
-    "title": "OpenAI：Our first phase of embedded assessments",
-    "summary": "据 OpenAI 官方信息，OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safegu…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "url": "https://openai.com/business/customer-stories/revolut",
     "date": "2026-11-16",
     "category": "大模型",
     "tags": [
@@ -53,73 +110,17 @@
     "featured": false
   },
   {
-    "id": "show-hn-my-oss-claude-meetings-alternative-that-works-with-any-agent-or--ujahzf",
-    "title": "Hacker News：Show HN: My OSS Claude Meetings alternative that works with any agent or call",
-    "summary": "据 Hacker News 官方信息，Since February, I've been developing an agent-in-calls solution with a friend. With the announcement of Claude Meetings last week, it's now …",
-    "source": "Hacker News",
-    "url": "https://github.com/wanderingstan/vibeconf-app/",
+    "id": "california-sues-openai-over-rogue-ai-hacking-incidents-x4ze6s",
+    "title": "The Verge：California sues OpenAI over rogue AI hacking incidents",
+    "summary": "据 The Verge 官方信息，California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
     "date": "2026-11-16",
     "category": "大模型",
     "tags": [
       "OpenAI",
-      "Google",
-      "Claude",
+      "Hugging Face",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "california-state-ag-sues-openai-over-rogue-agent-incidents-yggj8w",
-    "title": "TechCrunch：California state AG sues OpenAI over rogue agent incidents",
-    "summary": "据 TechCrunch 官方信息，The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "date": "2026-11-16",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-will-embed-safety-researchers-to-investigate-ai-subversion-h4jyf0",
-    "title": "TechCrunch：OpenAI will embed safety researchers to investigate AI subversion",
-    "summary": "据 TechCrunch 官方信息，OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on acc…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-    "date": "2026-11-16",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
-    "id": "openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-cs-alakv1",
-    "title": "TechCrunch：OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "summary": "据 TechCrunch 官方信息，ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-    "date": "2026-11-16",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "GPT"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-search-gets-a-major-upgrade-with-gemini-4-hydrogen-ldfil1",
-    "title": "Google：Google Search gets a major upgrade with Gemini 4 Hydrogen",
-    "summary": "据 Google 官方信息，We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-    "date": "2026-11-12",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
     ],
     "featured": false
   },
