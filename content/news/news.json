@@ -1,5 +1,76 @@
 [
   {
+    "id": "advancing-chip-design-with-openai-models-3vzr7m",
+    "title": "OpenAI：Advancing chip design with OpenAI models",
+    "summary": "据 OpenAI 官方信息，OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "date": "2026-11-18",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "le-groupe-figaro-and-openai-partner-to-bring-le-figaro-journalism-to-cha-rthe83",
+    "title": "OpenAI：Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "据 OpenAI 官方信息，Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original storie…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "date": "2026-11-18",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "the-gemini-app-is-now-available-on-lower-memory-android-devices-lhl9c9",
+    "title": "Google：The Gemini app is now available on lower-memory Android devices.",
+    "summary": "据 Google 官方信息，The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the ap…",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "date": "2026-11-18",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "genie-4-is-now-available-3c40eq",
+    "title": "Google DeepMind：Genie 4 is now available",
+    "summary": "据 Google DeepMind 官方信息，Genie 4 is now available",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "date": "2026-11-18",
+    "category": "行业动态",
+    "tags": [
+      "Google DeepMind"
+    ],
+    "featured": false
+  },
+  {
+    "id": "remember-the-frontier-ai-pause-chip-companies-don-t-either-yywn98",
+    "title": "The Verge：Remember the frontier AI pause? Chip companies don’t either",
+    "summary": "据 The Verge 官方信息，Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s his…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "date": "2026-11-18",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Hugging Face",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "astra-for-law-leads-in-legal-intelligence-wqr0d8",
     "title": "OpenAI：Astra for Law leads in legal intelligence",
     "summary": "据 OpenAI 官方信息，Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
@@ -42,61 +113,6 @@
     "featured": false
   },
   {
-    "id": "microsoft-unveils-ai-models-for-coding-cybersecurity-bzkbnq",
-    "title": "Hacker News：Microsoft unveils AI models for coding, cybersecurity",
-    "summary": "据 Hacker News 官方信息，Article URL: https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/…",
-    "source": "Hacker News",
-    "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/",
-    "date": "2026-11-17",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Microsoft"
-    ],
-    "featured": false
-  },
-  {
-    "id": "proton-s-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrive-5lpcvr",
-    "title": "TechCrunch：Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-    "summary": "据 TechCrunch 官方信息，Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls …",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-    "date": "2026-11-17",
-    "category": "大模型",
-    "tags": [
-      "GPT",
-      "Claude"
-    ],
-    "featured": false
-  },
-  {
-    "id": "broadening-access-to-ai-for-scientists-79o6tc",
-    "title": "OpenAI：Broadening access to AI for scientists",
-    "summary": "据 OpenAI 官方信息，We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "date": "2026-11-16",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "how-revolut-raises-ambition-without-lowering-the-bar-5ef3x4",
-    "title": "OpenAI：How Revolut raises ambition without lowering the bar",
-    "summary": "据 OpenAI 官方信息，Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without c…",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/revolut",
-    "date": "2026-11-16",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": true
-  },
-  {
     "id": "new-ask-maps-features-to-help-with-holiday-travel-and-prep-5n8lj9",
     "title": "Google：New Ask Maps features to help with holiday travel and prep",
     "summary": "据 Google 官方信息，Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
@@ -110,27 +126,12 @@
     "featured": false
   },
   {
-    "id": "california-sues-openai-over-rogue-ai-hacking-incidents-x4ze6s",
-    "title": "The Verge：California sues OpenAI over rogue AI hacking incidents",
-    "summary": "据 The Verge 官方信息，California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-    "date": "2026-11-16",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Hugging Face",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "gemini-decisions-api-fast-calibrated-multimodal-decisions-x49d78",
-    "title": "Google：Gemini Decisions API: Fast, calibrated multimodal decisions",
-    "summary": "据 Google 官方信息，Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-    "date": "2026-11-11",
+    "id": "introducing-gemini-4-hydrogen-hbu3h5",
+    "title": "Google DeepMind：Introducing Gemini 4 Hydrogen",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Hydrogen",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "date": "2026-11-12",
     "category": "大模型",
     "tags": [
       "Gemini"
