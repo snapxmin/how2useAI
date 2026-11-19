@@ -1,5 +1,61 @@
 [
   {
+    "id": "how-openai-s-performance-factory-keeps-chatgpt-fast-x1q0bp",
+    "title": "OpenAI：How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "summary": "据 OpenAI 官方信息，Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep Cha…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "date": "2026-11-19",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "introducing-tool-retrieval-in-the-gemini-api-wfw1ek",
+    "title": "Google：Introducing Tool Retrieval in the Gemini API",
+    "summary": "据 Google 官方信息，Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "date": "2026-11-19",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "walter-isaacson-on-curiosity-and-creativity-in-the-ai-age-b4hyao",
+    "title": "Google：Walter Isaacson on curiosity and creativity in the AI age.",
+    "summary": "据 Google 官方信息，Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the epi…",
+    "source": "Google",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "date": "2026-11-19",
+    "category": "行业动态",
+    "tags": [
+      "Google"
+    ],
+    "featured": false
+  },
+  {
+    "id": "google-gives-gemini-the-ability-to-use-your-mac-for-you-9kkoih",
+    "title": "TechCrunch：Google gives Gemini the ability to use your Mac for you",
+    "summary": "据 TechCrunch 官方信息，Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "date": "2026-11-19",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "advancing-chip-design-with-openai-models-3vzr7m",
     "title": "OpenAI：Advancing chip design with OpenAI models",
     "summary": "据 OpenAI 官方信息，OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with…",
@@ -14,18 +70,18 @@
     "featured": true
   },
   {
-    "id": "le-groupe-figaro-and-openai-partner-to-bring-le-figaro-journalism-to-cha-rthe83",
-    "title": "OpenAI：Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "summary": "据 OpenAI 官方信息，Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original storie…",
+    "id": "research-acceleration-the-jagged-frontier-z7npcf",
+    "title": "OpenAI：Research acceleration: The jagged frontier",
+    "summary": "据 OpenAI 官方信息，OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursiv…",
     "source": "OpenAI",
-    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
     "date": "2026-11-18",
-    "category": "大模型",
+    "category": "AI产品",
     "tags": [
       "OpenAI",
-      "GPT"
+      "Agent"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "the-gemini-app-is-now-available-on-lower-memory-android-devices-lhl9c9",
@@ -42,6 +98,19 @@
     "featured": false
   },
   {
+    "id": "introducing-gemini-4-neon-5flagh",
+    "title": "Google DeepMind：Introducing Gemini 4 Neon",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "date": "2026-11-18",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
     "id": "genie-4-is-now-available-3c40eq",
     "title": "Google DeepMind：Genie 4 is now available",
     "summary": "据 Google DeepMind 官方信息，Genie 4 is now available",
@@ -51,77 +120,6 @@
     "category": "行业动态",
     "tags": [
       "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "remember-the-frontier-ai-pause-chip-companies-don-t-either-yywn98",
-    "title": "The Verge：Remember the frontier AI pause? Chip companies don’t either",
-    "summary": "据 The Verge 官方信息，Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s his…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-    "date": "2026-11-18",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Anthropic",
-      "Hugging Face",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "astra-for-law-leads-in-legal-intelligence-wqr0d8",
-    "title": "OpenAI：Astra for Law leads in legal intelligence",
-    "summary": "据 OpenAI 官方信息，Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/astra-law-6-2",
-    "date": "2026-11-17",
-    "category": "大模型",
-    "tags": [
-      "GPT"
-    ],
-    "featured": true
-  },
-  {
-    "id": "put-gemini-to-work-for-you-mq0re8",
-    "title": "Google：Put Gemini to work for you",
-    "summary": "据 Google 官方信息，Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to ge…",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-    "date": "2026-11-17",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "google-s-spark-ai-agent-becomes-tasks-and-now-it-s-free-ezatdj",
-    "title": "The Verge：Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-    "summary": "据 The Verge 官方信息，You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as \"Tasks\" and making it free …",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-    "date": "2026-11-17",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "new-ask-maps-features-to-help-with-holiday-travel-and-prep-5n8lj9",
-    "title": "Google：New Ask Maps features to help with holiday travel and prep",
-    "summary": "据 Google 官方信息，Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
-    "source": "Google",
-    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-    "date": "2026-11-16",
-    "category": "AI产品",
-    "tags": [
-      "Google"
     ],
     "featured": false
   },
