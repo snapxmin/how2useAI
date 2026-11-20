@@ -1,5 +1,50 @@
 [
   {
+    "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac-6ii11u",
+    "title": "TechCrunch：Apple may be developing its own AI agent that runs your Mac",
+    "summary": "据 TechCrunch 官方信息，The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "date": "2026-11-20",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Meta",
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "anthropic-mathematician-claims-to-have-solved-prestigious-millennium-pri-b3z9tj",
+    "title": "The Verge：Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "summary": "据 The Verge 官方信息，Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann h…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "date": "2026-11-20",
+    "category": "大模型",
+    "tags": [
+      "OpenAI",
+      "Anthropic",
+      "Claude"
+    ],
+    "featured": false
+  },
+  {
+    "id": "signal-is-blocking-gemini-and-siri-ai-from-reading-your-screen-5qv48b",
+    "title": "The Verge：Signal is blocking Gemini and Siri AI from reading your screen",
+    "summary": "据 The Verge 官方信息，Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Sig…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "date": "2026-11-20",
+    "category": "大模型",
+    "tags": [
+      "Gemini",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "how-openai-s-performance-factory-keeps-chatgpt-fast-x1q0bp",
     "title": "OpenAI：How OpenAI’s Performance Factory keeps ChatGPT fast",
     "summary": "据 OpenAI 官方信息，Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep Cha…",
@@ -41,17 +86,18 @@
     "featured": false
   },
   {
-    "id": "google-gives-gemini-the-ability-to-use-your-mac-for-you-9kkoih",
-    "title": "TechCrunch：Google gives Gemini the ability to use your Mac for you",
-    "summary": "据 TechCrunch 官方信息，Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "id": "apple-is-hiring-engineers-to-build-its-own-ai-agent-gnwe8x",
+    "title": "The Verge：Apple is hiring engineers to build its own AI agent",
+    "summary": "据 The Verge 官方信息，Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing cod…",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "date": "2026-11-19",
     "category": "大模型",
     "tags": [
+      "OpenAI",
+      "Anthropic",
       "Google",
-      "Gemini",
-      "Agent"
+      "Meta"
     ],
     "featured": false
   },
@@ -93,45 +139,6 @@
     "category": "大模型",
     "tags": [
       "Google",
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-gemini-4-neon-5flagh",
-    "title": "Google DeepMind：Introducing Gemini 4 Neon",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Neon",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-    "date": "2026-11-18",
-    "category": "大模型",
-    "tags": [
-      "Gemini"
-    ],
-    "featured": false
-  },
-  {
-    "id": "genie-4-is-now-available-3c40eq",
-    "title": "Google DeepMind：Genie 4 is now available",
-    "summary": "据 Google DeepMind 官方信息，Genie 4 is now available",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-    "date": "2026-11-18",
-    "category": "行业动态",
-    "tags": [
-      "Google DeepMind"
-    ],
-    "featured": false
-  },
-  {
-    "id": "introducing-gemini-4-hydrogen-hbu3h5",
-    "title": "Google DeepMind：Introducing Gemini 4 Hydrogen",
-    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Hydrogen",
-    "source": "Google DeepMind",
-    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-    "date": "2026-11-12",
-    "category": "大模型",
-    "tags": [
       "Gemini"
     ],
     "featured": false
