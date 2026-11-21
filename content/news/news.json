@@ -1,48 +1,32 @@
 [
   {
-    "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac-6ii11u",
-    "title": "TechCrunch：Apple may be developing its own AI agent that runs your Mac",
-    "summary": "据 TechCrunch 官方信息，The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "date": "2026-11-20",
-    "category": "大模型",
-    "tags": [
-      "OpenAI",
-      "Meta",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "anthropic-mathematician-claims-to-have-solved-prestigious-millennium-pri-b3z9tj",
-    "title": "The Verge：Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-    "summary": "据 The Verge 官方信息，Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann h…",
+    "id": "can-anthropic-afford-to-put-safety-first-gmmi5w",
+    "title": "The Verge：Can Anthropic afford to put safety first?",
+    "summary": "据 The Verge 官方信息，Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series …",
     "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-    "date": "2026-11-20",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "date": "2026-11-21",
     "category": "大模型",
     "tags": [
       "OpenAI",
       "Anthropic",
-      "Claude"
+      "Google",
+      "Meta"
     ],
     "featured": false
   },
   {
-    "id": "signal-is-blocking-gemini-and-siri-ai-from-reading-your-screen-5qv48b",
-    "title": "The Verge：Signal is blocking Gemini and Siri AI from reading your screen",
-    "summary": "据 The Verge 官方信息，Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Sig…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "id": "combatting-adversarial-distillation-4drpku",
+    "title": "OpenAI：Combatting adversarial distillation",
+    "summary": "据 OpenAI 官方信息，OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against cap…",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
     "date": "2026-11-20",
     "category": "大模型",
     "tags": [
-      "Gemini",
-      "Agent"
+      "OpenAI"
     ],
-    "featured": false
+    "featured": true
   },
   {
     "id": "how-openai-s-performance-factory-keeps-chatgpt-fast-x1q0bp",
@@ -70,7 +54,7 @@
       "Gemini",
       "Agent"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "walter-isaacson-on-curiosity-and-creativity-in-the-ai-age-b4hyao",
@@ -116,20 +100,6 @@
     "featured": true
   },
   {
-    "id": "research-acceleration-the-jagged-frontier-z7npcf",
-    "title": "OpenAI：Research acceleration: The jagged frontier",
-    "summary": "据 OpenAI 官方信息，OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursiv…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "date": "2026-11-18",
-    "category": "AI产品",
-    "tags": [
-      "OpenAI",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "the-gemini-app-is-now-available-on-lower-memory-android-devices-lhl9c9",
     "title": "Google：The Gemini app is now available on lower-memory Android devices.",
     "summary": "据 Google 官方信息，The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the ap…",
@@ -140,6 +110,32 @@
     "tags": [
       "Google",
       "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "introducing-gemini-4-neon-5flagh",
+    "title": "Google DeepMind：Introducing Gemini 4 Neon",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "date": "2026-11-18",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
+    ],
+    "featured": false
+  },
+  {
+    "id": "genie-4-is-now-available-3c40eq",
+    "title": "Google DeepMind：Genie 4 is now available",
+    "summary": "据 Google DeepMind 官方信息，Genie 4 is now available",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "date": "2026-11-18",
+    "category": "行业动态",
+    "tags": [
+      "Google DeepMind"
     ],
     "featured": false
   }
