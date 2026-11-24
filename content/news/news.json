@@ -1,5 +1,46 @@
 [
   {
+    "id": "how-ifood-scales-coding-agents-across-15-000-repositories-mzpxu8",
+    "title": "OpenAI：How iFood scales coding agents across 15,000 repositories",
+    "summary": "据 OpenAI 官方信息，How iFood scales coding agents across 15,000 repositories",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "date": "2026-11-24",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": true
+  },
+  {
+    "id": "how-gemini-is-changing-the-game-for-golden-state-s-organization-and-fans-ajt1ke",
+    "title": "Google：How Gemini is changing the game for Golden State's organization and fans.",
+    "summary": "据 Google 官方信息，Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See…",
+    "source": "Google",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "date": "2026-11-24",
+    "category": "大模型",
+    "tags": [
+      "Google",
+      "Gemini"
+    ],
+    "featured": true
+  },
+  {
+    "id": "show-hn-wakeshift-open-source-mcp-events-for-claude-code-codex-and-more-ph7l0i",
+    "title": "Hacker News：Show HN: Wakeshift – Open-Source MCP Events for Claude Code, Codex and More",
+    "summary": "据 Hacker News 官方信息，tl;dr: We just open-sourced Wakeshift, which lets any MCP server serve interoperable events via MCP Events or harness-specific bridges. This…",
+    "source": "Hacker News",
+    "url": "https://github.com/wakeshift/server",
+    "date": "2026-11-24",
+    "category": "大模型",
+    "tags": [
+      "Claude",
+      "Agent"
+    ],
+    "featured": false
+  },
+  {
     "id": "richpanel-helps-companies-automate-50-of-support-in-30-days-v4nvrd",
     "title": "OpenAI：Richpanel helps companies automate 50% of support in 30 days",
     "summary": "据 OpenAI 官方信息，Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
@@ -14,17 +55,17 @@
     "featured": true
   },
   {
-    "id": "connected-intelligence-for-in-house-legal-ep6ufh",
-    "title": "OpenAI：Connected intelligence for in-house legal",
-    "summary": "据 OpenAI 官方信息，Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams…",
+    "id": "openai-and-cisco-introduce-shirudo-xdkpk7",
+    "title": "OpenAI：OpenAI and Cisco introduce Shirudo",
+    "summary": "据 OpenAI 官方信息，OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
     "source": "OpenAI",
-    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "url": "https://openai.com/index/introducing-shirudo",
     "date": "2026-11-23",
-    "category": "行业动态",
+    "category": "开源",
     "tags": [
       "OpenAI"
     ],
-    "featured": true
+    "featured": false
   },
   {
     "id": "a-more-tailored-google-search-that-s-uniquely-yours-3k6ha2",
@@ -38,7 +79,20 @@
       "Google",
       "Gemini"
     ],
-    "featured": true
+    "featured": false
+  },
+  {
+    "id": "finding-faster-quantum-algorithms-with-agents-and-formal-verification-hh6mb7",
+    "title": "Google DeepMind：Finding faster quantum algorithms with agents and formal verification",
+    "summary": "据 Google DeepMind 官方信息，Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "date": "2026-11-23",
+    "category": "AI产品",
+    "tags": [
+      "Agent"
+    ],
+    "featured": false
   },
   {
     "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve--hf0o5q",
@@ -71,45 +125,6 @@
     "featured": false
   },
   {
-    "id": "how-to-build-and-maintain-an-agentic-evaluation-lw5w44",
-    "title": "Hugging Face：How to build and maintain an agentic evaluation",
-    "summary": "据 Hugging Face 官方信息，How to build and maintain an agentic evaluation",
-    "source": "Hugging Face",
-    "url": "https://huggingface.co/blog/agentic-evals",
-    "date": "2026-11-23",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into--va0sxj",
-    "title": "TechCrunch：Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-    "summary": "据 TechCrunch 官方信息，Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-    "date": "2026-11-23",
-    "category": "AI产品",
-    "tags": [
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "perplexity-and-intelligence-jwwauw",
-    "title": "OpenAI：Perplexity and Intelligence",
-    "summary": "据 OpenAI 官方信息，How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilit…",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/perplexity-and-intelligence",
-    "date": "2026-11-22",
-    "category": "大模型",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
-  },
-  {
     "id": "introducing-tool-retrieval-in-the-gemini-api-wfw1ek",
     "title": "Google：Introducing Tool Retrieval in the Gemini API",
     "summary": "据 Google 官方信息，Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
@@ -120,20 +135,6 @@
     "tags": [
       "Gemini",
       "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "the-gemini-app-is-now-available-on-lower-memory-android-devices-lhl9c9",
-    "title": "Google：The Gemini app is now available on lower-memory Android devices.",
-    "summary": "据 Google 官方信息，The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the ap…",
-    "source": "Google",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-    "date": "2026-11-18",
-    "category": "大模型",
-    "tags": [
-      "Google",
-      "Gemini"
     ],
     "featured": false
   }
