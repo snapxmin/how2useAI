@@ -1,14 +1,41 @@
 [
   {
-    "id": "how-ifood-scales-coding-agents-across-15-000-repositories-mzpxu8",
-    "title": "OpenAI：How iFood scales coding agents across 15,000 repositories",
-    "summary": "据 OpenAI 官方信息，How iFood scales coding agents across 15,000 repositories",
-    "source": "OpenAI",
-    "url": "https://openai.com/business/customer-stories/ifood",
-    "date": "2026-11-24",
-    "category": "AI产品",
+    "id": "openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat--konmf7",
+    "title": "TechCrunch：OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "summary": "据 TechCrunch 官方信息，OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "date": "2026-11-25",
+    "category": "大模型",
     "tags": [
-      "Agent"
+      "OpenAI",
+      "GPT"
+    ],
+    "featured": false
+  },
+  {
+    "id": "gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-qy54yo",
+    "title": "OpenAI：GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "summary": "据 OpenAI 官方信息，GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "date": "2026-11-24",
+    "category": "大模型",
+    "tags": [
+      "GPT"
+    ],
+    "featured": true
+  },
+  {
+    "id": "clay-helps-sales-teams-win-with-codex-and-chatgpt-s8ankc",
+    "title": "OpenAI：Clay helps sales teams win with Codex and ChatGPT",
+    "summary": "据 OpenAI 官方信息，ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reason…",
+    "source": "OpenAI",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "date": "2026-11-24",
+    "category": "大模型",
+    "tags": [
+      "GPT"
     ],
     "featured": true
   },
@@ -24,19 +51,18 @@
       "Google",
       "Gemini"
     ],
-    "featured": true
+    "featured": false
   },
   {
-    "id": "show-hn-wakeshift-open-source-mcp-events-for-claude-code-codex-and-more-ph7l0i",
-    "title": "Hacker News：Show HN: Wakeshift – Open-Source MCP Events for Claude Code, Codex and More",
-    "summary": "据 Hacker News 官方信息，tl;dr: We just open-sourced Wakeshift, which lets any MCP server serve interoperable events via MCP Events or harness-specific bridges. This…",
-    "source": "Hacker News",
-    "url": "https://github.com/wakeshift/server",
+    "id": "from-spectrum-to-structure-identifying-molecules-with-mass-spec-skills-f-6r54we",
+    "title": "Google DeepMind：From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "summary": "据 Google DeepMind 官方信息，Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
     "date": "2026-11-24",
-    "category": "大模型",
+    "category": "行业动态",
     "tags": [
-      "Claude",
-      "Agent"
+      "Google"
     ],
     "featured": false
   },
@@ -53,19 +79,6 @@
       "Agent"
     ],
     "featured": true
-  },
-  {
-    "id": "openai-and-cisco-introduce-shirudo-xdkpk7",
-    "title": "OpenAI：OpenAI and Cisco introduce Shirudo",
-    "summary": "据 OpenAI 官方信息，OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
-    "source": "OpenAI",
-    "url": "https://openai.com/index/introducing-shirudo",
-    "date": "2026-11-23",
-    "category": "开源",
-    "tags": [
-      "OpenAI"
-    ],
-    "featured": false
   },
   {
     "id": "a-more-tailored-google-search-that-s-uniquely-yours-3k6ha2",
@@ -95,36 +108,6 @@
     "featured": false
   },
   {
-    "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve--hf0o5q",
-    "title": "TechCrunch：Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-    "summary": "据 TechCrunch 官方信息，As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approval…",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-    "date": "2026-11-23",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
-    "id": "claude-ai-can-review-pull-requests-and-ship-fixes-on-its-own-now-nv955q",
-    "title": "The Verge：Claude AI can review pull requests and ship fixes on its own now",
-    "summary": "据 The Verge 官方信息，Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announce…",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-    "date": "2026-11-23",
-    "category": "大模型",
-    "tags": [
-      "Anthropic",
-      "Claude",
-      "Agent"
-    ],
-    "featured": false
-  },
-  {
     "id": "introducing-tool-retrieval-in-the-gemini-api-wfw1ek",
     "title": "Google：Introducing Tool Retrieval in the Gemini API",
     "summary": "据 Google 官方信息，Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
@@ -135,6 +118,19 @@
     "tags": [
       "Gemini",
       "Agent"
+    ],
+    "featured": false
+  },
+  {
+    "id": "introducing-gemini-4-neon-5flagh",
+    "title": "Google DeepMind：Introducing Gemini 4 Neon",
+    "summary": "据 Google DeepMind 官方信息，Introducing Gemini 4 Neon",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+    "date": "2026-11-18",
+    "category": "大模型",
+    "tags": [
+      "Gemini"
     ],
     "featured": false
   }
